@@ -1,0 +1,353 @@
+
+
+=== PAGE 261 ===
+
+Chapter 14 Avoiding A Typical Mistake 243
+Chart 14-3 shows the ultra-simple D-Level yearly series on this slice of the southern
+California real estate market. With more data, we could include more reaction lows. But,
+this is a yearly chart and we're only looking for the major Fibnodes.
+
+=== PAGE 262 ===
+
+244 DiNapoli Levels
+The reaction of price back to $170,000 in the early to mid 90s, only met the major .382
+Node. Values stayed considerably above the .382 primary Node at $142,420. Where's
+the problem? Throughout the early '90s, I encouraged friends, relations, and business
+associates to go long Orange County real estate. Very few did - they could not see the
+support so apparent to someone schooled in Fibonacci Retracement analysis. This down
+move was just a normal correction! Those who took the speculation have some solid
+equity now!
+It's interesting to note that the low was supported not only by the Node off the Major
+Reaction, but also by rental income - in other words, what the house could earn to pay a
+typical mortgage. When farm land crashed from inflation's highs, it also returned to an
+economically viable level, i.e. what the land could reasonably expect to produce. I didn't
+do the analysis, but I would expect the price decreased to the vicinity of the Primary
+Node.
+Where do we go from here? The reaction down to $170,000 has given us a new place
+from which to calculate an expansion. I'll leave it to you to calculate the OP, but that's
+where I think we're going, if we can overcome the resistance Nodes (not shown), formed
+from the "recent" down leg.
+While we're on the subject of long term charts and Major Reactions within the context of
+a continuing up trend, let's see the example of the Dow Jones Industrials experiencing a
+500 point, one day drop and a multiple week drop of over 1,000 points. Consider the
+following D-Level series shown in the FibNodes™ printout on the next page and first
+depicted graphically in CHAPTER 11.
+
+=== PAGE 263 ===
+
+Chapter 14 Avoiding A Typical Mistake 245
+
+=== PAGE 264 ===
+
+246 DiNapoli Levels
+We just reacted back to the '*' .382 Node, which was also a Confluence area! Price
+stayed within the context of a normal correction.
+A QUESTION
+Joe, you can always go back in lime and get lower reaction lows! So what's a Primary
+Reaction and what isn't?
+Part of the answer to your question entails bookkeeping or organization and part of it is
+understanding how Time Frame(s) impact your trading decisions.
+While it is not true that you can always find lower reaction lows by going back further in
+time (the bonds saw their lows in 1981), it is true that by looking at larger Time Frames or
+compressing your data, it may be possible to locate deeper retracements than shown on
+your (default) screen. Here's how to handle this situation. Pre-calculate a Fibnode series
+for all Time Frames above those you are dealing with, as well as the one you are dealing
+with. If you are an hourly player for example, have the daily, weekly, and monthly series
+organized. That means have a printed copy attached to a clipboard, labeled for that
+instrument, and readily available. The charts should be appropriately marked by use of the
+divider. You should also have these series as computer files in the software you're using.
+(This software should have a "paging" feature to keep your files properly organized).
+Each file, as well as each printed chart, can have its own Lineage Markings independent
+of (he higher Time Frame files. In our example of the bonds, I would have left the
+original FibNodes™ printout BDMOPA2 as it was and I would have had a quarterly or
+yearly file, with its own Primary and First Reaction Lineage Markings. The reason that
+trading the lower Time Frames is so demanding is because you must know what the Time
+Frames higher than those you are trading are telling you. There's a lot to keep up with!
+While it is extremely unlikely you'll be reaching a weekly '*'.382 Node when you're
+trading a five minute chart, it is not unlikely that an hourly or daily '*'.382 Node will
+affect your decisions. Be myopic at your own risk. Don't spend all you time looking for
+potholes while simultaneously ignoring the bridge that may be washed out just a little
+ahead.
+Illustration of the above discussion would require copious examples and a huge amount of
+space. It is one of those areas best left to a classroom setting or repeated application by
+the individual trader.
+
+=== PAGE 265 ===
+
+CHAPTER
+MORE MARKET EXAMPLES
+A LONG TERM SOYBEAN MEAL TRADE:
+Now let's consider a longer term trade in Soybean Meal. The approach outlined can help
+you uncover trades that are big winners over a period of months, not just over the next 15
+minutes.
+GENERAL DISCUSSION:
+It's my habit to look over the weekly and monthly continuation charts of about 20 futures
+contracts, during the weekend. The markets are closed and I can get an objective,
+uncluttered viewpoint. I look primarily for Directional Indicators, major D-Levels, and of
+course! also look at the Trend indicators. In addition to determining the Trend, I look to
+see if there is acceleration of price, or thrust, through any of the DMAs I use, particularly
+the 25X5. If there is, I take notice. Strong thrust through the 25X5 on a continuation
+chart, particularly after a quiet period, often signifies a major move is on the way.
+CONTEXT:
+As I was paging my way through my continuation charts, I saw Chart 15-1 and became
+really excited. Here's what caught my attention.
+
+=== PAGE 266 ===
+
+248 DiNapoli Levels
+CHART 15-1
+26 Apr 97 08:13:35 Updated: 00/00/0000 0.618 1.618
+Point Value Objective Points File SMNWK2
+A = 24900 COP = 17598
+B = 18700 OP = 15230
+0 = 21430 XOP = 11398
+Copyright (c) 1996 CIS, Inc.
+Consider the A, B, C expansion depicted in Chart 15-1 and in the accompanying
+FibNodes™ printout. The OP move down was fulfilled and therefore indicated potential
+support, almost exactly where it was when I first observed the chart. The potential
+support, however, significant as it was, was not strong enough for me to take a position
+even though the weekly MACD supported a long entry (Chart 15-3). Adequate context
+for the trade was still lacking. There were no signs of up Movement or up thrust.
+
+=== PAGE 267 ===
+
+Chapter 15 More Market Examples 249
+I hadn't traded meal since the early 80s. I had all but forgotten it was still traded. When I
+looked at this chart a little longer, however, I remembered that meal seasonally bottomed
+at about this time of year (March). With the additional consideration of seasonally, there
+was enough context for me to want to take a shot at the long side of this market.
+TRADE IMPLEMENTATION:
+Given the long term nature of the trade, the entry was easy. I would simply enter "at the
+market" since I didn't need to worry about getting a few cents off the price. Where to
+place the stop was the problem! There was no sign of support, and the XOP was miles
+away, so I looked for an alternative approach. While I rarely use option strategies, this
+was a natural situation to employ one. Here's what I did. I bought the futures contracts
+"at the market" and bought puts against my position to lock in a maximum loss. I made
+these trades in the July contract so I would have plenty of time for things to go my way.
+For those of you who may be unfamiliar with option strategies, I'll elaborate. The cost of
+the put, whose strike price was near the current market price, was essentially the
+maximum loss I could sustain. That's because the puts gave me the right to sell contracts
+near the price at which I had bought the futures. If the price went up, I would profit on
+the futures and cover the puts. If the price went down I would profit on the put options
+and make up any loss on the long futures position. This type of strategy is called a "beach
+trade." You put it on and go to the beach!
+
+=== PAGE 268 ===
+
+250 DiNapoli Levels
+Shortly after I put on the position, we had a Wash and Rinse and then acceleration of price
+through the 25X5. See Chart 15-2. The MACD/Stochastic combination shown in Chart
+15-3 signaled a buy, so everything was in gear to the up side.
+CHART 15-2
+
+=== PAGE 269 ===
+
+Chapter 15 MoreMarket Examples 251
+CHART 15-3
+Even if you didn't use the more complex option strategy noted above and you knew
+nothing about the seasonals, you should have been ready to get on board. Why? Your
+attention would have been on the Trend indicators, due to the fulfillment of the weekly
+OP. Then, after the Trend signal, the up thrust, arid the Wash arid Rinse, you would have
+taken the first opportunity to enter.
+Let's look at daily July meal Chart 15-4. We're at the same date as pictured in the weekly
+chart above. All we've done is reduce the Time Frame to a daily for a more detailed look.
+The 3X3 is containing the up thrust, after the acceleration through the 25X5. For clarity,
+I've shown only a small portion of the 25X5. To segregate your thinking, I strongly
+recommend you never mix Trend indicators and Fibonacci work on the same chart. I'm
+breaking this rule in Chart 15-4 however, since the D-Level presentation is simple (only
+one Focus and Reaction Number) and I want to economize on space.
+
+=== PAGE 270 ===
+
+252 DiNapoli Levels
+CHART 15-4
+Where was this first opportunity to enter? Just look at the D-Levels after the acceleration
+(or thrust) through the 25x5.
+Your entry would be just above the .382 Node. Your stop would be under the .618 Node.
+This is entry technique Minesweeper A, i.e. after the OP support and up thrust manifested
+on the weekly, you took the first dip to go long. The technique I used was a sophisticated
+Bonsai entry, using the context mentioned above, as well as that of seasonal support. My
+money stop was the cost of the put options.
+Okay, we're long. Now where do we get out? The answer depends on your Time Frame.
+This could easily be a weekly-based trade as it started out for me. In that case, you
+would go to a weekly chart, and generate an OP as the wave developed. You could use
+that OP level as your profit objective. IF you were a daily-based player, you'd go to the
+daily chart to generate a daily-based OP. The second of these possibilities is pictured by
+the A, B, C move on the daily Chart 15-5 and shown numerically on the FibNodes™
+printout below the chart .
+
+=== PAGE 271 ===
+
+CHART 15-5
+26 Apr 97 10:51:34 Updated: 00/00/0000 0.6181.618
+Point Value Objective Points File SMNDA1
+A =15980 COP = 16775
+B = 16700 OP =17050
+C= 16330 XOP =17495
+Copyright (c) 1996 CIS, Inc.
+As it turned out, the XOP was quickly achieved but there was nothing wrong with the nice
+OP profit. Shortly, I will go into detail on why the OP was my choice as an exit, rather
+than the XOP. That's right, we don't always get the high!Chanter I5 More Market Examples 253
+
+=== PAGE 272 ===
+
+254 DiNapoli Levels
+THE TRADE CONTINUES:
+Okay, let's assume we're out at the OP. The D-Level™ series at this point is illustrated
+on Chart 15-6 showing an area of Confluence between 16796 and 16950. The
+accompanying FibNodes printout represents the D-Levels existing at that point in time.
+CHART 15-6
+To reenter this move, it would be prudent to wait for a retracement to Confluence,
+although I'm sure Hyper Hank would have put an order in at the first retracement 17084.
+
+=== PAGE 273 ===
+
+Chapter 15 More Market Examples 255
+26 Apr 97 11:43:39 Updated: 00/00/0000 0.382 0.618
+Focus Number File SMNDA2 Focus# (High for the swing)
+Point Number Support Fib Nodes Point# (Enter highest reaction low first)
+17550
+===> 17084
+===> 16796
+16330
+17550 2
+===> 16950 *
+===> 16580 *
+15980
+Copyright (c) 1996 CIS. Inc.
+If we assume our entry was just above the top end of the Confluence area and our stop
+below the bottom end, we would have been filled and our stop would have remained.
+untouched. Alternatively, it would have been acceptable to put an initial stop under the
+primary .618 Node at 16580 and handle any break of Confluence in the manner
+described under "Advanced_Comments" in the bond Double RePo trade discussed in
+CHAPTER 12. Now we're in and ready for the next up move.
+Below are two Fibnode expansion series: the Fibnode expansion originating from the low
+at 15980 and the second series originating from the low at 16330. Both are valid. See
+Chart 15-7A.
+So, what do we do with six profit objectives ?
+To simplify the discussion, let's consider the second expansion which is producing lower
+profit objectives than the first.
+26 Apr 97 15:42:32 Updated: 00/00/0000 0.618 1.618
+Point Value Objective Points File SMNDA03
+A =15980 COP = 17830
+B = 17550 OP = 18430
+C = 16860 XOP = 19400
+Copyright (c) 1996 CIS, Inc.
+
+=== PAGE 274 ===
+
+256 DiNapoli Levels
+26 Apr 97 15:43:12 Updated: 00/00/0000 0.618 1.618
+Point Value Objective Points File SMNDA5
+A =16330 COP = 17614
+B = 17550 OP = 18080
+C = 16860 XOP = 18834
+Copyright (c) 1996 CIS, Inc.
+CHART 15-7A
+We have three profit objectives to choose from. In hindsight, it's obvious the COP would
+have been the right choice. It would have been my choice before the fact as well. Here's
+why. Remember I was willing to take the OP profit on the first move up from the 15980
+level. For the same reason, I would be conservative and take the COP out of this move.
+When a market breaks down for weeks and months as Soybean Meal did, it usually has
+some difficulty initially coming out of the hole, as overhead supply in cash markets comes
+to bear.
+*
+
+=== PAGE 275 ===
+
+Chapter 15 More Market Examples 257
+Distant profit objectives are initially difficult to achieve and typically there's a '*'.618
+retracement lying somewhere along the line, after the first move up. Later when more
+traders and commercials realize the true structure of the move, we can be more aggressive
+in what we are willing to take out of the market and have more confidence in doing so.
+Now, let's consider the first expansion indicating COP resistance somewhat higher at
+17830. For the same reasons as those just cited, I would take the more conservative COP
+of the second expansion. There is another reason, as well. Take a look at Chart 15-7B.
+CHART 15-7B
+In CHAPTER 7, we discussed taking close in profit objectives, when the market was
+Overbought. The extreme overbought area represented by the 618.90 Detrended
+Oscillator value certainly qualified. That's precisely the situation the market was in as the
+COP profit objective was approached by price!
+
+=== PAGE 276 ===
+
+258 DiNapoli Levels
+THE TRADE CONTINUES:
+After the COP was achieved, and we booked another profit, we finally got to the '*' .618.
+Primary Node, in the form of a retracement down to 16630. Here's where the puts come
+off, and long positions can again be established for the OP move to 18410. This OP move
+is discernible on both daily and weekly charts. Chart 15-8 and the accompanying
+FibNodes printout shows how you arrive at the Fibnode series, while Chart 15-9 shows
+the retracement back to 16630, as well as the expansion to 18410.
+CHART 15-8
+
+=== PAGE 277 ===
+
+Chapter 15 More Market Examples 259
+CHART 15-9
+
+=== PAGE 278 ===
+
+260 DiNapoli Levels
+IMPORTANT POINTS TO NOTE:
+Nowhere in this trade am I interested in playing the short side, even though my techniques
+indicated pretty good places to take a shot at the short side. Why? The percentages
+aren't there. Remember, we're coming out of the hole, after a major weekly OP, a
+seasonal low, and thrust through the DMAs. Why fight all that!
+ADVANCED COMMENTS:
+Trading in hindsight is always easy. Trading decisions based on what you know at the
+present time are what count. Reconsider the first OP profit objective at 17050, in light of
+what was shown on Chart 15-7B. The maximum Overbought oscillator up to that point
+was 315.70. The OP (price) was in that vicinity of overbought when I chose to take a
+profit. In hindsight, the market went to roughly double that value, but I didn't know that
+it would, even though the context for the trade suggested that it might. Once the previous
+oscillator value was achieved, I had an additional reason for getting long this market by
+using "Special Applications of the Detrended Oscillator" Strategy 5, in CHAPTER 7.
+Later in this example, I was willing to take the COP out at 17614. I was looking at the
+new overbought extreme of 618.90, not the old value of 315.70!
+Note that my second trade entry just above the top end of Confluence at 16950 was very
+close to my initial exit at the 170 area. //; hindsight, I might as well have stayed in! We
+don't have the advantage of hindsight, however, when we trade.
+The reentry at 16950 was a much safer trade than staying with the position at the 170 area
+because of all the reasons cited above.
+In trading based on technical analysis, you are concerned with percentages, with the likely
+Movement of price, not the value of the price itself. Buying a dip at 500 after a
+consolidation may be better than buying a peak at 400 after thrust, because it's safer!
+Don't make it hard on yourself. Play the percentages and whistle all the way to the bank.
+WAS A MISTAKE MADE?
+Even though this was planned as a long term trade that I expected to last for months, I
+traded it on a daily basis. I took advantage of daily swings. Was this a Mistake? No, I
+don't think so. This market was easy to read and ready "for the pickin's." While I was
+actively trading other intraday markets, there was nothing so captivating that I couldn't
+take the time to focus on my old friend, meal, for a few minutes each day.
+
+=== PAGE 279 ===
+
+Chapter 15 More Market Examples 261
+MORE EASY PICKIN'S:
+Note: Do you see the Bread & Butter trade represented by the initial thrust up on Chart
+15-7A (3X3 not shown)?
+Note: The move down from the COP was fast and furious. It looked as though a Double
+RePo (sell) was apparent. The time between the first and second penetration bars,
+however, was just too wide to qualify and a Look-Alike wasn't enough to motivate me to
+sell this market, in light of all the positive factors.
+
+=== PAGE 280 ===
+
+262 DiNapoli Levels
+A SHORT TERM S&P TRADE:
+I particularly like this S&P example. Maybe it's because of the money I made trading it,
+or maybe it's because it's such an illustrative example. One thing's for sure; it's indicative
+of the way I've approached trading S&P since 1985. It's the way I like to interact with
+volatile markets.
+GENERAL DISCUSSION:
+First we will consider the context for the trade. Then, we'll examine how trade
+psychology and market mechanics play their role. We will go through a step by step
+process, showing each aspect of the Trading Plan and how it was implemented for this low
+risk, high profit, hit-and-run experience.
+TREND:
+From the following daily Chart 15-10, you can see we've been above the 25X5 for
+months, above the 7X5 for over a week, and it's obvious from the price action that we
+have been and are currently above the 3X3 as well. Therefore the daily Trends are all up.
+Furthermore, based on the value of the various DMAs, they are likely to remain up
+"tomorrow," unless we get a very severe break in price.

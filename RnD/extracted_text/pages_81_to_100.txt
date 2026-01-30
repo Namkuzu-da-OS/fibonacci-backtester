@@ -1,0 +1,425 @@
+
+
+=== PAGE 81 ===
+
+Chapter 5 Trend Analysis MACD/Stochastic Combination 63
+U.S. bond contract. Notice that the Stochastic study has a more ragged appearance than
+the MACD. The flowing lines of the MACD give us a smooth presentation of Trend.
+This is what we want! The number of buy and sell signals given by the MACD are
+infrequent compared to the Stochastic. By displaying these two indicators, one on top of
+the other, in separate windows, as in Chart 5-6, I can evaluate when to fade (go against) a
+market and when not to.
+CHART 5-6
+If both the Stochastic and the MACD are on a buy, the Trend is up. If the weak
+Stochastic signals a sell, I can buy the dip associated with that sell, as long as the (strong)
+MACD buy remains intact. Notice the solid up trend shown on the MACD between mid-
+January and mid-February. We had an excellent buying opportunity against Fibonacci
+support, as the weak Stochastic went into a sell, then got back in gear to the upside. The
+same can be said on the sell side for the period from mid-November through mid-
+December. What is more subtle but nonetheless opportune, is the MACD up trend to the
+far left of the chart. While casual observation suggests that the Stochastic remained in an
+up trend, real life trading was just the opposite! Why? During the period from mid-
+October through the November high, there were many times when the Stochastic signaled
+unconfirmed sells during the day. We can't see those sells by looking at this chart,
+because the close of the day is the point at which the (confirmed) indicator is computed
+and this is what we see on Chart 5-6 when we look back. Traders acting on those
+unconfirmed intraday signals in real time, however, gave us an opportunity to go long
+when they sold. We could then take profit at pre-calculated Fibonacci Logical Profit
+Objectives when the Stochastic went back into the buy mode and their buy stops were hit!
+
+=== PAGE 82 ===
+
+64 DiNapoli Levels
+By observing the combination signals on the most frequently used charts, i.e. 5, 30, and
+60 minute, daily, weekly, and monthly, we can get a bird's eye view of where the weak
+players are (Stochastic), as well as the position of the strong players (MACD). My aim is
+to buy dips (Stochastic sells) at Fibonacci retracement points in an up trend (MACD buy),
+or to sell rallies (Stochastic buys) at Fibonacci retracement points in a downtrend (MACD
+sell). In this way, I combine Leading (Fibonacci) and Lagging (MACD/Stochastic)
+Indicators, in such a way as to "safely" interact with price action. You should also note
+that the traditional requirement for a Stochastic signal to be at the extremes of 25 or 75 is
+ignored. Just like the MACD, / require only a crossover of the fast line through the slow
+line for a signal.
+Chart 5-7 shows a five minute S&P in a thrusting down move. It's difficult to see the
+extent of the thrust, since the bars are confined to only one third of the chart. This was
+done so I could show you the action of the MACD and Stochastic. Initially, both
+indicators are signaling a sell. An interim price low is reached and the Stochastic goes into
+the buy mode. It is bringing in the weak longs and getting rid of the weak shorts. The
+down trend, as defined by the MACD, remains intact. Observing this type of action will
+show you how trailing stops set in improper areas give knowledgeable players a perfect
+opportunity to take away positions from weak players, i.e. to buy a dip or sell a rally in the
+direction of the prevailing Trend. Chart 5-7 shows how the buy stops are hit, driving the
+market up to Fibnode resistance. After the up move, the Stochastic gets back in line with
+the MACD and the market returns to its previous direction, perhaps to new lows. This
+type of action is repeated again and again in a variety of Time Frame charts. Just be sure
+you are involved in thrusting markets in order to help avoid possible whipsaws.
+
+=== PAGE 83 ===
+
+Chapter 5 Trend Analysis MACD/Stochastic Combination 65
+CHART 5-7
+In teaching the use of this MACD/Stochastic combination signal, I typically break it up
+into levels of complexity and teach up to the level possible, depending upon the
+presentation setting and the experience level of the students. The above explanation
+involves level 1 (waiting for both indicators to agree before defining a Trend), and level 2
+(the concept of fading the weak Stochastic indicator while positioning yourself in the
+prevailing Trend). Later we will have examples of level 1 & 2 utilization of this technique.
+Level 3 (anticipating or acting on an unconfirmed signal) will be discussed somewhat,
+while level 4 involves sliding your Time Frame and is too complex a subject to be
+adequately covered outside a classroom setting. To give you some idea, however, as in
+the example above, the half hour Trend would typically be on a sell to further support our
+Stochastic fade on the five minute chart. There will be more examples after we cover
+Fibonacci analysis.
+Now, let's drop back, and look at this from a different perspective. If you think about this
+approach and consider the mathematics of the Stochastic, you will see how a market can
+be made to turn. Consider a large local or, more likely, a group of locals who are short
+the market. If they can hold prices at a given high for several bars (keep prices from going
+higher), it will force the (weak) Stochastic to turn south. The weak longs start selling
+their positions and weak shorts initiate new positions on the sell side. Now the locals (and
+we) can buy those sell orders. The locals can take their several ticks profit while we can
+position ourselves for the expected new high, or a move up to a Fibonacci expansion
+Point. If we tried to buy stop the old highs instead of buying in on the dips, we would be
+
+=== PAGE 84 ===
+
+66 DiNapoli Levels
+at a point of high market slippage. Upon being filled we would have to suffer through yet
+another pullback, while the locals who have fed us the sell orders, endeavor to make a
+profit. If we buy the Stochastic sell and the MACD ends up breaking (giving a sell as well
+as the Stochastic), we know we're wrong and we take the next rally out. If we are
+operating on a short term Time Frame and have adequate experience employing this
+method, it is possible to break even, pick up a few ticks, or perhaps suffer only a few tick
+loss, even when we are wrong!
+CHART 5-8
+Let's take a look at a relatively simple example on daily crude oil, Chart 5-8.
+We obviously have a thrusting, up trending market as defined by the 3X3. If you played
+this market primarily from the long side on the way up, you'd have done very well. You
+would not have gotten into trouble by selling point Tl, or by buying points T2 or T3. You
+wouldn't have made any of these trades, even though Trend rules learned previously
+would have justified such a play. (We will discuss Directional Indicators which overrule
+Trend in the next chapter. They would have you buying at Tl, and selling at T2 and T3,
+which are all at near perfect Fibonacci retracement points. Pardon me for digressing, but a
+quick look ahead is sometimes useful.) Now, back to the point.
+
+=== PAGE 85 ===
+
+Chapter 5 Trend Analysis MACD/Stochastic Combination 67
+CHART 5-9
+Chart 5-9 is the same daily crude oil chart depicted in Chart 5-8, with the MACD and
+Stochastic indicators added.
+The entire downtrend after the high was contained by the MACD. The rally up to
+Fibonacci resistance at point T3, supported by the Stochastic, gave us a perfect
+opportunity to get short.
+The same can be said for the up move preceding the high. The up move was almost
+totally contained by the MACD, while the Stochastic gave us ample opportunities to get
+long when the market retraced.
+FREQUENTLY ASKED QUESTIONS:
+Wouldn't it be better to have two strong Trend indicators, instead of one weak, and one
+strong ?
+No. The weak Stochastic shows the hand of the weak players. It can also show the
+Strength of the market. If the Stochastic gives a sell and there's no discernible movement
+down in price, watch out for a big move up!
+
+=== PAGE 86 ===
+
+68 DiNapoli Levels
+Conservative Carl: Do you wait for the bar (time period) to close before making a
+determination that the indicator has given a signal?
+This question leads us into level 3 understanding. By definition, you want confirmation to
+be certain of the signal. But, if you wait for confirmation, a significant part of the move
+may be in place. By waiting, you are paying for insurance you may not need. Just as it is
+acceptable to anticipate the DMA crossing of price, before the period closed, it is also
+acceptable to anticipate these Trend signals, prior to the close of the period. Be sure you
+get confirmation of what you have anticipated by the close, or get out immediately!
+I 've always bought when I got a Stochastic buy. How can I now sell?
+If you are going to be among the 5% to 15% winners, you will have to be open to
+applying methods and procedures that are different from those of the masses. If it were as
+easy to win as following a Stochastic crossover, where would all the losers come from to
+pay the floor, as well as the off floor winners?
+Hyper Hank: So I buy when I get a sell on the Stochastic and sell when I get a buy on the
+Stochastic, right?
+No, you fade the Stochastic in a thrusting market in the context of a Trend, supported by
+the MACD. You don't simply BUY or SELL. Then you employ methods of entry,
+covered in CHAPTERS 8, 9, 10, 11 and 13.
+Why don't you use the 25/75 barriers before assessing a buy or sell signal on the
+Stochastic?
+Any crossing of the fast line through the slow line is considered a signal because of the
+unique way I am using the indicator. It may also be useful for you to note that trading
+experience (not formal computerized research) indicates that stronger signals, on both the
+MACD and Stochastic, are typically given if there is a greater angle of attack at the point
+of crossing. See Charts 5-10 A & B. The stronger appearance generally is indicative of
+markets that are moving and turning, rather than consolidating.
+
+=== PAGE 87 ===
+
+Chapter 5 Trend Analysis MACD/Stochastic Combination 69
+CHART 5-10 A & B
+Diligent Dan: "In the first example of daily bonds (Chart 5-5), it looked like the MACD
+barely gave a sell near the end of January and then got right back to the up side. Is there
+some way we could have avoided being whipped as we saw this action unfold? "
+Since this was a daily-based signal, it's likely I would have been whipped as you suggest.
+It's unlikely I would have wanted to take home a position that was against the MACD.
+There are, however, ways of avoiding being whipped under similar circumstances. If, for
+example, the Fibonacci support levels have not been penetrated by price, you could have a
+trading plan that would accommodate a minor break of the MACD. This would give the
+MACD an opportunity to correct. I give myself this latitude if the MACD signal is of the
+weaker variety, as in Chart 5-10B A minor break of the MACD on an intraday chart is
+also easier to live with than a break on the daily, since you can find out quickly if the
+position will hold on the anticipated Fibonacci retracement. You may choose not to allow
+this much discretion in your trading plan, until you gain more experience working with the
+concept.
+SUMMARY:
+Let's summarize the high points of our second Trend analysis tool, the MACD/Stochastic
+combination.
+• Both the MACD and Stochastic give Trend signals when the fast line penetrates the
+slow line. These signals remain intact until another penetration occurs. The signal is
+confirmed at the close of the period.
+
+=== PAGE 88 ===
+
+70 DiNapoli Levels
+• The MACD/Stochastic combination is applicable for all Time Frames we use.
+• The values I use for the MACD (DEMA) are .213, .108, .199.
+• The values I use for the deliberately weakened Preferred Stochastic are 8, 3, 3.
+• To get good results using these indicators, you need to investigate the formulas used to
+create the studies involved as well as the method of programming the mathematical inputs
+into these formulas. The graphics software used to display the charts should show
+market-aligned bars, not time-aligned bars.
+• By utilizing a specific weak Stochastic and a specific strong MACD, we are able to
+make informed judgments about what the weak and strong players are doing.
+Consequently we can determine how to best interact with price to achieve our goals.
+
+=== PAGE 89 ===
+
+CHAPTER
+DIRECTIONAL INDICATORS9 POWER PATTERNS FOR HIGH PROBABILITY TRADING
+SIGNALS
+GENERAL DISCUSSION:
+If you don't understand or remember the definition of DIRECTION, FAILURE, or
+MOVEMENT, you'll make it a lot easier on yourself if you review these concepts in
+CHAPTER 2, before going on.
+A Directional Indicator is usually, but not always, a pattern of some kind. Certain of
+these patterns are defined by the 3X3. Don't confuse the concept of trend with that of
+direction, even though the 3X3 is used for trend delineation as well as the criteria for
+certain of the Directional Indicators we will use. Directional Indicators are not Trend
+Indicators, irrespective of how they are derived. If there is a conflict between what a
+Trend Indicator and a Directional Indicator is telling you, follow the Directional Indicator.
+Direction overrules Trend.
+In recent years, a greater percentage of my trades have been based on Directional
+Indicators rather than Trend Indicators. This is as much a reflection of my maturity as a
+•trader, as it is my increased patience level. Perhaps philosophically speaking, those
+aspects are one and the same. Directional Indicators require patience, as they must
+manifest on their own, while a Trend can always be found. Directional Indicators are
+typically very powerful and highly reliable. They are in keeping with my overall
+philosophy:
+LOSS OF OPPORTUNITY IS PREFERABLE TO LOSS OF CAPITAL!
+
+=== PAGE 90 ===
+
+72 DiNapoli Levels
+THE "DOUBLE REPENETRATION SIGNAL" OR "DOUBLE REPO" FOR
+SHORT
+The following Chart 6-1 shows an idealized Double RePo. It has specific, identifiable
+features.
+1. The Double RePo signal bar must be preceded by a minimum of 8-10 periods of
+thrusting market action; 15 or more is better. Just what constitutes thrust is far easier to
+visualize than to define. This is good news, since it will make it tough for programmers to
+specify. Therefore, it should continue to "work" for some time to come.
+CHART 6-1
+
+=== PAGE 91 ===
+
+Chapter 6 Directional Indicators 9 Power Patterns 73
+2. After the up thrust, we need closes below, above, and again below the 3X3, before the
+sell signal is given. The reverse is true for down thrust.
+3. The top (or bottom) formed by the bars as specified in the chart shown, should be
+reasonably close to one another.
+4. The width of the top (or bottom) from the initial penetration to the subsequent
+penetration (after the retracement) should not exceed 8-10 bars; three or four are much
+better.
+5. The signal remains intact until either a major Logical Profit Objective (to be defined
+later) is achieved (point 'M' on the chart), or until the .618 retracement '*' from the
+furthermost extreme of the consolidation area (after the second penetration) to the
+furthermost extreme on the thrust, has been exceeded on close. When we get into
+Fibonacci analysis, the last sentence will be easier to understand. In terms to be defined
+later, you create a resistance series and look for the '*' retracement level to be exceeded
+on close.
+6. The periods I use for Double RePos are daily, weekly, and monthly, although many of
+my clients have reported excellent results on 30 minute and hourly charts .
+Let's review each of the criteria on this idealized chart, to be sure you understand the
+criteria, before we get to actual market examples.
+ITEM 1
+Market action is in a thrusting up move, remaining (primarily but not necessarily) in an up
+trend (above the 3X3 on close) for 13 periods.
+ITEM 2
+We finally achieve a close below, above, then below the 3X3, yielding the signal bar.
+Note the circled closes. The second of the two is the signal bar.
+ITEM 3
+The tops formed by the highs of the consolidation area are acceptably close to one
+another.
+ITEM 4
+The number of bars in between and including the two closings below the 3X3 are clearly
+less than the maximum.
+
+=== PAGE 92 ===
+
+74 DiNapoli Levels
+ITEM 5
+The signal would be negated if the market closed back above the Fibonacci level shown as
+'*', or if the market achieved the profit objective point 'M.' Neither situation has
+occurred yet.
+IMPORTANT POINTS TO NOTE:
+The criteria as defined in Items 1 through 5 will clearly satisfy many of you, and utterly
+disappoint some of you. The level of specificity as applied to the accompanying real
+charts should be more than adequate for those of you who are psychologically suited to
+judgmental trading techniques. I will endeavor to be as specific as possible with the
+Double RePo as with all of the subsequent Directional Indicators. It's important for you
+to note that just because the exact criteria are not met, it does not mean that the market
+will not act as if the criteria have been met. See "Look-Alikes" later in this chapter. In
+workshops, I sometimes refer to a Double RePo "look-alike" as one Double RePo not
+being as "pretty" as another. A Double RePo does not need to be a Barbie doll to add
+significant width to your wallet.
+It's also important to note that a Double RePo on a weekly or monthly chart can be a
+serious event. It can signal the termination of a major bull or bear run.
+
+=== PAGE 93 ===
+
+Chapter 6 Directional Indicators 9 Power Patterns 75
+Chart 6-1A shows typical market action after a Double RePo has occurred.
+CHART 6-1A
+
+=== PAGE 94 ===
+
+76 DiNapoli Levels
+FREQUENTLY ASKED QUESTIONS:
+Haw did you come up with the signal?
+Like all of the Directional Indicators in this chapter, the criteria were developed by my
+personal experiences in trading, some of which were blistering events! When dramatic
+price action occurred, I wanted to know why, and since I typically had my own, real
+money riding on the event, I was a highly motivated researcher. When I thought I learned
+something, I looked for the market to replicate the action again, and again, and again, and
+that's right, again, before I would consider adding what I thought would qualify as a
+directional signal to my trading arsenal. The standard of reliability was high, since my
+trading action subsequent to its identification was immediate and strong. The Double
+RePo signal was actually identified originally by me on the first chart shown in the series
+of actual market examples, Chart 6-2. It has been an incredible trading resource since
+1986!
+Can you anticipate the close on a Double RePo and lake a position based on what might
+happen?
+Yes. If, for example, the price on the signal bar shown on the idealized chart is below the
+3X3 but the market hasn't closed, it is okay to get short. You could even anticipate the
+move through the 3X3 if your intraday trend signals, the MACD/Stochastic, were
+convincing enough. As with any anticipated or unconfirmed signal, however, you say
+adios to the trade if you lack confirmation at the close of the period.
+Aren't you simply showing a double top?
+No, I am defining a specific type of double top or bottom.
+What markets does this signal work in?
+All liquid markets. That includes stocks, mutual funds, and cash currencies. But, let's
+exclude wheat and pork bellies to be on the safe side.
+Do I take a signal on close and simply wait for a profit objective?
+You can take a position on a confirmed or unconfirmed signal, but you have to be aware
+of the "get out" point on the loss side as well as the anticipated profit. You can also apply
+all the other aspects of trade entry we have yet to discuss. One way to approach trade
+entry for multiple contract players would be to lay on some contracts unconfirmed, more
+on a confirmed signal, and still more according to other criteria we have yet to discuss.
+
+=== PAGE 95 ===
+
+Chapter 6 Directional Indicators 9 Power Patterns 77
+What if we have a Double RePo and then close above the 3X3, but we do not exceed the
+Fibonacci point marked '*'?
+In the scenario you describe, the Double RePo signal has not been negated. Remember,
+you not only need to exceed the Fib point at '*', but you must also do so on close for a
+confirmed get out. As for the Trend confirmation up (confirmed by closing above the
+3X3), you ignore it, since Direction overrules Trend.
+What if you exceed point '*' on close then turn around and subsequently close back
+below the 3X3?
+At this point, you're probably unhappy and counting some losses. Triple RePos don't
+exist in my trading plan in the overall "applicability" and "high reliability" sense that
+Double RePos do. However, I have observed a number of instances where such market
+action has occurred in U.S. bonds. The bond market has a nasty habit of doing this after
+very extreme thrusting moves. I trade such action similarly to a Double RePo. This
+would be classified as a "look-alike."
+Why do you limit the periods you use to daily and longer ?
+They are the most reliable. A number of my clients use intraday charts for the Double
+RePo trade as well. If you want to see what one looks like, there's an example of a
+Double RePo on a 30 minute S&P in CHAPTER 4, Chart 4-5.
+Can you explain what is actually happening in the market that makes this signal work?
+I can try. The day after day of thrusting moves demoralizes and panics the shorts. Longs
+that have exited are pulling their hair out from feelings of greed. Most lack the ability to
+get back on board. The first pull back is bought by these groups, while the second
+pullback eventually turns into capitulation or even panic, if the preceding up move is
+confined by the '*' Fibonacci barrier. The important point of this psychological discussion
+of what's happening is understanding that the length of the initial thrust must not be
+unduly consolidated by the width between the 1st and 2nd penetration of the 3X3. In
+other words, 18 days of up thrust consolidated by six days is a lot "prettier" than eight
+days of thrust consolidated by eight days. Too much consolidation works off the greed
+and fear. We don't want that.
+
+=== PAGE 96 ===
+
+78 DiNapoli Levels
+MARKET EXAMPLES:
+Each of the following charts will attempt to identify and clarify the Double RePo
+Directional (change) Indicator.
+CHART 6-2
+Chart 6-2 shows two Double RePo signals in the S&P, occurring in 1986. I had my
+proverbial lunch handed to me just before the first signal. The locals in the S&P had their
+lunch handed to them just after the second signal. We both learned something from the
+experience. I learned about the Double RePo signal. The locals learned to keep their
+hands in their pockets when the S&P freight train barreled through.
+The second signal (on the sell side) is picture perfect. It was preceded by beautiful thrust,
+had near equal tops, and the span between the first and second close below the 3X3 was
+narrow.
+
+=== PAGE 97 ===
+
+Chapter 6 Directional Indicators 9 Power Patterns 79
+The first signal (on the buy side) certainly worked. The down thrust preceding it however,
+was strong, but not as relentless as the up thrust that preceded the second signal. What
+we prefer to see in terms of thrust is continued pressure, as in the idealized example,
+rather than a single big move, consolidation, and another big move. While the levels of
+the double bottom were acceptably close, they were not as "pretty" as the double tops
+preceding the sell side signal. The span of days between the first and second closing
+above the 3X3 was also a bit wide, given the extent and nature of the preceding down
+thrust.
+CHART 6-3
+Chart 6-3 illustrates a perfect Double RePo right at the top of the weather market we
+experienced in corn in 1988. For those of you who haven't been involved with weather
+markets, they are among the most vicious of all markets. The dots on this chart do not
+indicate illiquidity brought about by lack of interest; they are limit moves!
+
+=== PAGE 98 ===
+
+80 DiNapoli Levels
+The next Chart, 6-4, shows weekly continuation data of corn, preceding and including the
+crop shortage period in 1996. Note the clear Double RePo occurring near the $5.00 level.
+How would you have liked to have been short a ten lot when that happened?
+CHART 6-4
+Realize that if you had a position on, it would have been in September Com, not on the
+continuation chart. The Double RePo showed up there as well. The continuation chart
+was necessary, however, because it presented you with a cleaner picture. This thinking is
+similar to that used in an upcoming soybean meal trade, detailed in CHAPTER 15. In the
+meal trade, I entered on July meal but the context was taken from the weekly continuation
+chart.
+
+=== PAGE 99 ===
+
+Chapter 6 Directional Indicators 9 Power Patterns 81
+Next, we'll see daily soybeans (Chart 6-5) during and after the floods in 1993.
+CHART 6-5
+
+=== PAGE 100 ===
+
+82 DiNapoli Levels
+Just for a change of pace, let's see how this Directional Indicator works in the stock
+market.
+CHART 6-6
+Microsoft (Chart 6-6) peaked at the introduction of Windows® 95 and made an almost
+perfect Double RePo. From there, it fell to a precalculated Fibonacci profit objective.
+Not only was this an opportunity to book weekly-based profits on the sell side, it was also
+a time to get long on a monthly reaction to an ongoing up trend. It would not serve you
+to skip ahead now, but some very interesting charts on Microsoft in the monthly time
+frame are just ahead. For those of you who are still having trouble internalizing the
+concepts of Time Frame, Trend, and Direction, these upcoming charts should be very
+helpful.

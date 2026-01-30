@@ -1,0 +1,327 @@
+
+
+=== PAGE 181 ===
+
+Chapter 10 DiNapoli Levels Multiple Focus Numbers & Market Swings 163
+In Chart 10-5, we have two Focus Numbers, Focus support Fs, and Focus resistance Fr.
+Focus support numbers produce Fibnodes that elicit support, while Focus resistance
+numbers produce Fibnodes that elicit resistance.
+CHART 10-5
+
+=== PAGE 182 ===
+
+164 DiNapoli Levels
+The following Charts 10-6 A & B show a portion of Chart 10-5.
+CHART 10-6 A
+I'm going to assume that you can properly produce the D-Levels for the up swing. This
+would include a total of six (support) Fibnodes. For the sake of clarity, in Chart 10-6B, I
+show only two of the support Fibnodes, i.e. those associated with the portion of the up
+swing from Point 1 to Fs. All of the resistance Fibnodes for the down swing are shown.
+
+=== PAGE 183 ===
+
+Chapter 10 DiNapoli Levels Multiple Focus Numbers & Market Swings 165
+The first (highest) support Node survived the first corrective move down from Fs, even
+though the Node was briefly penetrated. It was clearly taken out by the subsequent move
+down, point FR on the chart. This first support Node is no longer active and can be
+removed from our consideration. It has been taken out by price. Cleaning up your charts,
+as well as your software tables (spread sheets or FibNodes) is essential for maximum
+clarity and optimum decision making.
+The down move from Fs to FR has two reaction highs, four Fibnodes and one Confluence
+'K' area. Excluding the possibility of some Directional Indicator leaning on price
+Movement, it is likely the price will bounce around between the support Node at F5 and
+the resistance Confluence area 'K.' Knowing that this action is likely on a short Time
+Frame chart allows for the possibility of scalping.
+ADVANCED COMMENTS:
+Let's go back and talk about this brief penetration of the .382 support Node on the first
+corrective move down from Fs. If it were 1986 or 1987, I would have considered that this
+Node was a dead issue, no longer in play. Now however, with more individuals using
+even crude Fibonacci analysis, there are sometimes large numbers of stops placed just
+under certain Fibnodes. These stops act like gasoline strewn around the pit and knowing
+floor traders as I do, they aren't shy about lighting the match. Since this Node was only
+penetrated briefly and then supported, I consider it to still be active. If we had the
+capability, we would drop to a lower Time Frame to see just how sharp the penetration
+was. The briefer the better, to consider the Node as active. We're not finished yet. We
+could also check out the possibility of there being an OP move down from the high at Fs
+to the vicinity of the first support Node. If this were the case and the Agreement range
+between the .382 support Node and the OP move down, takes us to the low formed
+before the move back up to 1, there is certainly nothing wrong with the Node. It is still in
+play! All we have done is fulfilled the OP. A third consideration when we drop the Time
+Frame, would be to look at reaction lows buried in the up move from 1 to Fs. It's
+possible there is a reaction low in the vicinity of the first support Node, presenting the
+floor with a group of tasty sell stops to go after.
+MORE FOCUS NUMBERS:
+We just had an example of two active Focus Numbers existing on the same chart, one
+eliciting support Nodes and one eliciting resistance Nodes.
+What about three Focus Numbers - is that possible?
+
+=== PAGE 184 ===
+
+166 DiNapoli Levels
+Try labeling Chart 10-7 on your own.
+CHART 10-7
+
+=== PAGE 185 ===
+
+Chapter JO DiNapoli Levels Multiple Focus Numbers & Market Swings 167
+CHART 10-8
+If you are having problems labeling these charts, note a couple of rules that will help you
+out.
+1. You will have as many Focus Numbers on a chart as you have Market Swings.
+2. Reaction Numbers are always "behind," or earlier in time, than the Focus Numbers that
+they are associated with.
+3. For a Focus number to "own," or to be associated with a given reaction low in an up
+move, the Focus Number must be the highest high after the reaction is manifest. That's
+why Fs2 only has one reaction low, not four! Fs2 is lower in price than Fsl.
+
+=== PAGE 186 ===
+
+168 DiNapoli Levels
+For a Focus Number to "own," or be associated with a given reaction high in a down
+move, the Focus Number must be the lowest low after the reaction is manifest.
+If Fs2 broke to a price level below FR, we would be back to two Focus Numbers, Fs and
+FR, as shown in Chart 10-9.
+CHART 10-9
+
+=== PAGE 187 ===
+
+Chapter 10 DiNapoli Levels Multiple Focus Numbers & Market Swings 169
+TIME FRAME'S IMPACT ON FOCUS NUMBER:
+If we then lengthened the Time Frame significantly, as in Chart 10-10, the resulting
+Market Swings would show up as much simpler waves. Think about it; if you go from a
+five minute to an hourly chart, there will be fewer discernible retracements, i.e. Reaction
+Points will disappear. It's the same situation any time you increase your Time Frame.
+Likewise by reducing your Time Frame, you will get more Reaction Points, more
+Confluence areas, and more opportunity to fine tune your entry and profit objectives.
+CHART 10-10
+We'll discuss mare about moving the Time Frame around and what it will do for you, in
+the next chapter. If your eyes are crossing, don't worry about it, there will be lots of
+examples coming along. Once you discipline your mind to follow the preceding rules,
+these ideas should fall into place with amazing ease. If you are wondering how I came up
+with this theory, it was from trading a five minute S&P. When support came in where I
+didn't expect it, I'd work my way back and calculate the likely Focus and Reaction
+numbers necessary to produce such support or resistance. I then went through a very
+lengthy verification process. After three years or so I had it down.
+
+=== PAGE 188 ===
+
+170 DiNapoli Levels
+LESS IS MORE
+If you haven't yet figured out why that statement is true, you're probably still in your
+twenties, or maybe your thirties. With regard to trading, this is a critical issue. Individuals
+often challenge themselves up to the limit of their ability and beyond. Some traders
+believe that keeping track of 23 indicators and 94 support levels provides them with more
+comprehensive analysis than two indicators and six support levels. In trading for profit,
+look at more markets if you must, but don't foul yourself up with a spaghetti chart.
+PRUNING THE FIB SERIES:
+With respect to keeping things as simple as possible, let's look again at how we can
+eliminate Fibnodes as they become irrelevant and thereby simplify and clarify the path to
+our objective.
+CHART 10-11
+Chart 10-11 shows a clear progression of an up Movement with shallow retracements
+until price reaches point E (Enough). The price then makes an OP move down into
+Agreement with the .618 Node of the entire up move. That simplifies our life as
+
+=== PAGE 189 ===
+
+Chapter 10 DiNapoli Levels Multiple Focus Numbers & Market Swings 171
+traders, since we are now able to remove from consideration all of the Fibnodes that the
+down price action has penetrated through (less is more.) F5, off the primary reaction low
+'4', is the only active support Node left on the chart.
+The next Chart 10-12 is a favorite of mine from private tutoring sessions. It's a five
+minute line chart depiction of the S&P on a day the Federal Reserve cut the discount rate
+by two points, the First Lady was rumored to have had an affair with the Chief of Staff,
+and the President was wounded in a related incident. China also invaded Taiwan,
+Congress approved the capital gains tax reduction and ... well you all get the idea.
+CHART 10-12
+Try to label this, before turning the page.
+
+=== PAGE 190 ===
+
+172 DiNapoli Levels
+There are only two active Fibnodes remaining on this chart which are probably more than
+the number of traders still solvent. All the others have been taken out by the price action.
+CHART 10-12A
+
+=== PAGE 191 ===
+
+CHAPTER
+TRADING WITH
+DiNapoli LevelsTM
+GENERAL DISCUSSION:
+Your success in trading with DiNapoli Levels is dependent upon a comprehensive
+understanding of what has been taught throughout this book. Your ability to recognize
+how different Time Frame charts of the same data impact your trading strategy is of the
+utmost importance. Spend as much time as you require internalizing this subject. The
+dividends paid will be many.
+MOVING THE TIME FRAME
+To some of you this will be absurdly obvious. Others among you will really struggle with
+the visualization of the way Time Frame interacts with DiNapoli Level creation. If you
+have trouble with this process, it will become clear as you work with graphics software
+and display the same data in different Time Frame charts.
+
+=== PAGE 192 ===
+
+174 DiNapoli Levels
+We'll start very simply. The half hour Chart 11-1A, has an eight price bar up move. The
+line Chart, 11-1B, shows all the information from the bar chart that we need for D-Level
+creation. Chart 11-1C shows the proper labeling of Focus and Reaction Numbers for this
+Market Swing.
+A HALF HOUR CHART B LINE CHART C DINAPOLI LEVELS
+CHART 11-1
+
+=== PAGE 193 ===
+
+Chapter 11 Trading With DiNapoli Levels 175
+The same (up) price Movement depicted on an hourly-based chart has only four price bars
+instead of eight, since it takes twice as much time to create each bar. In this process a
+reaction (number) disappears.
+A HOURLY CHART B LINE CHART C DINAPOLI LEVELS
+CHART 11-2
+Both charts are equally accurate for the Time Frame shown. The point is that as you
+increase the Time Frame:
+five minute to hourly
+daily to weekly
+weekly to monthly, etc.
+the number of DiNapoli Levels will likely decrease, because the number of Reaction
+Points are likely to decrease.
+Conversely if you decrease your Time Frame:
+monthly to weekly
+weekly to daily
+hourly to five minute, etc.
+you will likely increase the number of DiNapoli Levels.
+
+=== PAGE 194 ===
+
+176 DiNapoli Levels
+Let's say you are a daily-based player, but your equipment gives you the ability to collect
+hourly data (as is the case with an inexpensive delayed feed). You can produce more
+Fibnodes on an hourly basis than you would otherwise see on the daily chart. You can
+therefore fine tune entry areas and stop placement points. You can still do your analysis at
+the end of the day, but with an hourly capability you can create additional Fibnodes from
+Reaction Numbers that would be buried in the daily action. These additional Fibnodes
+may create areas of Confluence transparent to higher Time Frame traders.
+AN IDEALIZED TRADING EXAMPLE:
+Let's try to apply some of the techniques we've learned so far, in an everyday trading
+situation. We'll assume we've dropped the Time Frame sufficiently to locate a Confluence
+area, as shown on Chart 11-3. We'll also assume the following criteria regarding Trend.
+The Stochastic (not shown) has given a "sell" while the MACD (also not shown) remains
+in the "buy" mode. The Trend therefore remains intact to the up side. Furthermore, for
+the sake of simplicity, we'll say the Trend will remain intact to the up side, even if price
+action were to break to the area of Confluence.
+The questions: Where would you enter, and where is your stop?
+CHART 11-3
+
+=== PAGE 195 ===
+
+Chapter 11 Trading With DiNapoli Levels 177
+Ponder the questions before considering the solutions outlined below. There is more
+going on here than is obvious. Incidentally, there is more than one correct answer.
+Hyper Hank: Joe, I'd sell the market right where it is and take profits at the Confluence
+area. Then I'd go long.
+This answer is correct only if Hank had the ability to lower his Time Frame sufficiently to
+observe the Trend on the Market Swing down. Hyper Hank needs a down Trend to
+justify his sell, and while a lower Time Frame may give an MACD/Stochastic "sell," it's an
+assumption on Hank's part and beyond the specified criteria. Also, any offset to his short
+position or any order that would initiate a long position, should not be placed at 'K'
+Confluence, but rather above Confluence in order to increase his chances of being filled.
+Hank also did not answer the question fully. He said nothing regarding stop placement.
+He's so anxious to trade, he doesn't consider protecting himself. My advice would be for
+Hyper Hank to settle down and regroup1, otherwise he is about to'learn an expensive
+lesson.
+Conservative Carl: Joe, I'd put my buy at the .618 retracement of Reaction 2, and place a
+stop beyond the old low at Reaction 2.
+This solution assumes the Trend would still be up at the .618 of Reaction 2, and the
+criteria given, only guaranteed an up Trend to Confluence. If we assume the Trend would
+remain up at his entry point, I would recommend that Carl:
+A. Should put his sell stop at, not below #2 (assuming he has a broker that commands
+respect in the pit).
+B. Should buy above the Primary Node, (which is, as he stated, the .618 retracement of
+Reaction 2), not on it.
+If Conservative Carl had qualified his entry, depending on the Trend remaining intact, this
+solution would be acceptable, but perhaps overly cautious. The problem with waiting for
+deep retracements to manifest, is that the context (in this case Trend) may be history at the
+entry point, and Minesweeper A or B would have to be employed for a proper entry. See
+Fibonacci Tactics CHAPTER 13.
+1 He should reread CHAPTERS 4 & 5 on Trend analysis. There are also a variety of trading psychology
+sources listed in the bibliography, reference, and appendix sections, which would be of value to him.
+
+=== PAGE 196 ===
+
+178 DiNapoli Levels
+Diligent Dan: Joe, I'd enter just above Confluence and depending on my money
+management criteria, my stop would be below Confluence or below F5 of the Primary
+Node. If I choose the later stop placement criteria, I'd keep my eye on the Trend. If the
+Trend broke to the down side, I'd exit at the market or calculate the resistance DiNapoli
+Levels at that point, and take my first opportunity to exit my long, at or below a
+resistance Node.
+Good answer Dan, but you are missing something.
+Hyper Hank is back!: I'd put my buy above the first .382 support Node and my stop below
+Confluence.
+That would be my choice as well, but give me a reason.
+/ don't want to miss the move!
+Diligent Dan is back!: Hyper's second solution is Joe's preference because there's
+Agreement between the OP of the down move, and the first .382 retracement area.
+CORRECT! See Chart 11-4.
+CHART 11-4
+
+=== PAGE 197 ===
+
+Chapter 11 Trading With DiNapoli Levels \ 79
+You can see from the progression of ideas that there is more than one acceptable answer
+possible from analysis employing the same methodology.
+ADVANCED COMMENTS:
+It's probably a little advanced at this point but I'll be more specific about my stop
+placement.
+If the higher Time Frame Trends supported a long entry, (better, safer context than what
+was given), my initial stop would likely be below the primary .618 '*' Node.
+If the higher Time Frame Trends did not support the trade, then my stop would be just
+below Confluence.
+If the trade criteria included a Directional Signal up rather than just a Trend up, I would
+have entered just above the first .382 Node, even if there were no Agreement, since a
+Directional Signal is stronger than just a Trend up. I would also buy stop the old high, or
+the high at C // the Directional Signal were particularly strong (like a Double RePo
+Failure). If I were filled on both the 'Or Better' buy (at the first .382) as well as the 'buy
+stop,' that would be fine. I don't mind doubling size on Directional moves.
+D-LEVEL™ EXPANSION ANALYSIS & LPOs:
+Now let's look at a somewhat more complex set of Market Swings with respect to
+Fibonacci Expansion Analysis and Logical Profit Objectives , as in Chart 11-5 below.
+See if you can locate all profit Objectives on Chart 11-5 before turning the page. As
+usual, there is more here than meets the eye.
+CHART 11-5
+
+=== PAGE 198 ===
+
+180 DiNapoli Levels
+HYPER HANK'S SOLUTION:
+CHART11-5A
+DILIGENT DAN'S SOLUTION:
+CHART 11-5B
+
+=== PAGE 199 ===
+
+Chapter 11 Trading With DiNapoli Levels 181
+Dan correctly perceived that I did not specify whether we were long, short, or out. In this
+type of configuration, there are Objective Points both up and down, depending upon the
+labeling of the ABC move.
+Hank's labeling of Chart 11-5 was correct but incomplete. I have not included these labels
+on Dan's solution for clarity, but I did include all expansions. If I were to include both
+labels on this one chart, one set would have been labeled A, B, C (Hank), the next set
+would have been labeled A', B', C' (Dan). Both resistance Objective Points and support
+Objective Points were created from the combined labeling.
+As Diligent as Dan was, he was not diligent enough. Do you know what's missing? Think
+about our definition of Logical Profit Objectives before turning the page.
+
+=== PAGE 200 ===
+
+182 DiNapoli Levels
+RESISTANCE NODES AS
+LOGICAL PROFIT OBJECTIVES
+CHART 11-5C
+SUPPORT NODES AS
+LOGICAL PROFIT OBJECTIVES
+CHART 11-5D
+Based on our definition of Logical Profit Objectives, the Fibnode retracement areas should
+be included, unless these Fibnode retracement areas have been taken out by price.
+Including these Fibnodes gives you five Logical Profit Objective Points, not three, for a
+given Market Swing.

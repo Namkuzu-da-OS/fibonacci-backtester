@@ -1,0 +1,439 @@
+
+
+=== PAGE 281 ===
+
+Chapter 15 More Market Examples 263
+CHART 15-10
+Tomorrow
+7/5 MA = 51174, Q (basis OSC= 7) = -43.40851
+25/5 MA - 50858, Q (basis OSC = 7) = -70.42389
+3/3 MA = 51578, Q (basis OSC =7)= -8.71582
+Price of 52849 would produce Q+MAX(OSC = 7)= +100.2139
+Price of 49990 would produce Q+MAX(OSC = 7)= -144.8575
+(c) Copyright CIS Inc. / Microforce
+Before we go to the next step, I want to digress for a moment to explain the numbered
+printouts associated with this chart1. To begin with, the chart was printed as of "last
+night's close," the day before the trade took place. The group of numbers below the chart
+shows the Oscillator Predictor™ values at various prices. We are most interested in the
+maximum Overbought and maximum Oversold levels.
+1 The chart produced from the "TIMESAVER", CIS TRADING PACKAGE
+
+=== PAGE 282 ===
+
+264 DiNapoli Levels
+A price of 52849 would produce an "historically" maximum Overbought level of
++100.2139. The abbreviation used for this is Q+max . "Historically" refers to the last six
+months. The maximum Oversold level would be achieved at a price of 49990, which is a
+Detrended Oscillator value of -144.8575. If you don't have the Oscillator Predictor, you
+can use alternative methods described in CHAPTER 7.
+OVERBOUGHT AND OVERSOLD ANALYSIS:
+If you take the three peaks of the Detrended Oscillator and average them together (86.57
++ 100.20 +77.57, divided by three), you get 88.11. I typically eyeball the values and
+estimate an average. Let's use 90. The Oscillator Predictor point shown in Appendix Q
+for this value produces a price of 52730. Conclusion: this contract is going to be at a
+maximum stretching point tomorrow, if it achieves a price anywhere between 52730 and
+52849. As of the close (last night), we were at about 62% of maximum Overbought, so
+this number was high enough to bear watching.
+DIRECTION:
+I don't see any obvious Directional Indicators in play, with the possible exception of
+Stretch. What I mean is that when I looked at this chart on the night before the trade took
+place, I concluded that there were no Double RePos, RR tracks, Head and Shoulders,
+Failures etc., but that it was possible we could end up with a Stretch before tomorrow's
+action was over, since we were approaching Overbought. I hadn't calculated any
+expansions to the upside, or resistance Fibnodes, so I wasn't sure if Stretch was a real
+possibility. Nonetheless, this was duly noted and attached to my S&P clipboard.
+
+=== PAGE 283 ===
+
+Chapter 15 More Market Examples 265
+TRADE IMPLEMENTATION:
+The next morning the market opened strongly by gapping up, then it made a nice .382
+retracement back to the 52230 level and continued on to the upside. You can see this by
+skipping ahead to the five minute Chart 15-16. Given the context, the only possibility
+early in the day was to play this market to the upside.
+Look at the MACD/Stochastic on the daily, hourly, and half-hourly charts. They all
+pointed up until at least 13:00.
+CHART 15-11
+
+=== PAGE 284 ===
+
+CHART 15-13
+The problem with taking a long position, however, was that price was reaching very high
+Overbought levels. Therefore the risk that it would not continue higher was significant.266 DiNapoli Levels
+CHART 15-12
+
+=== PAGE 285 ===
+
+Chapter 15 More Market Examples - 267
+Also, any profit objective on a long entry would have to be close. The bottom line was
+that the risk/reward ratio just wasn't positive enough for me to get involved. Given these
+facts, my focus was on the bond market, since the day trading opportunities there were
+much more favorable.
+After a good day trading the bond market, I took another look at the S&P. It was about
+14:15 to 14:30. The high stood at 52745, clearly in the highly overbought range. I
+noticed that by 14:00 both the MACD and Stochastic on the half-hour chart were in a sell
+mode and the Stochastic on the hourly was also in a sell. The hourly MACD was
+approaching a sell. All these facts taken together told me we had an excellent chance for a
+rout to the down side before the day ended, catching all the (long side) Johnny-Come-
+Latelies unaware. Given the look of the Trend indicators at about 14:15, if it were going
+to happen, it would take place soon.
+Okay, everything I talked about so far is the context for the trade. This is the kind of
+reasoning I go through on each and every trade. It is how I evaluate my risk/reward. It is
+how I determine whether or not I want to play a given market. The bottom line was that I
+had strong downtrends forming on intraday charts after reaching a significant Overbought
+level.
+TRADE PSYCHOLOGY:
+Before getting into the details of entry and exit, let's evaluate the psychology of the
+market at this point in time.
+Long side players have been rewarded day after day. Many have doubled and tripled up
+positions attempting to make millions out of a few thousand. Few participants are using
+profit objectives: after all, the books tell you to let your profits run, to let the market take
+you out. Some players are so confident, they've thrown In a stop and gone to the golf
+course. Others who have gotten out at a nice profit are so frustrated at the profits they've
+"lost" (greed), that they have gotten back in with larger positions to "make up for" their
+"error" in getting out too soon.
+
+=== PAGE 286 ===
+
+268 DiNapoli Levels
+CHART 15-14
+MARKET MECHANICS:
+If you know anything about market mechanics, you'll know that by midday there are a
+bazillion stops under the low of the day at 52230. You also should know that's the area
+where the locals will be gunning for stops if we get any kind of Movement south. To
+make that last statement more understandable, here's what happens. They (the locals) sell
+the market mercilessly on the way down and when the sell stops are hit, they buy them,
+after, and during the panic, thereby getting flat and achieving a nice profit. Where do you
+think all the Mercedes, Jags, and BMWs come from in the MERC'S parking garage? It's
+their job to facilitate trade, provide a liquid market, and buy Mercedes, Jags and BMWs.
+Traders off the floor don't realize it's our job to join in with them. So here's how we do
+it.
+
+=== PAGE 287 ===
+
+Chapter 15 More Market Examples 269
+CHART 15-15
+Let's assume you've looked at this trade late in the day, as I did. Notice, you had a little
+Wash and Rinse at Point 3 '*', another encouraging sign to the down side. By the time it
+was 14:30, a strong down wave had developed. FibNodes™ Focus and Reaction
+Numbers are labeled on Chart 15-15. Notice the Confluence area 52467-52480. Selling a
+reaction back was as easy as it gets.
+25 Apr 97 09:19:03 Updated: 00/00/0000 0.382 0.618
+Focus Number File SPM051 Focus# (Low for the swing)
+Point Number Resistance Fib Nodes Point# (Enter lowest reaction high first)
+52350 1
+===> 52423 T
+===> 52467 T
+52540
+52350 2
+===> 52480 f
+===> 52560 f
+52690
+52350 3
+===> 52501 *
+===> 52594 *
+52745
+Copyright (c) 1996 CIS, Inc.
+
+=== PAGE 288 ===
+
+270 DiNapoli Levels
+Selling "K" was an ideal and "safe" area to take a shot at the down side. You could select
+any one of a number of "Bushes" stops, but at a minimum I'd hide my stop above the
+'*'.382 Node at 52501. There would also be nothing wrong with selling the first Node
+back (box 1) at 52423; instead of the Confluence area. It depends upon how aggressive
+you are. I chose to sell at the lower end of Confluence at 52465 and also to sell stop the
+low at the Focus Number F, 52350 (chart Point B). While I normally don't initiate orders
+on stops, i chose to do so in this case, because I knew there would be some locals and
+intraday players closing short positions (buying) at the old lows 52350, 52320, and 52230.
+I also knew my broker commanded enough respect in the pit to get me filled reasonably
+well, if any of these buy orders manifested.
+While my minimum expectation for the trade was to take out the low of the day at 52230,
+I quickly calculated the expansion down, which yielded an OP at 52070. This expansion is
+detailed in Chart 15-16 and shown in the accompanying FibNodes printout.
+CHART 15-16
+25Apr97 12:24:23 Updated: 00/00/0000 0.618 1.618
+Point Value Objective Points File SPM052
+A = 52745 COP = 52221
+B = 52350 OP = 52070
+C = 52465 XOP =
+Copyright (c) 1996 CIS, Inc.
+
+=== PAGE 289 ===
+
+Chapter 15 More Market Examples 271
+Why did I choose the OP? Well, the COP was just below the low of the day and that's
+where all the sell stops were. If we hit that point there was no way the COP would hold.
+The XOP at 51826 was a mile away and I reasoned that before reaching it there was likely
+to be a throw back rally. The OP was most likely to be hit by the simple process of
+elimination.
+Let's look at the way the trade worked out. The Confluence area, where my initial sell
+order was placed was hit to the tick at 52465. What's more interesting, however; is the
+second entry at 52350. )
+CHART 15-17
+ADVANCED COMMENTS:
+Notice the time and sales2 Chart 15-17 and the way the market fell. From 52390 at 15:06
+to 52335 at 15:07 there wasn't an up tick. Exchange rules say you aren't due a fill until
+you get an up tick (on a sell). That happened at 15:08 at 52340. That's where my second
+order was tilled, at 35. Now look at the action several minutes later. Note 15:12. We go
+from 52300 to 52190 in one tick! We continue with the glide ratio of an anvil to the
+52100 area. It's no accident support finally came in 30 points above the OP! Let's take
+another look at the five minute Chart 15-16. You'll see the test of the 52100 low was at
+2 Time and sales in Chart 15-17 is what my data service provider, my computer, and my software,
+displayed. It was what I was using to trade. Appendix H shows time and sales, gathered after the heat of
+battle, from a different "more reliable" source. It's interesting to note the difference.
+
+=== PAGE 290 ===
+
+272 DiNapoli Levels
+52075, just one tick above the OP! What happened was that the 52100 test, down to
+52075, was just enough to wash out the stops below 52100 and reach solid support at the
+OP. So how did I handle it?
+When I saw the tick from 300 to 190, it was Pampers® time! Hundred point ticks
+weren't all that common at the time. I called the floor to see if the tick was correct. Their
+voices were hoarse and shaky. The order clerks told me there was a trade or two between
+those two numbers, but that a panic was occurring. "We're not 'arbing' orders, it's so
+crazy," was what the clerk said. The noise level was extreme. The clerks were concerned
+with errors, and rightfully so. Before I got off the phone we were at 52100 and since that
+was just a few ticks above my closing profit objective, and since there was a panic going
+on, I "canceled replaced" and closed at market. Many of my students and my trading
+friends would have been delighted to see a 110 point tick in their favor. For me it was the
+ticket out. That old saying about Fools and Angels ought to hang on your trading room
+wall.
+When I know I'm trading really well and in tune with the market, this is the way things go.
+Hit the market on an extreme in a throw back rally, never suffer pain, and take profit in
+just a few bars. If you think that this sounds just too good to be true, use these strategies
+for a while and see for yourself just how close you can get to the "perfect trade." It might
+surprise you.
+A QUESTION:
+This sounds fantastic. Do you always trade like this?
+Sure... I always sell highs, I always buy lows, my stops are never hit, I own Chicago and
+New York. My bid is in for Singapore and I'm looking for a retracement!
+
+=== PAGE 291 ===
+
+ 
+
+=== PAGE 292 ===
+
+EPILOGUE
+For those of you who are wondering about what became of Hank, Dan, and Carl, I'll fill
+you in on what I know.
+Hank's still hard at it. He's a broker now and has an advisory service. His clients last
+longer than most who trade futures, but they sure seem to trade a lot.
+Carl gave up futures trading and runs a nursery specializing in petunias. He managed to
+make some money trading, but it was too stressful and considering the amount of work
+and worry it entailed it just wasn't worthwhile. His strawberry petunia display won a
+blue ribbon at the county fair.
+What about Dan?
+We'll, he kept slipping through the rain drops and made a lot of money in Futures. For
+those jealous ones among you, take heart. After one of his frequent trips to Bangkok, his
+wife filed for divorce and the settlement was a doozie. Problem was however, she's been
+unable to collect. Something about offshore banks.... He sure is a tough guy to tag.
+He's still trading but nobody knows for sure where he is.
+
+=== PAGE 293 ===
+
+Appendix 275
+APPENDIX A
+CALCULATIONS AND CHART LOCATION FOR THE 3X3 DISPLACED
+MOVING AVERAGE
+DEFINITION:
+The 3X3 Displaced Moving Average is a number which is derived by computing the three
+day simple Moving Average of the close, and displacing it forward in time three days. A
+series of these numbers, connected together, form a Trend Indicator, as well as a tool for
+determining certain directional signals.
+EXAMPLE:
+If we start with 95/06/12, we can calculate the 3X3 for the Sept. S&P on 95/06/19.
+We simply add the closing price on 6/12 to the closing price on 6/13. To that sum we add
+the closing price on 6/14. We then divide that total by three. This is what is commonly
+known as the simple 3 day Moving Average of the close. Conventional wisdom would
+place that number on the chart on 95/06/14. We "displace" it forward 3 (market) days.
+Therefore the number calculated represents the 3X3 DMA for 95/06/19.
+
+=== PAGE 294 ===
+
+276 DiNapoli Levels
+APPENDIX B
+RUNNING FibNodes™ AND TradeStation® AT THE SAME TIME
+Perform the following steps to run FibNodes and TradeStation at the same time,
+after the programs have been installed using each program's installation instructions:
+Windows® 3.1 Users:
+1. After TradeStation is running, hold down the CTRL key while pressing the ESC key
+on your keyboard to display the Windows task list.
+2. Select Program Manager from the list by clicking on it and click the Switch To
+button to display the Windows Program Manager.
+3. Click the Window menu.
+4. Select Main from the list that is displayed to open the Main program group.
+5. Double-click the MS-DOS Prompt icon to access DOS.
+6. Follow the normal procedures to load the FibNodes program.
+7. After FibNodes is loaded, hold down the ALT key while pressing Enter on your
+keyboard to open a DOS shell.
+8. To view TradeStation and the DOS window simultaneously, arrange the windows
+horizontally on your screen so that both applications are visible.
+9. If you need to shut your computer down at any time, go back into DOS and exit the
+FibNodes program, and then type exit at the DOS prompt.
+Windows® 95 Users:
+1. After TradeStation is running, hold down the CTRL key while pressing the ESC key
+on your keyboard to display the Windows Start Menu.
+2. Select MS-DOS Prompt from the menu to access DOS.
+3. Follow the normal procedures to load the FibNodes program.
+4. After FibNodes is loaded, arrange the DOS window so that both TradeStation and
+FibNodes are visible on your screen.
+5. If you need to shut your computer down at any time, go back into the DOS window
+and exit the FibNodes program, and then type Exit at the DOS prompt.
+
+=== PAGE 295 ===
+
+APPENDIX C
+FibNodesTM setup for ASPEN GRAPHICS™USERS
+Windows® 3.1
+These instructions are designed to help users of FibNodes and ASPEN GRAPHICS
+run the two programs side-by-side on a Windows 3.1 operating system.
+1) Install FibNodes and ASPEN GRAPHICS using each program's installation
+instructions.
+2) Bring up Aspen as you would normally (i.e. as a full-screen application).
+3) Press the alt+tab keys, to get back to Program Manager.
+4) Find the Group Icon that contains the MS-DOS icon (usually Main).
+Highlight this icon, press the enter key, and then highlight the MS-DOS
+icon and press the enter key.
+5) At the DOS prompt, type: cd\fib and press the enter key.
+6) At the C:\FIB prompt, type: fibnodes press the enter key.
+7) Press the enter key four (4) times to move past the introductory screens.
+8) Press alt+enter keys to make the FibNodes program run in a small, inset
+window. Adjust the window size using the resize icon in the upper-right
+corner of this window.
+9) Switch back to ASPEN GRAPHICS using the alt+tab keys.
+10) Adjust the size of the ASPEN window by clicking on the resize icon. Use the
+cursor to further adjust the size of the window by holding down the left mouse
+button and dragging the borders until both windows can be viewed on the
+screen side-by-side.
+11) Switch between programs by using the alt+tab keys, or click the right
+mouse button in the window you want to use.
+
+=== PAGE 296 ===
+
+278 DiNapoli Levels
+FibNodes™SETUP FOR ASPEN GRAPHICS™USERS
+Windows® 95
+These instructions are designed to help users of FibNodes and ASPEN GRAPHICS™
+run the two programs side-by-side on a WIN95 operating system.
+TO OVERLAY FibNodes™ ON ASPEN GRAPHICS™:
+1) Install FibNodes and ASPEN GRAPHICS using each program's installation
+instructions.
+2) Bring up Aspen as you would normally (i.e. as a full-screen application).
+3) Click-left on "Start" on the Taskbar, usually found in the lower-left corner of
+the screen.
+4) Select Programs and from the selection of programs select MS-DOS Prompt.
+If DOS appears to take over your entire screen:
+Press alt+enter to make the MS-DOS Prompt program run in a small, inset
+window. Adjust the window size in the upper-left corner of this window.
+5) Type: cd\fib and press the enter key.
+6) At the C:\FIB prompt, type: fibnodes and press the enter key.
+7) Press the enter key four (4) times to move past the introductory screens.
+8) Switch between FibNodes and ASPEN GRAPHICS using the alt+tab keys.
+TO VIEW FibNodes™ AND ASPEN GRAPHICS™ SIDE-BY-SIDE
+("TILED" ON YOUR SCREEN):
+1) Bring up ASPEN GRAPHICS™ as a full screen application and bring up
+FibNodes in an MS-DOS window (Steps 1 through 8 above).
+2) Click either mouse button anywhere within the ASPEN GRAPHICS™ window.
+3) Click on the resize icon in the upper-right corner of the screen.
+4) Once the ASPEN GRAPHICS™ window has been resized, click on the resize
+icon in the MS-DO S/FibNodes window.
+5) Move and resize windows as necessary until both windows are visible at the
+same time.
+6) To switch between windows, use the at keys or click the mouse in the
+window you want to use.
+
+=== PAGE 297 ===
+
+Appendix 279
+APPENDIX D
+TradeStation® INPUTS TO SIMULATE STUDIES IN DiNapoli LevelsTM.
+MOVING AVERAGE CONVERGENCE DIVERGENCE (MACD)1
+To use smoothing factor inputs of .213, .108, and .199 where the number of "periods" is
+required, use the preprogrammed MACD (which is calculated by an exponential MA
+formula) with the following inputs. The formula for MACD is in Appendix E.
+FAST MA 8.3896
+SLOW MA 17.5185
+MACMA 9.0503
+DISPLACED MOVING AVERAGES
+3 Period Simple MA of close Displaced Forward 3 Periods
+7 Period Simple MA of close Displaced Forward 5 Periods
+25 Period Simple MA of close Displaced Forward 5 Periods
+Period = Day, Week, or Month
+DETRENDED OSCILLATOR
+Close - N Period Simple Moving Average
+Period - Day, Week, or Month
+N=7 or 3
+1 Gerald Appel, The Moving Average Convergence Divergence Trading Method (New York: Signalert
+Corporation).
+
+=== PAGE 298 ===
+
+280 DiNapoli Levels
+PREFERRED STOCHASTIC
+PREFERRED SLOW %K USER FUNCTION
+************************************************************
+Study : PreferredSlowK
+Title : Slow %K based on Modified Moving Average
+Type : User function
+Note : FastK is preprogrammed
+************************************************************
+Input: SlowKLen(Numeric), FastKLen(Numeric);
+PreferredSlowK = PreferredSlowK[1] + ((1/SlowKLen)*(FastK(FastKLen) -
+PreferredSlowK[l]));
+PREFERRED SLOW %D USER FUNCTION
+************************************************************
+Study : PreferredSlowD
+Title : Slow %D based on Modified Moving Average
+Type : User function
+Note : FastK is preprogrammed
+************************************************************
+Input: FastKLen(Numeric), SlowKLen(Numeric), SlowDLen(Numeric);
+PreferredSlowD = PreferredSlowD[I] + ((1/SlowDLen)*(PreferredSlowK(SlowKLen,
+FastKLen)-PreferredSlowD[1]));
+
+=== PAGE 299 ===
+
+Appendix 281
+PREFERRED STOCHASTIC INDICATOR
+************************************************************
+Study : StochasticPreferred
+Tide : Stochastic based on modified Moving Average
+Type : Indicator
+************************************************************
+Input: FastKLen(8), SlawKLen(3), SlawDLen(3);
+PlotI(PreferredSlowK(SlowKLen, FastKLen), "%K");
+Plot2(PreferredSlowD(FastKLen, SlowKLen, SlowDLen), "%D");
+IfCheckAlert then
+begin
+If Plot1 crosses above Plot2 or
+Plot1 crosses below Plot2 then
+Alert = TRUE;
+end;
+PREPROGRAMMED TRADESTATION® STOCHASTIC INDICATORS AND
+FUNCTIONS
+TradeStation® has four Stochastic indicators included in version 4.0 build 18. They are:
+• Stochastic Fast
+• Stochastic Slow
+• Stochastic Fast Custom
+• Stochastic Slow Custom
+These indicators are plotted from the calculations of several junctions, which are:
+• FastK
+• FastD
+• SlowK
+• SlowD
+• FastKCustom
+• FastDCustom
+• SlowKCustom
+• SlowDCustom
+
+=== PAGE 300 ===
+
+282 DiNapoli Levels
+Suffice it to say, that aside from the formula for FastK (RAW), none of these Stochastic
+functions, and thus their associated indicators, are the published definition of George
+Lane's Stochastic Process, but are modifications of the original formula. Make sure that
+you check the listings for these functions using the TradeStaton® PowerEditor™, and
+know what you are using before making trading decisions that rely upon them.

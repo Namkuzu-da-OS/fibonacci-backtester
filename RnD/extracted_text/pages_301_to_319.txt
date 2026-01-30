@@ -1,0 +1,452 @@
+
+
+=== PAGE 301 ===
+
+Appendix 283
+APPENDIX E
+FORMULAS AND STUDIES:
+LANE FAST STOCHASTIC
+According to John Murphy2:
+%K = 100 [(C-Ln/(Hn-Ln)]
+%D = 100)Hm/Lm)
+where:
+C is the latest close
+Ln is the lowest low for the last n days
+Hn is the highest high for the last n days
+Hm is the m-day sum of(C-Ln)
+Lm is the m-day sum of (Hn-Ln)
+FAST STOCHASTIC
+According to Perry Kaufman3:
+% K same as shown above
+%D = (%Kt + %Kt-1}+ %Kt-2) /3 (this a simple ma smoothing)
+where:
+%Kt is %K for the most recent period
+2 John Murphy, Technical Analysis of the Futures Market (New York: New York Institute of Finance,
+1986).
+3 Perry Kaufman, The New Commodity Trading Systems and Methods (New York: John Wiley & Sons,
+1987).
+
+=== PAGE 302 ===
+
+284 DiNapoli Levels
+FAST STOCHASTIC,
+USING THE MODIFIED MOVING AVERAGE (MAV) FOR SMOOTHING
+(Kaufman New Commodity Trading)
+MAVt=MAVt-1 + (Pt-MAVt-1)/n
+where:
+MA Vt is the current modified Moving Average value
+is the previous modified Moving Average value
+P, is the current price
+n is the number of "periods "
+The starting point is calculated identically to that of a simple Moving Average.
+FAST STOCHASTICS:
+%K = 100 [(C-Ln)/(Hn-Ln)]
+where:
+C is the latest close
+Ln is the lowest low for the last n days
+Hn is the highest high for the last n days
+%D = 3 period modified Moving Average of%K
+THE PREFERRED (SLOW) STOCHASTIC
+%K = %D (from the fast stochastic above)
+%D = 3 period MA V of %K
+
+=== PAGE 303 ===
+
+Appendix 285
+MOVING AVERAGE CONVERGENCE DIVERGENCE (MACD) FORMULA
+(Appel The Moving Average)
+EMA1t = EMA1t-1 + SFl(Pt-EMA1t-1 )
+EMA2t = EMA2t-1 + SF2(Pt-EMA2t-1 )
+MACD - EMA1-EMA2
+SIGNAL LINE = MACDt-1 + SLSF(MACDt-MACDt-1 )
+where:
+EMA It & EMA2t are the two exponential Moving Averages current values.
+EMAlt-1 & EMA2t-1 are the previous values for these EMA
+SFI & SF2 are the smoothing factors for EMAIt & EMA2t,
+MACD, is the current MACD value
+MACDt-1 is the previous MACD value
+SLSF is the signal line smoothing factor
+Pt is the current price
+EXPONENTIAL MOVING AVERAGES
+(Kaufman New Commodity Trading) 4
+EMAt = EMAt-1 + SF(Pt,-EMAt-1 )
+where:
+EMAt is the current exponential Moving Average value
+EMAt-1 is the previous EMA value
+SF is the smoothing factor
+Pt is the current price
+"approximate " smoothing factor = 2/(n + I)
+where:
+n is the equivalent number of "periods" in a simple Moving Average
+4 ].K. Hutson, "Filter Price Data: Moving Averages vs. Exponential Moving Averages," Technical
+Analysis of Stocks & Commodities magazine, May/June 1984.
+
+=== PAGE 304 ===
+
+286 DiNapoli Levels
+APPENDIX F
+ABOUT FibNodes™:
+The FibNodes software has been designed to efficiently implement the strategies taught in
+DiNapoli Levels. It is exactly the same software I use for my own trading. There are no
+changes, no differences, and no secrets. It is used extensively in this country and abroad
+by savvy individual traders and money managers alike, who trade everything from Kuala
+Lumpur rubber to the S&P.
+HOW FibNodes™ WORKS:
+FibNodes is data independent. It does not use a data-base or on-line service to develop its
+files. You input the pertinent points. The program develops, stores, calculates and
+presents the support and resistance levels as described in DiNapoli Levels. If the market
+makes a new high or low, or if a new Reaction Number is called for, you add only this
+number; the program uses the data already in the file to recalculate all pertinent points.
+The presentation includes Lineage, however Confluence is not automatically determined,
+since Time Frame and volatility in a given market can account for widely disparate
+Confluence locations.
+OPERATING SYSTEM:
+Currently FibNodes is a DOS program. A Windows/NT version is being considered.
+There is little advantage to a Windows version, except for marketing purposes, since the
+DOS program is fully functional (in a DOS window) in WIN3.1, WFWG3.11, or WIN95.
+We supply documentation on how to display FibNodes in this manner. Of the current
+users, about half use the program in a separate computer, while the other half use a DOS
+window in the same computer they run their graphics software. I prefer to use a separate
+computer. It's really up to you. If you display FibNodes in Windows with your graphics
+software, I recommend a 17 to 25 inch monitor so you don't have to squint to see both
+your charting software and FibNodes at the same time. Another alternative is to run
+multiple monitors, on the same computer, and display FibNodes on one of them.
+
+=== PAGE 305 ===
+
+Appendix 287
+FibNodes™ REQUIREMENTS:
+Since the FibNodes software is a sophisticated and narrowly defined calculator, its
+requirements are minimal, 640K of memory and 1MB of disk space are all that are
+necessary for efficient operation. Installation takes a few minutes. The program is
+straightforward and easy to operate. Rather than the months it typically takes to figure
+out the complicated software packages sold today, you'll be using FibNodes effectively
+within an hour. To fully implement all of the program's features will take you some time
+however, depending on how often you trade.
+Your choice of a graphics program to use with FibNodes is important. If you're trading
+instruments like a five minute S&P, your graphics software should have the capability to
+resize charts both vertically and horizontally with a minimum of key strokes. Changing
+Time Frames should be an effortless event. Cursor access to critical chart locations must
+be quick and easy. Your choice of graphics software should also include the capability to
+properly calculate continuous contracts. See Appendix I.
+Many of my clients want to see an automatic version of FibNodes and I am in discussions
+with a number of high quality graphics software vendors to explore this possibility. What
+I have in mind with an automatic version is a more efficient method for the user to insert
+data into FibNodes. I do not anticipate nor do I expect to be a part of any attempt to
+automatically generate FibNodes support and resistance levels directly from a chart,
+absent of thought. I've been down this road with the neural network crowd and the
+results were not good. Although such a program could easily be sold for a lot of money,
+its output, based on what I have seen, would be of minimal value. If this could ever be
+done and such software was easily attainable, the functionality and implementation of the
+concept could be in question. See CHAPTER 1.
+COST:
+The price of FibNodes has been reduced from $795 to $295, while its features and
+functionality have been increased. The cost of the software does not justify fooling
+around with spread sheet programs in an attempt to duplicate what has taken me 10 years
+to achieve. Many of FibNodes' advantages are subtle. They were developed for fast-
+paced trading and cannot be appreciated until you have worked with the concept and
+implemented the strategies over a period of time.
+
+=== PAGE 306 ===
+
+288 DiNapoli Levels
+FibNodes™ FEATURES:
+The power of the program comes from its ease of use, unique presentation, and
+organizational capabilities. Below are some of its features:
+• HOT KEYS: virtually all FIBNODE FUNCTIONS can be implemented by a
+single key input. There are no complicated command lines and no fussing around
+with the mouse.
+• PAGING CAPABILITY: You can efficiently access previously created
+FIBNODE files by an alphabetized pull down menu or by simply hitting the "+" or
+the "-" key.
+• RATIO SELECTION: FibNodes defaults to the ratios I use, but you can easily
+select and maintain virtually any ratios you find useful. This can also be used as
+an excellent research tool.
+• DUPLICATE A FILE: This feature allows you to automatically create the same
+file with different ratio inputs.
+• TOGGLE KEY: By pressing "T" you will instantly see two additional numbered
+Fibnode locations at the .5 and .79 ratios.
+• 32ND CONVERSION: The program recognizes bond, treasury notes, or muni
+bond files and automatically accepts and produces Nodes in 32nds notation.
+• COLORED NODES: As a visual aid, Focus and Reaction Numbers are in white,
+while the date, time stamp, and ratio selection appear in blue. Support Nodes and
+Profit Objectives are shown in Green, while resistance Nodes and Profit Objectives
+are shown in Red.
+• UPDATING FILES: You can change Focus Numbers by simply pressing "F".
+"A" will add while "D" will delete multiple Reaction numbers. You can also
+choose where Reaction numbers are to be placed within the series. .
+• Plus many more features
+For new developments and updates you can check our web site or call our office.
+www.fibtrader.com • email coast@fibtrader.com • 941 346-3801 • Fax 941 346-3901
+
+=== PAGE 307 ===
+
+Appendix 289
+CHART AG-1APPENDIX G
+THE OSCILLATOR PREDICTOR™:
+Below is an example of how the Oscillator Predictor study works in practice.
+
+=== PAGE 308 ===
+
+290 DiNapoli Levels
+CHART AG-2
+Now we have a means of capturing profit at extremes in price but, there's a lot more we
+can do. We can use this tool to play "what-if" games. The same set of parametric
+equations will give us the level of the Detrended Oscillator for any given price, thereby
+allowing us to filter a trade as described in Strategy 2, CHAPTER 7. Here's how it would
+work in practice. You know the value of the DMA ahead of time, i.e. for tomorrow. You
+know price must exceed that value to get an entry signal. Plug the value of the DMA into
+the program, using Option 2, Chart A-G1 and you will know ahead of time, the level of
+•Overbought and Oversold corresponding to that price level. Now you can make an
+informed decision, whether or not you wish to take that trade.
+
+=== PAGE 309 ===
+
+Appendix 291
+OSCILLATOR PREDICTOR™ AS APPLIED TO THE SHORT TERM S&P
+TRADE DESCRIBED IN CHAPTER 15.
+CHART AG-3
+
+=== PAGE 310 ===
+
+292 DiNapoli Levels
+CHART A-G4
+
+=== PAGE 311 ===
+
+Appendix 293
+To achieve an Oscillator value of 90, we would have to reach a price of 52730
+(tomorrow).
+
+=== PAGE 312 ===
+
+294 : DiNapoli Levels
+APPENDIX H
+SHORT TERM S&P TRADE FROM CHAPTER 15, TIME & SALES
+This depiction of T&S is a more accurate representation of what actually occurred on the
+floor. It differs substantially from what I was viewing at the time of the trade.
+
+=== PAGE 313 ===
+
+Appendix 295
+APPENDIX I
+CONTINUOUS CONTRACT CREATION:
+There are an almost unlimited means of creating continuous contracts from individual
+Futures contracts. The following method works best when using the Fibonacci Analysis
+techniques taught in this book
+Use all available contract months, regardless of volume or open interest considerations.
+Include the current months data right up to the last trading day of the contract. Do not
+adjust for any gap that may occur when you append the next months contract to the last
+day of the current contract. Friday should be considered to be the close for the week,
+while the end of the month, regardless of which day it falls on, is considered to be the
+close of that month.
+
+=== PAGE 314 ===
+
+296 DiNapoli Levels
+APPENDIX J
+COAST INVESTMENT SOFTWARE, INC. products and services:
+6907 Midnight Pass, Sarasota, FL 34242 • 941 346-3801 • Fax 941 346-3901
+• e-mail coast@fibtradcr.com • www.fibtradcr.com
+TEACHING AND TRAINING:
+Joe DiNapoli's, "FIBONACCI, MONEY MANAGEMENT, AND TREND ANALYSIS, in
+home trading course" This course consists of eight 90 minute audio tapes, an
+accompanying 100 page Instruction Manual, a high quality, wide span, Proportional
+Divider and an Applications Manual which describes in great detail how to properly use
+the divider. This is a recorded, 2-day seminar detailing a wide variety of topics essential
+for a trader's success $375.00
+without the Proportional Divider and an Applications Manual $275.00
+The PROPORTIONAL DIVIDER & APPLICATIONS MANUAL: The Proportional Divider
+is a high quality architectural tool, manufactured and engineered in Germany. It is light
+weight and easy to handle. With this precision instrument, a trader can graphically locate
+important Fibonacci ratios, Confluence, and Lineage Markings. It is generally considered
+to be an indispensable trading tool, even if you have the FibNodes™ software. The
+Applications Manual is a detailed, 60 page, professionally illustrated, instruction manual
+describing the manipulation of the Proportional Divider, as well as the theory behind the
+use of this device $129.00
+PRIVATE SEMINARS: Two day, intensive tutorials are held in the trading room during
+trading hours. Attendance is limited, prerequisites apply, and availability is very limited.
+Contact the office for price and scheduling information.
+TRADING SOFTWARE:
+FibNodes™: A unique Fibonacci Retracement and Objective Calculator, designed
+specifically for hectic, high-pressure, intraday trading, as well as position trading where
+high accuracy stop placement and targeted "profit objectives" are a must! The Fibonacci
+levels are calculated and presented in a manner consistent with Joe DiNapoli's approach
+as detailed in DiNapoli Levels. $295.00
+THE CIS TRADING PACKAGE: A complete, affordable computer software graphics
+trading package. It competently provides end-of-day analysis and has the proprietary
+"Oscillator Predictor™" study, as well as other studies Mr. DiNapoli recommends for
+competent trend analysis and Directional trading techniques $295.00
+
+=== PAGE 315 ===
+
+Bibliography 297
+BIBLIOGRAPHY:
+Gerald Appel The Moving Average Convergence-Divergence Trading Method (Signalert Corp., 150 Great
+Neck Road, Suite 301, Great Neck, New York 11021)
+Jacob Bernstein, Short Term Trading in Commodity Futures, (Probus Publishing Company, 1987, ISBN
+0-917253-66-3 ),(MBH Commodities, 60 Revere Dr., #888. Northbrook, IL 60062, 800 678-5253)
+Robert Edwards and John Magee, Technical Analysis of Stock Trends
+Larry Ehrhart, 3700 North Lake Shore Drive, Suite 7-09, Chicago, IL 60613, 312 871-4687, 312 789-
+7434 •(Volume Studies)
+J.K. Hutson, "Filter Price Data: Moving Averages vs. Exponential Moving Averages" Technical Analysis
+of Stocks & Commodities magazine, May/June 1984.
+George Lane. Investment Educators. 719 S. Fourth Street, Watseka, IL 60970 800 962-9836, (815) 432-
+4334 «(Stochastics)
+John Murphy, Technical Analysis of the Futures Markets, (New York Institute of Finance, New York
+1986)
+Markets & Market Logic by Peter Steidlmayer and Kevin Koy, (The Porcupine Press, 1986, ISBN 0-
+941275-00-0, 401 S. LaSalle St., Suite 1101, Chicago. IL 60605)
+J. Welles Wilder Jr., New Concepts in Technical Trading Systems (Trend Research, 1978),
+Bill Williams, Ph.D., C.T.A., Profitunity Trading Group, Ltd 2300 Pilgrim Estates Dr., Texas City, TX
+77590-3750 409 945-8880, Fax 409 945-8887, e-mail ptg@phoenix.net, www.profitunity.com
+•(Judgmental Trading)
+
+=== PAGE 316 ===
+
+298 DiNapoli Levels
+REFERENCE MATERIAL:
+The following references appear in this section because I believe they have the potential to offer you
+significant value. Pick and choose among them, as some are quite advanced while-others arc beginner
+level. Certain references arc more for interest than practical trading application, while other references
+help you hold on to your profits after the trading is over. Listings in the bibliography have not been
+duplicated in this section. Next to certain references I have indicated a particular area of expertise or
+perhaps some suggested reading. Other references have no particular mention because the reference could
+have a number of publications or the form of the material provided docs not lend itself to a brief
+description. I have been in the business for a long time and doubtless I have forgotten to include many
+worthwhile publications and individuals. To those I offer my sincere apologies.
+Thomas Aspray, Boardwatch, 117 W 15th Ave, P.O. Box 2141, Spokane, WA 99210, 509 838-0434,
+Fax 509 74 7-7801
+Bill Bay, 1065 US 1 North, Ormond Beach, Fl 32174 •(Volume Studies)
+Thomas A. Bicrovic, Synergy Futures, 519 Riva Court, Whcaton, IL 60187,
+630 682-3768, Fax 630 682-3915
+John Bollingcr, Bollingcr Capital Management, Inc., P.O. Box 3358, Manhattan Beach, CA 90266,
+310 798-8855, Fax 310 798-8858
+Walter Brcsscrt, P.O. Box 8268, 9440 Doubloon Drive, Vero Beach, FL 32963, 407 388-3330,
+Fax 407 388-3389 -(Time Cycles)
+Constance M. Brown, Aerodynamic Trading (New Classics Library, 1995, ISBN 0-932750-42-7,
+P.O. Box 1618, Gainesville, GA 30503) (Aerodynamic Investments Inc., 770 533-9161,
+Fax 770 536-1337 , e-mail CBspz&ibm.net, www.aeroinvest.com)
+Bob Buran, Bob Buran Investment Vision, 8175 S Virginia Street, S850-359, Reno, NV 89511,
+702 853-8667
+Andrew E. Cardwcll, Cardwell Financial Group, Inc., P.O. Box 1369, Woodstock, GA 30188
+•(RSI, Divergence Techniques)
+Michael Chalik, Universal Technical Systems, 6503 N. Military Trail, Suite 905, Boca Raton, FL 33496,
+800 315-3893, Fax 561 989-9131, e-mail wetradeall@aol.com, www.tradefutures.com
+•(Non-judgmental Trading)
+Laurence A. Connors and Linda Bradford Raschke Street Smarts (M. Gordon Publishing Group, Malibu,
+CA, 1995, ISBN 0-9650461-0-9), www.mrci.com/lbr/
+Michael Gur Dillon, Symmetry Wave Theory, 1705 14th St., Suite 277, Boulder, CO 80302,
+303 449-4601 •(Non-judgmental Trading)
+Edward Dobson, Understanding Fibonacci Numbers, Traders Press, Inc. P.O. Box 6206,
+Greenville, SC 29606, 800 927-8222, Fax(803) 298-0221
+
+=== PAGE 317 ===
+
+Reference 299
+Mark Douglas, Trading Behavior Dynamics, 195 N. Harbor Drive, Suite 1603, Chicago, IL 60601
+312 938-1441, Fax 312 856-2184 •(Psychology)
+Dr. Alexander Elder, The Russian Exchange. 157 West 57ih Street, Suite 1103, New York, NY 10019,
+212962-6894.718639-8889
+Peter Eliadcs, cyclcsc@carthlink.ncl -(Cycles)
+Tucker J. Emmctl, Fibonacci Cycles and Commodity Price Behavior (Tucker Emmctt, Stotler &
+Company. 30 South Wackcr Drive, Chicago. IL 60606, 312 930-1450)
+Robcr Fischer, Fibonacci Applications and Strategies for Traders. (John Wiley & Sons, Inc. 1993,
+ISBN 0-471-58520-3), The Golden Section Compass
+Nelson Frccburg. Formula Research, 4745 Poplar Avc., Suite 307, Memphis, TN 38117,
+901 767-1956, 800 720-1080, Fax 901 458-0066 •(Non-judgmental Trading)
+William R. Gallachcr, Winner Take All (Probus Publishing Company, 1994, ISBN 1-55738-533-5)
+Joseph and Francis Gics, Leonard of Pisa and the Mathematics of the Middle Ages
+Sunny Harris, Trading 101 - How to Trade Like a Pro (John Wiley & Sons, 1996)
+Sunny Harris & Assoc.. Inc.,2075 Cortc del Nogal, Suite C, Carlsbad, CA 92009-1414,
+888 68-Sunny, 760 930-1050, Fax 760 930-1055, www.moneymentor.com
+Cynthia Kasc, Kasc & Co., 1000 Eubank NE, Suite.C, Albuquerque, NM 87112, 505 237-1600
+P.J. Kaufman, The New Commodity Trading Systems & Methods (John Wiley & Sons, 1987),
+Maple Hill Farm, P.O. Box 7, Scotch Hollow Rd., Wells River, VT 05081, 802 429-2121
+Robert Krausz & Jeanne Long, Fibonacci Trader Corp., 757 SE 17th Street, Suite 272, Fort Lauderdalc,
+FL 33316, 512 842-1166, Fax 954 566-2427, e-mail fibbo@safari.net
+Joe Krulsinger, Robbins Trading Company, Presidents Plaza, 7th Floor, South Tower,
+8700 W. Bryn Mawr, Chicago, IL 60631-3507, 312 714-9000.
+Charles Le Beau & David W. Lucas Technical Traders Guide To Computer Analysis of the Futures
+Markets (Business One Irwin, Illinois, 1992)
+Lou Mendelsohn, 25941 Apple Blossom Lane, Wesley Chapel, FL 33544, 800 732-5407,
+813 973-0496, Fax 813 973-2700, lm@profittaker,com
+S. Edward Moore, Rhythm of the Markets. 8000 River Road, Suite 11C, N.Bergen, NJ 07047,
+800 686-0833, 201 861-0993, Fax 201 295-8664, rhythmofthemarkets.com
+Glenn Nccly, Elliott Wave Institute, 1278 Glcnneyre, Laguna Beach, CA 92651, 800 636-9283,
+Fax 714 493-9149
+Larry Pesavento, 4625 E. Camino Rosa, Tucson, AZ 85718, 520 529-0469, Fax 520 529-0491,
+www.tradingtutor.com, (Fibonacci Analysis)
+
+=== PAGE 318 ===
+
+300 DiNapoli Levels
+Charles Plank, Pi Inc., 23130 Hartland Street, Canoga Park, CA 91307 .(Fibonacci Analysis)
+Robert Prcchtcr, New Classics Library, P.O. Box 1618, Gainesville, GA 30503, 405 536-0309
+•(Elliott Wave)
+Ted Tcsscr, Waterside Financial Services, 1035 Spanish River Road, #106, Boca Raton, FL 33492,
+407 989-0642 »(Tax Consulting for Traders)
+Tcwclcs, Harlow, & Stone, The Commodity Futures Game. (McGraw-Hill)
+Dr. Van K Tharp, IITM Inc. 8308 Belgium Street, Raleigh, NC 27606, 919 233-8855, Fax 919 362-6020
+•(Psychology)
+Ralph Vincc, The New Money Management (John Wiley & Sons, 1995) www.technalink.com/rv.shtml
+•(Money and Portfolio Management)
+Larry Williams, Commodity Timing, 140 Marine View, Suite 204, Solana Beach, CA 92075,
+619 756-0421-(Non-judgmental Trading)
+SPECIAL MENTION TO:
+Aspen Research Group, Ltd.
+710 Cooper Avenue, Suite 300
+P.O. Box 1370
+Glenwood Springs, CO 81602
+800359-1121
+Ncal Hughes
+11121 NE 97th Street
+Kirkland, WA 98033
+425822-5210
+ncal@halcyon.com
+• Internet Services
+Elycc Picciotti, Ltd.
+613 North St. Patrick Street
+New Orleans, LA 70119
+504 488-3651 Fax 504 486-6187
+e-mail elyce@bellsouth.net
+Steven E. Roehl
+326 Pontevedra Lane
+Nicevillc, FL 32578
+850729-7522
+Fax 850 729-2441
+e-mail roehl@cybertron.com
+
+=== PAGE 319 ===
+
+ABOUT THE AUTHOR
+Joe DiNapoli is a veteran trader with over 25
+years of solid market trading experience He is
+also a dogged and thorough researcher, an
+internationally recognized lecturer, and a
+widely acclaimed author.
+Joe's formal education was in electrical
+engineering and economics. His informal
+education was in "the Bunker", an aptly named
+trading room, packed full of computers and
+communications equipment, where most of
+Joe's early research began
+Exhaustive investigations into Displaced Moving Averages, his creation of the proprietary
+Oscillator Predictor™, and in particular, Joe's practical and unique method of applying
+FIBONACCI ratios to the price axis, makes him one of today's most sought after experts
+As registered C.T.A. for over 10 years, Joe has taught his techniques in the major financial
+capitals of Europe and Asia, as well as in the United States. In 1996 alone Mr. DiNapoli
+held workshops to capacity audiences in 23 financial centers around the globe. His
+contributions have appeared in a wide variety of trading books and technical analysis
+publications.
+When Chuck LeBeau asked his readers for names of successful traders they most wanted
+interviewed, Joe DiNapoli came up more often than any other. Likewise the "Atlanta
+Constitution" cited Joe's work by referring to the "magical power" of Fibonacci ratios in
+the market place. Joe has used this magic time and again on national TV to make both
+startling and uncannily accurate market predictions, particularly in stock market indexes
+and interest rate futures.
+As president of Coast Investment Software, Inc., located on Siesta Key in Sarasota,
+Florida, Joe continues to develop and deploy "high accuracy" trading methods, using a
+combination of leading and lagging indicators in unique and innovative ways. He conducts
+a limited number of private tutorials each year at his trading room and he also makes his
+trading approach available to others via software and Trading Course materials

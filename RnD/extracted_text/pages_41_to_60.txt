@@ -1,0 +1,464 @@
+
+
+=== PAGE 41 ===
+
+Chapter 2 Prerequisites, Ground Rules & Definitions 23
+According to our definition of Trend, however, (Chart 2-
+6), this is merely a reaction in an ongoing down Trend.
+Perhaps you feel that given a longer data sample, you
+could have subjectively determined the Trend accurately in
+this case. Perhaps you could have. What about the next
+chart? What about the self-doubt you may encounter in
+the heat of action, and what about your ability to pull the
+trigger?
+I use two Trend indicators and only two. They are
+Displaced Moving Averages and the MACD/Stochastic
+combination. Without them, I will not attempt to comment
+on the Trend.
+My objective is to structure your thinking. One key to
+making a good judgmental trading method is to make as
+much of it as possible, non-judgmental.
+CHART 2-6
+When the market is going sideways, it is commonly said to be in congestion or without a
+Trend. The way I define Trend leaves little room for the term "congestion." It takes no
+leap of consciousness to see that congestion on a daily chart could be dramatically
+trending in another Time Frame, e.g. the intraday world. In the daily Chart 2-7 we have
+closing prices meandering above and below our Trend indicator. On the intraday Chart 2-
+8, using an increased vertical range, and the same inputs for the DMA, we have a solid
+Trend apparent. Unless there is some significant Movement in the market, I'm not
+interested in trading. Boring, meandering markets don't interest me. If shortening the
+Time Frame doesn't present a Trend, I simply stay away. Other methods that will help
+you to define "congestion," if you have trouble grasping the concept, will be covered in
+subsequent chapters.
+
+=== PAGE 42 ===
+
+24 DiNapoli Levels
+DAY 1 DAY 2
+DISPLACED MOVING AVERAGE ON A DAILY CHART
+CHART 2-7
+DISPLACED MOVING AVERAGE ON AN INTRADAY CHART
+CHART 2-8
+
+=== PAGE 43 ===
+
+Chapter 2 Prerequisites, Ground Rules & Definitions 25
+DIRECTION:
+Direction is a concept, which like Trend, defines the Movement of the market, up or
+down. It differs from Trend in two important and distinctive ways. Firstly, Direction
+overrules Trend. That means if the Direction is up and the Trend is down, then the
+subsequent move of the market is expected and assumed to be up. We would interact
+with the market on that basis. Secondly, the criteria that determine Direction differ from
+those which determine Trend. Let me restate this point since the use of the term can seem
+confusing. Before reading this chapter, you had a concept of what the word Direction
+meant. You could look at a chart and say the Direction is this or the Direction is that.
+Forget your preconceived understanding of the word Direction. It will not serve you in
+the context of this discussion.
+When I speak of the Direction of the market, it will be specifically defined and the ensuing
+price action should be highly predictable.
+MOVEMENT:
+The Movement of the market is a term encompassing Direction and/or Trend. One could
+say the Movement is up because this or that Trend is up, or the Movement is expected to
+be down because of this or that Directional Indicator. If the criteria is insufficient to make
+a definitive statement about Trend or Direction, you cannot make a definitive statement
+about Movement. Indicators or patterns do not directly define Movement. Only Trend or
+Direction define Movement.
+FAILURE:
+Another term you may have to redefine, is my use of the word "Failure." If the market
+experiences a Failure, it too will be specifically defined and subsequent market action
+should be highly predictable. Your previous understanding or your definition of the word
+Failure will not apply in this context. Failures are forms of Directional Indicators.
+It is essential that you redefine some common terms, for in ten years of teaching traders, I
+have not found a better way to express these concepts. The concepts need explicit
+expression for thorough understanding.
+
+=== PAGE 44 ===
+
+26 DiNapoli Levels
+CHART 2-9
+What is the Trend?
+Hyper Hank: Up, it's obvious, it's up! Let's buy it!
+Diligent Dan: / don't know. You have defined how we determine Trend, but none of the
+indicators you use are on the chart.
+What's the Direction?
+Hyper Hank: You 're nit-picking.
+Diligent Dan: Same answer, don't know.
+What's the Movement?
+Hyper Hank: Come on guys, let's buy it before we miss out on the move!
+Diligent Dan: Well, since Movement is dependent upon Trend or Direction, and since you
+haven 7 given us the information to determine either of these on the chart, I guess I can't
+say; but it sure looks like it's up.
+
+=== PAGE 45 ===
+
+Chapter 2 Prerequisites, Ground Rules & Definitions 2 7
+LEADING INDICATORS:
+A Leading Indicator is one that indicates, before the market gets there, where support or
+' resistance is likely to manifest. These types of indicators are typically not taught. They
+are certainly not used properly. Of those Leading Indicators that are available, there are
+few that are of significant value. The two Leading Indicators I find to be excellent are
+Fibonacci Retracement and Expansion Analysis, and a derivative of a Detrended Oscillator
+I pioneered in the early 80s, the Oscillator Predictor™. An example of a Leading
+Indicator that I do not find particularly useful, is time cycles derived directly from market
+action. Others however, Walt Bressert, and Peter Eliades among them, have done some
+excellent work on this subject. Some Leading Indicators that I find marginally useful are
+astronomical (not astrological) dates and certain time forecasts derived from Fibonacci
+counts. Those indicators, of course, do not predict support at a certain price, but rather
+that support will manifest wherever the price happens to be, at a given time.
+LAGGING INDICATORS:
+A Lagging Indicator is one that requires market action before the indicator turns. It
+confirms support or resistance rather than predicts it. In short, it lags market action.
+Examples of Lagging Indicators are Displaced Moving Averages, Standard (non-
+displaced) Moving Averages, Stochastics, RSI, Trend lines, etc. At the risk of confusing
+the issue, it could be argued that certain of the above-mentioned indicators are coincident
+indicators, i.e. they indicate not before, not after, but simultaneous to market action.
+Understand that generally Leading Indicators are thought to be better than Lagging or
+coincident indicators, since they give you warning or precognition that certain steps
+should be taken. This is in contrast to confirmation that you should have done something
+yesterday or 15 minutes ago. Proponents, or teachers, of certain of these Lagging
+Indicators may see advantage in referring to them as Leading or coincident indicators to
+achieve a higher, perceived status for them. The truth, as I see it, is that one should use
+the best of both Leading and Lagging Indicators, and combine them in a way to achieve
+greatest success.
+Let's explore this idea a little more deeply. A reasonable case could be made that once a
+Trend line is formed, it, too, is a Leading Indicator, i.e. from that point on, any approach
+of price to that indicator could be viewed as potential support.
+
+=== PAGE 46 ===
+
+28 DiNapoli Levels
+TREND LINE
+CHART 2-10
+The same can be said for the Trend containment capability of a Displaced Moving
+Average.
+POTENTIAL SUPPORT
+CHART 2-11
+
+=== PAGE 47 ===
+
+Chapter 2 Prerequisites, Ground Rules & Definitions 29
+Okay, a case could be made. But why turn an excellent Lagging Indicator into a fair
+Leading Indicator as in the case of a DMA? Or why turn a fair Lagging Indicator (Trend
+line) into a poor Leading Indicator when we can use the best of both?
+We could get into more contradictions and semantics on the subject of Leading, Lagging,
+and coincident indicators as an intellectual exercise, but that's not the purpose of this
+book. We will have enough of a basis for an intelligent approach to what will follow so
+I'll leave the topic here.
+LOGICAL PROFIT OBJECTIVES:
+A Logical Profit Objective is an area of price where one is likely to find significant
+resistance to further Movement, e.g. significant orders placed against one's existing
+position. It is not a place to necessarily reverse your position, and there's no guarantee
+the market will stop its Movement if it gets there. Logical Profit Objectives are not price
+projections. They are simply price points where the probability of continued price
+Movement decreases substantially. Fibonacci Expansion Analysis creates price points
+where one can take a logical profit if the market gets there. As long as the Trend or
+Direction (Movement) is intact, they will be fulfilled. In a strongly running market, it is
+likely all profit objectives will eventually be achieved, usually after tradable retracements.
+It is not advisable or helpful to see these points as projections destined to be fulfilled.
+TIME FRAME:
+While there are essentially an infinite number of Time Frame charts one can use to trade, I
+choose 5, 30, and 60 minute, daily, weekly, and monthly. Occasionally I'll look at 1 or 3
+minute charts, but getting below a 5 minute chart is asking for trouble, since you begin to
+butt heads with floor traders at those levels. As discussed earlier, the shorter the "world"
+you live in, the better your brokerage and clearing services must be. The reason I don't
+trade 7 or 19 minute charts, or a 25 minute Time Frame to "beat out" the 30 minute
+players (an absurd concept) will be covered in CHAPTER 5 (The MACD/Stochastic
+combination).
+CONFIRMED AND UNCONFIRMED:
+If all the evidence is in on a given signal, it is said to be Confirmed. If we are waiting for
+some last piece of evidence the technical signal is Unconfirmed. An example of a
+Confirmed signal would be the closing of a price above a given Moving Average. An
+-example of an Unconfirmed signal would be that same signal prior to the close.
+
+=== PAGE 48 ===
+
+30 DiNapoli Levels
+MISTAKE:
+A Mistake occurs only when you go against your Trading Plan, when you do something
+and you know better. A Mistake and a large loss may or may not occur simultaneously.
+In fact Mistakes can sometimes produce significant gains. If your Trading Plan is poorly
+defined, or you lack experience in the formulation of a Trading Plan, Mistakes will be hard
+to define. With experience, your Trading Plan will take form and Mistakes will be
+identifiable. It is critical to know when a large or small Mistake has been made, since the
+number and extent of Mistakes you make is the best way you can judge your progress - or
+lack of it.
+TRADING WELL:
+At certain times of the year we all do things better than at other times of the year.
+Whether it's your golf game or the way you interact with others, it's critical to be able to
+identify when things are flowing well. In golf, you can look at your score to get a measure
+of how well you are doing. In trading it's more difficult. Today's evaluation of profit and
+loss doesn't tell you much.
+You are Trading Well when you are following your Trading Plan. A trader who does not
+Trade Well is, by definition, making mistakes. If he does not take corrective action
+according to his Trading Plan, he will never leave the game with profit on a consistent
+basis. You can always change your Trading Plan if you don't realize acceptable profit, but
+if you don't Trade Well, you are lost! Sell grapefruit, build houses, or remain retired.
+Don't trade!
+TRADING PLAN:
+A Trading Plan is a set of rules by which your trading is governed. They can be
+formulated with some flexibility as in a judgmental trading approach, or with absolute
+rigidity as in a non-judgmental trading approach. Even a judgmental approach should
+contain as many rigid rules as possible, so you will know with near certainty when you are
+Trading Well (not making mistakes) and when you are not.
+SUMMARY:
+Now we have the building blocks for our foundation. In CHAPTER 3, I'll put the
+foundation firmly in place. All of the concepts taught in the remainder of this book will fit
+within the confines of this structure.
+
+=== PAGE 49 ===
+
+CHAPTER 3
+THE ESSENTIAL
+COMPONENTSOF A SUCCESSFUL TRADING APPROACH
+MY TRADING PLAN INCORPORATES THE KNOWLEDGE AND
+IMPLEMENTATION OF:
+1. MONEY AND SELF-MANAGEMENT
+2. MARKET MECHANICS
+3. TREND AND DIRECTIONAL ANALYSIS (LAGGING AND COINCIDENT INDICATORS)
+4. OVERBOUGHT/OVERSOLD EVALUATION
+5. MARKET ENTRY TECHNIQUES (LEADING INDICATORS)
+6. MARKET EXIT TECHNIQUES (LEADING INDICATORS)
+Let's take a closer look at each of these aspects individually and how they will be handled
+in this book.
+
+=== PAGE 50 ===
+
+32 DiNapoli Levels
+1. MONEY AND SELF MANAGEMENT
+I've already alluded to certain critical self-management techniques in CHAPTER 1.
+There's a lot more that you need to know1. In the reference section, I've made mention
+of some alternative sources of information that may be useful to you. Finding good
+material on market psychology will likely be easier than getting good, practical money
+management material.
+Regarding successful personality profiles, I can add to the above reference material that
+successful traders are typically confident, self-made individuals, who can handle criticism
+and loss without defensiveness. There is no room in their minds for jealousy, envy, or
+emotional insecurity. It took me a long time to realize why nearly all my friends were
+traders and why I like being around traders so much. I don't know a better way to put it
+other than that they are real men and women. I'm not saying that traders must be perfect
+individuals. I am saying that the demands of this business substantially exceed those of
+other endeavors. If you suffer significantly from any of the personality flaws mentioned
+above, first iron out those flaws, then learn about trading specifics.
+In any discussion of personal management and significant amounts of money, I guess it
+would be fair to comment on the people you'll run into as a part of your trading
+experience. We all know that there are thieves and unscrupulous individuals in any field.
+Such individuals exist in this business as well. I can honestly say, however, that in almost
+30 years in and around this industry, I've run into only two. One has been indicted and
+the other is likely to be at some point. Those thieves that exist on the floor are
+straightened out by their (floor) colleagues. The motivation to clean things up is not
+moral, it's practical. There is only so much money to go around. If someone consistently
+gets too much of it unscrupulously, the others perceive this person as a pariah and find
+very effective ways to rid themselves of his presence.
+1 The FIBONACCI, MONEY MANAGEMENT, AND TREND ANALYSIS, in home trading course
+delves into the personality profile of successful traders. This portion of the taped discussion is
+approximately three hours long. It examines each aspect of successful thinking. More time is spent
+thoroughly covering money management techniques, an understanding of ruin (gambling) theory, as well
+as aberrant runs. The course explains how to handle margin during winning periods and losing periods.
+It discusses positive and negative expectation games and how your trading is defined by the nature of the
+methodology you are using. There is also a section that contains more basic information on how to open a
+futures trading account, how to choose a broker, and so on. Since these topics are well documented and
+thoroughly covered, they will not be repeated here. The appropriate audio portions referenced above,
+along with sections of the accompanying manual may be broken out of the full course. This way no one
+will feel forced into buying material that is perceived to be redundant.
+
+=== PAGE 51 ===
+
+Chapter 3 The Essential Components 3 3
+2. MARKET MECHANICS:
+I'm talking here about an understanding of the floor, of the actors on the floor, of order
+entry, floor rules, and practical issues...X'd trades for example2.
+If you were in the auto wholesale business and you didn't understand the insurance
+companies, the auctions, the dealers, the mechanics of the sealed bid, and such, how far
+would you get? If you were into real estate and you didn't understand the mechanics of
+financing and escrow procedures, how far would you get?
+I run into traders all the time who know nothing about the floor, yet they use the floor six
+times a day trying to make money. Wake up! You need a reality check! Know the
+mechanics behind the business at which you are attempting to make a living.
+In private seminars, I stress the importance of pit knowledge. I tell my students to get on
+the floor of the S&P for at least six hours. I want their legs to ache and I want them to
+see pit traders get spit on, trampled, and possibly even get into fights. I want them to feel
+the disappointment of the local who can't get an order off to close his profitable three-tick
+trade. I want my students to see the frustration of "out trades" in the making. Trading is
+a tough, risk management business. How can you manage a risk you are unaware of?
+How can you dispel misconceptions without experience? Floor traders are your
+colleagues. You do yourself a disservice when you make them your enemy.
+What if you're not an intraday trader? That's fine. You don't need to know anywhere
+near as much about the pit as someone who trades intraday. You do, however, need to
+know more than 90% of the people out there who think they are going to pay their bills
+out of their trading profits. You need to dispel misconceptions that act as a crutch for
+impractical behavior.
+This is a hot topic for me. When I designed my FIBONACCI, MONEY MANAGEMENT,
+AND TREND ANALYSIS in home trading course in 1988, I thought I had given the
+prospective trader everything he needed to get the job done. By relating a variety of
+personal experiences, I addressed this issue, but only so much could be done in a two-day
+workshop. I realized more needed to be done and I will endeavor to fill this void at some
+point in the future. I have identified the people I wish to have participate in such a work,
+but so far I have not been able to convince them to help me on this project. I will make
+constructive and appropriate reference to aspects of floor mechanics as we progress in this
+book. However I strongly recommend that you make it your business to seek out and
+befriend experienced traders, both on and off the floor. Once you have gained their trust,
+2 Joe DiNapoli, "THE X'D TRADE (or Where's My Fill?)," Technical Analysis of Stocks & Commodities
+magazine, March 1995, page 88.
+
+=== PAGE 52 ===
+
+34 DiNapoli Levels
+they will freely discuss the anatomy of the floor and you will be rewarded for your efforts
+throughout your trading career.
+I hope you are not unduly disappointed with references to other sources of information
+regarding items one and two above. Be sure you check the bibliography and reference
+sections. The rest of the trading approach is fully and explicitly covered in the following
+pages.
+3. TREND AND DIRECTIONAL ANALYSIS
+CHAPTERS 4, 5, & 6
+4. OVERBOUGHT AND OVERSOLD EVALUATION
+CHAPTER 7
+5. MARKET ENTRY TECHNIQUES (LEADING INDICATORS)
+CHAPTERS 8, 9, 10, 11 & 13
+6. MARKET EXIT TECHNIQUES (LEADING INDICATORS)
+CHAPTERS 7, 8, 9, 10, & 11
+IMPORTANT POINTS TO NOTE:
+While it is not a formalized part of my Trading Plan, I strongly recommend you complete
+trade evaluation summaries. This consists of a written evaluation or self-evaluation
+"diary", which enables you to gain perspective and reinforce the concept of Trading Well.
+The remaining chapters of the book will deal with implementation of my Trading Plan,
+using a variety of specific examples.
+
+=== PAGE 53 ===
+
+SECTION 2
+CONTEXT
+When I get into an aircraft, I like to see some gray hair on the Captain. It gives me
+confidence and puts a smile on my face as I settle down to my first drink. My assumption
+is that he's been around a while and likely to have seen some spooky times. It's no
+different with trading. The egotistical traders among us might hide the Grecian
+Formula®, but the experience is still there. We juggle dynamite when we trade futures.
+While a trader could certainly use the concepts taught in this book to enhance his
+magnesium-like glow, the purpose of this book is rather to allow a trader to profitably
+survive. Longevity in this arena tells you who's made the grade.
+By scrupulously identifying the CONTEXT of your trade, you know up front your
+risk/reward criteria. You know up front whether or not you wish to participate in a given
+trade or wait for the next opportunity which is always just around the corner.
+Remember...
+Loss of opportunity is preferable to loss of capital!
+
+=== PAGE 54 ===
+
+ 
+
+=== PAGE 55 ===
+
+CHAPTER
+TREND ANALYSISDISPLACED MOVING AVERAGES
+GENERAL DISCUSSION:
+There are many types and varieties of Trend delineation techniques. Trend lines and
+Moving Averages are among the most commonly used. There are also Displaced Moving
+Averages, Moving Average Bands, Deviation Bands, MACD, RSI, Stochastics and so on.
+There are almost as many ways of defining "Trend" as there are traders. One of my better
+students (Ed Moore) uses Fibonacci techniques to define "Trend." In inexperienced
+hands this could be a way to turn a great Leading Indicator into a poor Lagging Indicator.
+In Ed Moore's case, there's enough experience to draw from to make this transition
+useful. Another old time pro I know simply looks at price either above or below the
+open, to establish an up or down Trend respectively. While I like the simplicity of this
+technique, I think there's a real lack of quality in this method.
+I use two specific methods for Trend delineation and only two. They are:
+1. Displaced Moving Averages
+2. The MACD/Stochastic combination.
+In this chapter, we will limit the discussion to Displaced Moving Averages. The
+MACD/Stochastic combination will be covered in CHAPTER 5. The more exotic
+techniques for defining market Movement (up or down) are contained in CHAPTER 6,
+Directional Indicators.
+
+=== PAGE 56 ===
+
+3 8 DiNapoli Levels
+If you haven't fully understood the term "Trend" as defined in CHAPTER 2, please restudy
+that section. If you are interested in how I came to use Displaced Moving Averages, you
+may refer to CHAPTER 1.
+DISPLACED MOVING AVERAGES
+Displacing a Moving Average forward in time offers several significant advantages to the
+trader.
+1. It lets you know what the Trend delineation point or price number will be "N" number
+of periods ahead of time. Knowing where this point is, ahead of time, helps you to plan
+your market strategy.
+2. By using the "proper" number of periods for calculation of the Moving Average and the
+"proper" displacement amount, DMAs tend to reduce whipsaws and "cup" or contain
+market action in ways that are very helpful to traders.
+3. Certain DMAs are extremely useful in defining patterns, as shown in CHAPTER 6,
+Directional Indicators.
+After many years of research spent selecting the proper length and displacement amount, I
+have arrived at three DMAs. They are:
+- The 3 period simple Moving Average of the close, displaced forward three periods.
+- The 7 period simple Moving Average of the close, displaced forward five periods.
+- The 25 period simple Moving Average of the close, displaced forward five periods.
+For brevity, they will be shown as follows:
+3X3
+7X5
+25X5
+The periods I use are Daily, Weekly, and Monthly. Quarterly and Yearly periods work
+equally -well, but I seldom look at those Time Frames.
+I've been teaching the use of DMAs for over 11 years. I've answered hundreds of
+questions on the subject. Since the same questions come up time and again, I think it
+would be useful to review them.
+
+=== PAGE 57 ===
+
+Chapter 4 Trend Analysis Displaced Moving Averages 39
+FREQUENTLY ASKED QUESTIONS:
+What do you mean by "displaced forward in time" and how does this help reduce
+whipsaws?
+Rather than plotting a given Moving Average, calculated today, on today's date, you
+simply plot the identical value at a different, later date, hence the term "displaced." The
+displacement is on the time axis, not the price axis. For the visual learners among you, the
+arrow in the following chart shows that the same Moving Average is simply placed
+forward in time. All calculations remain identical. For the mathematical types, Appendix
+A contains a table showing the calculations and where the respective values are placed.
+CHART 4-1
+
+=== PAGE 58 ===
+
+40 DiNapoli Levels
+The next Chart 4-2A, shows a mathematically weighted Moving Average, (i.e. various
+"weights" given to different periods) plotted with no displacement. In other words, the
+chart shows a standard weighted Moving Average. The number of periods or the
+character of the weighting is not significant to the discussion.
+Chart 4-2B shows the identical Moving Average displaced forward five days. The
+displacement amount could have been two, three, 10, or minus 10 days, weeks, or months.
+It is as if you took a piece of tracing paper that had only the Moving Average on it (no
+price bars), and slid the Moving Average left or right horizontally the desired amount
+(displacement).
+Now, let's assume a basic Moving Average crossover, non-judgmental, always in the
+market system, where one would buy on close above the MA and sell below it on close.
+It's easy to see how many times one would have been whipsawed by the non-displaced
+MA as opposed to the Displaced MA.
+CHART 4-2A
+
+=== PAGE 59 ===
+
+Chapter 4 Trend Analysis Displaced Moving Averages 41
+CHART 4-2B
+For those of you who are attempting to build non-judgmental systems using Standard
+Moving Averages, try this additional variable and see if you get better results.
+ADVANCED COMMENTS:
+As with most observations in this business, there's the obvious and the insidious advantage
+to note. Obviously if you are whipsawed less often, you'll have a higher equity. Not so
+obvious is the real life factor of continuing to play the game. By the time most traders
+reached Q (for quit) as shown above in Chart 4-2A, they would have thrown in the towel
+and gone back to system development. Of course, this occurs just before the most
+profitable run on the chart. Point Q on Chart 4-2B has been relabeled to M for money
+because that is what will be made. The real life truth is that a trader trading off of Chart
+4-2B is much more likely to be there for the big gains that are to follow!
+
+=== PAGE 60 ===
+
+42 DiNapoli Levels
+Even being whipsawed infrequently, as in Chart 4-3A, can leave an average trader with an
+emotional excuse not to reenter. Look at the profit you would have missed if the whipsaw
+in March gave you an excuse to stay out of the market.
+CHART 4-3A
+Wouldn't using a longer Moving Average period accomplish the same function of
+preventing whipsaws and keeping you in the market?
+Not really. Where a longer MA will likely provide fewer whipsaws, other properties
+change as well. See Chart 4-3A. Note how the displaced MA and the non-displaced MA
+approach one another when the market finally breaks. You maintain the same profit level,
+point P.

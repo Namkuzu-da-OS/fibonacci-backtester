@@ -1,0 +1,470 @@
+
+
+=== PAGE 121 ===
+
+Chapter 6 Directional Indicators, 9 Power Patterns 103
+The corn futures chart below shows two RRTs. It was constructed outside of our
+"normal" Time Frames (see CHAPTER 2) to show you that we can "play" with the Time
+Frame selection to achieve the look of a RRT if it is not immediately apparent. This is
+what I mean when I say we can act on this signal in any Time Frame.
+Note how the close of the second bar of RRT 1 bounced back from the extreme low, the
+point of recognition. Buried in the lower Time Frame action is the retracement we're
+looking for as our short entry.
+RRT 2 was effective, but the contract was so close to expiration we'd have to look at the
+continuation chart or distant contracts for confirmation of this signal. Unless we were a
+commercial acting in the cash market, we would obviously trade on the signal in a more
+distant month than the one shown on this chart.
+CHART 6-25
+Like many of the Directional Indicators I've given you, I'm aggressive about my entry
+technique when the pattern develops. It is very dangerous, a prohibition in fact, to
+anticipate this particular signal. The reasons will be clear when we cover the more
+advanced Fibonacci techniques.
+As a point of interest, I learned about this signal back in 1988 when I was long the S&P.
+A rumor about Vice President George Bush, fooling around on Barbara hit the market.
+
+=== PAGE 122 ===
+
+104 DiNapoli Levels
+When the rumor hit, there was a hard break in price. It drove all the intraday trends down,
+albeit Unconfirmed (both the Trend and the rumor.) I hit the retracement back, i.e.
+liquidated my longs and went net short. The next thing I knew we were back to the top of
+the RRT. Now I was looking at two losses. I got stubborn and refused to take a short
+retracement back in the direction of my sell to get flat. Even though the Unconfirmed
+down trends disappeared, I was now trading against the Confirmed up trends I had
+originally used for the context of my initial long trade! This was clearly a Mistake. I
+wasn't going to let those (expletive deleted) get me! Well, they got me and a half an hour
+later when I finally got out, I was obviously counting more losses than if I had exited when
+I should have. Fortunately, I straightened things out quickly the following morning by
+buying the first retracement against a shallow Fibnode. The RRT was born!
+I've included one final Chart 6-26 on gold. If you can't find the RRTs, you'd best see an
+optometrist.
+CHART 6-26
+
+=== PAGE 123 ===
+
+Chapter 6 Directional Indicators, 9 Power Patterns 105
+"LOOK-ALIKES":
+Look-alikes are "want-to-be's" or "near miss" Directional signals. They don't quite meet
+the qualifications. Maybe a Double RePo is lacking in the extent or nature of the desired
+thrust. Possibly the tops between the first and second penetrations are a bit wider than the
+specified criteria. Perhaps the extension bars of the Railroad Track are a bit short or
+maybe the Railroad Track is occurring in "suburbia" rather than "in the country." The
+consolidation below a Head and Shoulders neckline might be one period rather than the
+several periods we'd like to see, before the Failure occurs. All these situations are Look-
+alikes. Often Look-alikes will behave similarly to the Directional signals they mimic, but
+not with the probability of success we would expect from a fully qualified Directional
+Indicator. I'll play these signals with less gusto, fewer contracts on the line. You might
+choose to let them go by. Either way is acceptable, just be sure you don't get in their
+way.
+"STRETCH":
+This Directional Indicator combines an oversold or overbought oscillator with strong
+Fibonacci support or resistance. It is obviously pretty difficult to describe this signal since
+we have yet to cover either concept. See CHAPTERS 7, 8, & 9.
+The basic idea behind this indicator is to act on the combined strength of these two
+powerful, differently derived Leading Indicators, which indicate support or resistance
+when their respective price values are in close proximity.
+Even though your entry is strictly placed, Stretch is more risky than other Directional
+signals. This signal has you buying down thrust and selling up thrust. Understand its
+implications before deciding to use it, place a physical stop (Bonsai or Bushes, Fib Tactics,
+CHAPTER 13), or monitor the position closely.
+THE "FIB SQUAT":
+This Directional Indicator is similar to Stretch in that you need strong Fibonacci support at
+a point where something else occurs. In this case, the something else is a Squat. So
+what's a Squat? As developed by friend and colleague, Bill Williams3, the Squat is a
+function of the range of a given price bar and the volume, or TIC volume, that occurs
+while that range is being created. The basic idea is that high volume and little price
+3 Bill Williams, Profitunity Trading Group, 2300 Pilgrim Estates Dr., Texas City, TX 77590
+
+=== PAGE 124 ===
+
+106 DiNapoli Levels
+movement indicate substantial support or resistance. Some of you old timers will
+remember the term "churning." That was a phenomenon in the stock market which
+occurred when you'd get tons of volume (60,000 to 80,000 shares in a day) and little price
+movement. The idea behind my approach to this indicator is to first look for likely
+Fibonacci support and resistance, and then see if a Squat manifests when that point is
+reached. If so, the Squat confirms the Fib support or resistance, and it's okay to act
+without a trend in your favor to support the trade. This indicator, like Stretch, is a more
+risky (lower probability of winning) trade than the other Directional Indicators I've
+outlined. It's good for the hyper types or over-traders among you, since you can use it all
+the way down to a five minute chart. Both Stretch and the Fib Squat yield a reasonable
+probability of a successful outcome.
+For additional safety, the Fib Squat is most useful in a context, within a context. Let's
+say, for example, that you have a strong weekly trend in place and you are experiencing a
+pullback via a Stochastic sell on the weekly. The MACD is holding nicely. With several
+daily Fibnode locations to choose from to go long, it is helpful to see a Squat manifest at
+one of them, before jumping in.
+SQUAT - greater (TIC) volume and a smaller MFI than the previous bar has.
+MFI = rb/v
+where:
+rb is range of the bar in tics or points
+v is TIC volume
+Squats look like high volume, low range bars, and are fairly easy to see without
+concocting elaborate formulas. See Chart 6-27.
+
+=== PAGE 125 ===
+
+CHART 6-27Chapter 6 Directional Indicators, 9 Power Patterns 107
+
+=== PAGE 126 ===
+
+108 DiNapoli Levels
+Below, Chart 6-28 is an equity on Fib support (not shown) experiencing high volume as
+well as a narrow range daily bar. The subsequent move up culminates at an almost exact
+Fibonacci Logical Profit Objective. After you complete CHAPTERS 8 & 9, come back and
+check for an OP move up. Incidentally, this up move turned out to be a very significant
+rally high.
+CHART 6-28
+FILTERING THE "FIB SQUAT":
+I have found that the level of "squatiness" is important as a filter to the Squat. If you
+choose to filter the Squat, part of the above formula would change accordingly: Squat
+equals 30% greater (TIC) volume and a smaller MFI than the previous bar. Larry Ehrhart,
+developer' of WINdoTRADEr™4, has done some valuable research in this area. The
+bottom line is that I like to see a significantly increased level of volume, say 30% or more,
+before I call a Squat significant. In addition, you may more easily see a Squat manifest in
+a four or six minute chart, rather than a five or 30 minute chart. As with the RRT, a Time
+Frame outside of the ones we normally consider is not only acceptable but desirable if it
+can help you identify the existence of the indicator.
+4 Larry Ehrhart, 3700 North Lake Shore Drive, Suite 7-09. Chicago, EL 60613, (312) 871-4687,
+(312)789-7434 Fax
+
+=== PAGE 127 ===
+
+Chapter 6 Directional Indicators. 9 Power Patterns 109
+You can anticipate a Squat if you have all the volume of the previous bar, a very tight
+range, and if only 1/2 or 1/3 of the Time Frame you are observing has elapsed. It's a
+pretty sure bet you'll get your necessary volume reading by the close, just make sure the
+range has not expanded unacceptably.
+Another way to "play" the Squat, is to wait for a Confirmed Squat to occur in the vicinity
+of a major Fibnode, then enter on the first shallow Fibonacci retracement you get. Your
+stop goes at or just under the bottom (top) of the Squat bar. A similar technique is
+described as Minesweeper A in the section on Fib tactics, CHAPTER 13.
+FREQUENTLY ASKED QUESTIONS:
+Can I anticipate Directional signals?
+You can anticipate any signal I give you in this book, but Directional signals can be among
+the most dangerous to anticipate. Anticipating classic pattern Failures and Railroad
+Tracks can be suicidal.
+Why do Directional signals take precedence over Trend signals?
+By their nature, they are more powerful.
+A majority of your examples are for long plays. Are these signals as effective on the
+short side?
+Yes, perhaps more effective since the public or less experienced traders have a propensity
+to favor longs. When they are wrong they are more easily panicked.
+Don't you ever feel for the player on the other side of the trade?
+It's your choice. Be the minnow or the shark. Minnows will be eaten and smart sharks
+get out of the vicinity when the big whites are circling.
+In summary, I would encourage you to reflect upon what you see occurring in the market.
+Test the validity of reoccurring patterns and Failures of widely followed signals. Soon you
+will develop some Directional signals of your own. The difficult part is waiting for them
+to manifest.
+
+=== PAGE 128 ===
+
+ 
+
+=== PAGE 129 ===
+
+CHAPTER
+OVERBOUGHT & OVERSOLD
+OSCILLATORS
+WHAT WORKS, WHAT DOESN'T, AND WHY
+GENERAL DISCUSSION:
+Overbought (OB) and Oversold (OS) are among the least understood market conditions
+that traders grapple with. Most lose money attempting to utilize what they know about
+the subject. This is not surprising, because we're getting into the use of coincident and
+Leading Indicators and very few traders are properly prepared for the challenge these
+concepts present. Because of the level of misunderstanding, instead of narrowly defining
+what I use and how I use it, my approach will be to discuss the broad topic of Oscillators
+in general: what works, what doesn't, and why.
+Typical thinking about Oscillators can be summed up by the following comment.
+"Oscillators work in a consolidating market, but once a Trend starts, they don't work at
+all." While this thinking may be typical, it severely limits and distorts a wealth of
+important trading strategies. The idea behind the statement goes something like this. You
+can sell Overbought and buy Oversold, as long as the market is consolidating and... you
+would expect to make money. This "sound good, feel good" strategy implies that you can
+identify when a market is consolidating with enough certainty to place orders. Does
+anyone want to try the ADX Average Directional Movement Index1 as a means of making
+this judgment? While this approach may be acceptable for some of you, it's not for me. I
+1 J. Welles Wilder Jr., New Concepts in Technical Trading Systems (Trend Research, 1978), hereafter
+cited parenthetically in the text as Wilder, New Concepts.
+
+=== PAGE 130 ===
+
+112 DiNapoli LeveIs
+haven't found it to be sufficiently accurate in this context, particularly for intraday charts.
+What about the second part of this statement?
+"Once a Trend starts, they (Oscillators) don't work at all." The idea here is that the
+initiation of orders against the prevailing Trend will likely result in losses, by your stops
+getting hit.
+The real problem with the initial statement is inherent in the way works is defined. I intend
+to show you how the right Oscillator can be made to work for you, in a wide variety of
+market situations.
+Before we discuss uses and potential benefits however, let's first discuss which Oscillators
+are most commonly used, and which are best to use in the context of an
+Overbought/Oversold indicator.
+THE STOCHASTIC:
+The Stochastic is one of the most consistently misused indicators in the trader's arsenal.
+Traders typically consider any move over 75 to be Overbought and any move under 25 to
+be Oversold. That's not what George Lane (its originator) teaches and that's exactly the
+opposite of what Jake Bernstein's research of the Stochastic Pop Indicator2 tells us. In
+fact, according to Jake's research, fully 50% of a strong market move can take place after
+the 75/25% barriers have been crossed!
+In the daily treasury bond Chart 7-1, there are two places, marked by vertical lines, where
+you would have been killed buying in excess of 25% Oversold. Note, this is the case even
+though I have used the more typical (stronger) 14 period Stochastic, rather than what I
+described to you in CHAPTER 5. Further complicating the issue for new traders is the fact
+that in strongly trending markets, the Stochastic may never see these extreme (75%/25%)
+levels on typical retracements of an ongoing Trend. If you were waiting for these levels,
+you'd likely never get the opportunity to sell in a strong down trend or buy in an strong up
+trend.
+2 Jake Bernstein, Short Term Trading in Commodity Futures, (Probus Publishing Company, 1987),
+hereafter cited parenthetically in the text as Bernstein, Short Term Trading.
+
+=== PAGE 131 ===
+
+Chapter 7 Overbought & Oversold Oscillators 113
+CHART 7-1
+THE MACD:
+Other traders use the MACD (Moving Average Convergence Divergence) to indicate
+extremes in market Movements, or worse yet, as a divergence tool. As you know from
+CHAPTER 5, this is a cleverly designed and highly capable Trend-indicating Oscillator, not
+an Overbought/Oversold tool. There is, however, an innovative technique (Bernstein,
+Short Term Trading) of using the distance between the slow and fast lines of the MACD
+as an Overbought and Oversold indicator. In my opinion, however, there is a much better
+way to accomplish this.
+THE RELATIVE STRENGTH INDEX (RSI):
+The RSI is not it. Although far better than the Stochastic or the MACD for OB/OS
+analysis, this important indicator was created by Welles Wilder (Wilder, New Concepts) to
+nave universal appeal and easy application across markets. He certainly achieved those
+objectives, but for the more sophisticated trader something was lost. Since the RSI is
+normalized at +/- 100, like the Stochastic, it squashes strong market moves. If the
+Oscillator is at 95 and a big up move continues, it only has 4.9999 points left to go.
+
+=== PAGE 132 ===
+
+114 DiNapoli Levels
+When the RSI achieved 96.50 on the daily coffee chart below, where could it go? As the
+move exploded in price, the RSI went down to 93.78, while the Detrended Oscillator
+increased from 9.41 to 16.19. A seven period input was used for both indicators in this
+example. On the right side of the chart, we see the Detrend at a whopping value (in
+relative terms, over four times the original amount of 9.41). The RSI was actually less
+than it was originally at 89.00. Discernible values of Overbought and Oversold relative to
+price are of critical importance. Why not use an indicator that plainly illustrates them?
+CHART 7-2
+Also, consider that Overbought in coffee has a different character than Overbought in
+corn, which has a different character than Overbought in the S&P! This character doesn't
+have the elbow room to show itself using the normalized RSI.
+THE COMMODITY CHANNEL INDEX (CCI):
+Finally, there's the Commodity Channel Index (CCI). I have the least amount of criticism
+for the CCI, probably because it does a fairly good job of approximating the Oscillator I
+use. Although Donald Lambert's3 development of this indicator was tied to Trend and
+cycle work, most traders who use this indicator use it as an Overbought/Oversold tool.
+The CCI is not normalized to +/- 100 and therefore requires more understanding to
+employ. This is likely why it is not used (or misused) extensively. Although the CCI has
+value, I believe the Detrended Oscillator achieves significantly better results.
+3 Donald Lambert, "Commodity Channel Index: Tool for Trading Cyclic Trends", Technical Analysis of
+Stocks & Commodities magazine, July/August 1983, page 120-122.
+
+=== PAGE 133 ===
+
+Chapter 7 Overbought & Oversold Oscillators 115
+THE DETRENDED OSCILLATOR:
+The Detrend is an indicator that's been around a long time. I don't know who the
+originator was or when it was developed. The Detrend attempts to measure variations of
+price about a zero line which represents the Trend, hence Detrended. We define the Trend
+as a given Moving Average, then we mathematically make that average constant, or the
+zero line.
+The formula for the Detrend is simple:
+Detrended Oscillator = Close minus Moving Average.
+A reasonable variation is the high or low, minus a given Moving Average as depicted on
+Chart 7-5.
+Some of my colleagues believe incomprehensible math equates with genius, and therefore
+to profits. I always believe in keeping things as simple as possible. Since I did my
+research on the indicator in the early 80s on an 8088 processor, keeping the math simple
+was a practical, as well as a philosophical consideration .
+I approached research on the Detrend in the same way as I approached research on the
+DMAs. I observed the quality of the indicator's usefulness, in trading situations, over a
+broad spectrum of data. I used none of the typical optimization techniques popularized
+some years later.
+In observing literally thousands of data sets, with a wide variety of combinations of the
+detrend (simple, weighted, exponential, and mathematical MAs, of the median, high, low,
+close, etc.), my final conclusion for the best data sets were:
+1. The close (today) minus a three day simple Moving Average of the close.
+and
+2. The close (today) minus the seven day simple Moving Average of the close.
+Of the two data sets, the 7 day MA of the close is clearly the most useful in the context I
+apply it. I still use both data sets, however, particularly under Strategy 1, described
+below.
+Aside from the profits generated from this laborious enterprise, the most gratifying aspect
+is that I see no reason to change the parameters today, over 15 years later!
+
+=== PAGE 134 ===
+
+116 DiNapoli Levels
+USING THE DETRENDED OSCILLATOR:
+Now, let's talk about how to use this powerful and versatile Oscillator in a variety of easy-
+to-apply strategies.
+STRATEGY 1:
+When your position reaches 70, 80, 90, or 100% of average Overbought/Oversold, take
+your profit.
+The key considerations for employment of Strategy 1 are:
+The Time Frame we use to calculate Overbought/Oversold and... the definition of what is
+meant by average Overbought/Oversold.
+Here's where experience comes in. I always calculate OB/OS levels on a daily basis, i.e.
+daily data, even though 80% of my trades are off a five minute chart. Let me put this a
+little differently, so there is no misunderstanding. I never use intraday charts to calculate
+OB/OS levels for determining Logical Profit Objectives, even though intraday charts are
+where my position may be taken. To determine OB/OS levels, I look back over the
+Oscillator peaks and valleys. I consider about six months of the most recent daily data.
+Average Overbought/Oversold is a value judgment, not a strict mathematical calculation.
+If I have three Overbought peaks as in Chart 7-3 with values of 96.85, 101.00, and
+100.70, I'd take approximately 98.00 as an average Overbought.
+
+=== PAGE 135 ===
+
+Chapter 7 Overbought & Oversold Oscillators 117
+CHART 7-3
+I'll typically have my order resting in the market at a price equivalent to approximately
+90% of the Oscillator's average Overbought level. At that point, I say "adios" to the
+trade. You might choose a lower or higher percentage. A resting day order is always best
+to take advantage of unexpected news or large traders pushing the market around for their
+own purposes. If it doesn't get hit, you cancel it or just let it expire.
+Okay, so you have the Oscillator value in mind where you wish to take your profit. You
+can't call the floor and tell them to take you out at a seven day Detrend of 88 (90% of
+98); you need a price. To get that price ahead of time, you need the Oscillator
+Predictor™ which I'll describe in some detail at the end of this chapter and in Appendix G.
+If you don't have the Oscillator Predictor™ to precalculate price levels which correspond
+to the Detrended Oscillator levels you wish to act on, you have another option. Some
+analysis software (Aspen Graphics™ and TradeStation®, among them) will allow you to
+set an alert at a given level on an indicator. You hear a beep, you exit the trade. While
+this is acceptable, the problem with setting an alert on the indicator is that you might miss
+the trade by the time you hear the alert, act on it, and contact the floor. These price levels
+
+=== PAGE 136 ===
+
+118 DiNapoli Levels
+are by definition unstable. These prices typically do not last for long, unless the market is
+in a runaway mode. It is conceivable that if you give a price order when the alert goes
+off, that you will only get out in runaway markets, i.e. those situations that would enhance
+your profit by staying in! So, if you use an indicator alert to get your exit point, simply
+exit at the market, and hope for the best. Those Mercedes and Jags in the basement
+parking garage of the Chicago Merc aren't there by accident. Market orders are one of
+the reasons the locals are able to buy them, so beware.
+If profits were taken each time extremes were reached in Overbought, as shown on Chart
+7-3, you would not suffer the draw downs of the subsequent pullbacks. These pullbacks
+are where most traders would have been stopped out by improperly tightening their stops.
+These pullbacks are for reentering against Fibonacci retracement levels. They are not for
+exiting!
+When you employ the strategy of utilizing Logical Profit Objectives properly, your
+percentage of winning trades should increase dramatically, but you may not be there if the
+market really takes off and keeps going. You could, of course, hold multiple contracts
+and take Logical Profit Objectives on only a portion of the contracts you hold. It might
+interest you to know that I have run parallel accounts in which I have taken LPOs on all
+positions, partial positions, and none at all. Over time, the hands down winner is taking
+LPOs on all positions.
+There's a corollary for Strategy 1. Let's say you're trading an intraday Time
+Frame and you are using Fibonacci Profit Objectives. The strategy would be to
+take close-in Objectives (COP's), when operating at or near these extremes in
+price, as defined by the Detrended Oscillator. A variation of this technique is used
+even by floor traders I've taught. Their actions in the pit change significantly as
+these Overbought and Oversold levels are approached. Your actions can change
+too. Think about it. If a market reaches 70% to 90% of average Overbought on a
+given day, it is likely that the market will meet resistance and at a minimum,
+consolidate for the next several days. Under these circumstances, avoid "buy
+stopping" old highs. Look for, and position yourself, on dips intraday, against
+Fibonacci support areas. Then, immediately exit against old highs, when the price
+nears average Overbought again, or when you get close to a Fibonacci Objective,
+whichever comes first. Remember, the price levels that produce OB/OS will
+change each day. This is a dynamic condition and dynamically calculated market
+levels are generally hands down winners over those that are statistically calculated,
+such as fixed money stops.
+Now, I understand that some of you may hesitate to take Logical Profit Objectives
+because you lack adequate entry techniques that will get you back into the market, once
+you exit. Part of that problem is addressed below. Most of it will be answered when we
+study advanced Fibonacci Analysis, DiNapoli Levels™, CHAPTERS 9, 10, and 11.
+
+=== PAGE 137 ===
+
+Chapter 7 Overbought & Oversold Oscillators 119
+STRATEGY 2:
+The Detrended Oscillator can be used as a filter for any entry technique.
+I had a high percentage of poor entries before I knew about, and understood, high quality
+entry techniques. An entry is not only poor if it ends up in losses, it's also poor if it puts
+you under significant pressure before the market goes your way. I dramatically reduced
+these unfortunate situations by the use of the Detrended Oscillator to determine what
+value of average Overbought/Oversold was apparent at my prescribed entry levels. If the
+price level at entry exceeded approximately 65% of Overbought/Oversold, I simply
+wouldn't take the trade. If the signal stayed in effect the following day, I would again look
+at the Detrend, to see if the trade was now "safe." If you're unsure of how to set up the
+Detrend on your equipment, you can try this. Go to your Oscillator Set Up menu, take
+the one day Moving Average of the close (which is the close), minus the seven day simple
+Moving Average of the close. That should work... then, just look at the value of the
+Oscillator at the time your entry signal is given and see how Overbought or Oversold the
+market is, before you act.4
+4 If you have the Oscillator Predictor™, these levels can be calculated ahead of time and are automatically
+printed out in the support resistance table, a feature of the CIS TRADING PACKAGE, TIMESAVER
+function.
+
+=== PAGE 138 ===
+
+120 DiNapoli Levels
+CHART 7-4
+Consider Chart 7-4 and imagine a simple system where you would be long when price is
+above the MA on close and short when the price is below the MA on close. I have
+pictured a non-displaced 12 day simple MA because that's typical of what many traders
+use. Two buy signals have been selected for this example.
+The thinking here is simple and obvious. If you take a buy signal in a highly OB situation
+(unsafe), it is likely to produce more pain than one taken at a reasonable (safe) level of
+OB/OS. In this case, both signals would have produced profit for you, if you weren't
+bored or frightened out of the trade, i.e. if you stayed with the system criteria. If,
+however, the system criteria carried an intraday stop, or if the stop was tightened, the
+unsafe entry may have produced a significant loss.
+
+=== PAGE 139 ===
+
+Chapter 7 Overbought & Oversold Oscillators 121
+VOLATILITY BREAKOUT:
+I recognize that volatility breakout players might be upset by this strategy, but I think
+there is nothing wrong with letting the market calm down a bit before entry. Will you
+miss some good trades? Of course! Will you miss being stopped out many times? Of
+course! Will the net effect be positive? I think it will. But, test this strategy on your own
+and see what you think. Many traders are in this game for excitement, not for profit.
+Some traders can comfortably tolerate 30% or 40% winning trades. I can't. You need to
+figure out where you fit in.
+STRATEGY 3:
+An OB/OS level can be used for stop placement.
+If you observe the price corresponding to the value of maximum Overbought or maximum
+Oversold, you can simply put your stop behind that level by some comfortable margin, a
+few 32nds in the bonds or perhaps 50 points in the S&P. But, you have to be careful how
+the order reads. If you are using the close minus Moving Average, as suggested above,
+you should have a stop close only. If you want a physical, intraday stop, use the high or
+low minus the Moving Average, depending upon whether you are short or long the
+market. These Oscillator values will be respectively higher and lower than the Oscillator
+calculated using the close, and will produce correspondingly different stops. (See Chart 7-
+5). I'll guarantee you one thing, your stop won't be located where other stops are, unless
+by accident. Also, your stop is dynamic, every day it's moved. It should go without
+saying, that you're within money management parameters, and that whatever signal placed
+you in the trade remains in effect.
+
+=== PAGE 140 ===
+
+122 DiNapoli Levels
+CHART 7-5
+The best time to use Strategy 3 is when you have a lot of confidence in your entry
+techniques. This implies that you don't want to be bothered by close stops and that you
+choose to give these methods the time and space they require to work. I'll give you two
+possible examples.
+Larry Williams has come up with a variety of high risk, potentially high profit, non-
+judgmental systems, usually based on some form of pattern recognition. One problem
+however, is that some of these systems carry a "stop close" only, or no stop at all on the
+day of entry. This makes some systems users understandably uncomfortable. An
+alternative would be to hide your (intraday) stop, as suggested in Strategy 3.
+When we get to Fibonacci techniques, you will see on occasion, the desirability of an
+initial, far away, or disaster stop. Strategy 3 can provide an answer to the question,
+where should the stop be placed? This stop is almost never hit. If the original entry signal
+is negated, I simply exit "at market," or at the first retracement in the Direction of my
+entry. Then I cancel the disaster stop.
+Realize that if the market is Oversold, a maximum Overbought stop will be miles away.
+But if the market is nearing Overbought, the stop will be relatively much closer. You can
+adjust the level of stop placement by using a lower percentage of average Overbought and
+Oversold, but I would suggest not going below 70%.

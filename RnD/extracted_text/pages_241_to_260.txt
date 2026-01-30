@@ -1,0 +1,344 @@
+
+
+=== PAGE 241 ===
+
+Chapter 13 Fibonacci Tactics 223
+CHART 13-4
+Our actual entry would be above the .382 Node. Our stop would go under the .618 Node
+or against the old low at 1. We've bought insurance which may of may not be costly
+depending on what market action actually develops around the selected D-Level entry 'X.'
+With the benefit of hindsight, we can explore a variety of possibilities.
+
+=== PAGE 242 ===
+
+224 DiNapoli Levels.
+POSSIBILITY 1:
+CHART 13-5
+If we had support very near 'X,' our stop at 'Z' wouldn't have been hit and our actual
+entry "would have been higher than an entry at 'X.' Our insurance policy in this case
+would be costly as represented by the distance between the arrows on Chart 13-5. Don't
+misinterpret this. The cost is between our original D-Level choice 'X' and our actual
+entry, not between our actual entry and our stop. Of course, we might not get the fill in
+the form of an expected retracement back to our actual entry, but it's likely we will.
+
+=== PAGE 243 ===
+
+Chapter 13 Fibonacci Tactics 225
+POSSIBILITY 2:
+SOME BENEFITS
+CHART 13-6
+Let's assume the expected support area at 'X' was deeply penetrated, all the way through
+'Z,' to a deeper Node or Confluence area 'K.' 'Y' in Chart 13-6 represents a Bonsai
+money stop. It's included here, as well as the Bushes stop, so the Bonsai players among
+you can see the effects of possibility 2. In this scenario, we would have been stopped out
+if utilizing the Bonsai or Bushes entry tactic. Waiting for the Minesweeper entry
+prevented getting stopped out. Additional advantage was achieved since we entered at a
+lower price than the original D-Level location at 'X.' So we achieved some significant
+benefits utilizing this tactic under these conditions.
+
+=== PAGE 244 ===
+
+226 DiNapoli Levels.
+POSSIBILITY 3:
+If we essentially had no support, as in an illiquid market, then we avoid a big ouch by
+utilizing the Minesweeper entry!
+SIGNIFICANT BENEFIT
+CHART 13-7
+
+=== PAGE 245 ===
+
+Chapter 13 Fibonacci Tactics 227
+MINESWEEPER B: AN ENTRY AND STOP PLACEMENT TECHNIQUE
+This technique attempts to buy more insurance by placing the actual entry above a
+Confluence area, rather than simply above a Node. The stop would have a greater degree
+of protection since is located below a Confluence area. You might say the bush is larger
+and thicker. This is what a line chart of Minesweeper B would look like. You have
+several choices of entry, above the first .382 Node, above Confluence, or even above the
+Primary .618 Node (not shown.) You have choices for your stop as well. Below
+Confluence, below the .618 Node, or against the low at Point 1.
+CHART 13-8
+Both Minesweeper A & B are typically employed by dropping the Time Frame to achieve
+more reaction lows from which to calculate, the DiNapoli level, after support is manifest.
+This is a good example of why it is so helpful for daily-based players to have access to
+hourly charts, even if they are developed from a delayed data feed. See CHAPTER 1.
+
+=== PAGE 246 ===
+
+228 DiNapoli Levels.
+ENTRY TACTICS USED ON AN HOURLY S&P:
+The following example shows how some of the tactics look when applied to an hourly
+S&P.
+CHART 13-9
+In Chart 13-9, we have a strong up move in the hourly S&P. We'll assume the daily and
+hourly Trend is up and that we'd like to get long this market. We'll also assume a highly
+overbought level at 70%, so we don't want to get in too quickly and once we're in, we
+don't want to get "married" to the trade. Our final assumption is that the higher Time
+Frame Fibnode resistance locations will not affect our trade, i.e. they are not in play within
+and somewhat beyond the price range shown on this chart.
+
+=== PAGE 247 ===
+
+Chapter 13 Fibonacci Tactics 229
+The Fib series printout below reflects the Focus and Reaction Numbers shown on Chart
+13-9. I have not shown the Confluence area, since by now you should be able to locate it
+on your own by comparing top and bottom Nodes.
+Focus Number FileSPM602 Focus# (High for the swing)
+Point Number Support Fib Nodes Point# (Enter highest reaction low first)
+Okay Hank, where do you get long?
+Hyper Hank: Before I answer that, I 'd like to know why we don 7 have the first reaction
+about four bars to the left of the Focus Number included in here. It's valid, isn 't it?
+Yes, it's a valid Reaction Number, but the trade criteria was that we were overbought.
+We are not looking for the highest possible entry level (See CHAPTER 7). If we were
+looking for a higher entry level, and we had the capacity, we'd drop our Time Frame to a
+30 minute or a five minute chart. This reaction and others that we can't see on the hourly,
+would be included in a shorter Time Frame series.
+Hyper Hank: Okay, Okay, I've got it. Well, I'd enter above 76812 and put my stop below
+Confluence at 76473. But I don 7 like that as a stop.
+Why not?
+Hyper Hank: It's over a 300 point stop; I can only trade one contract!
+
+=== PAGE 248 ===
+
+230 DiNapoli Levels.
+What would you really like to do?
+Hyper Hank: I'd like to find out where the Fibnodes are to that first reaction and put my
+stop under one of them.
+What do you say Dan?
+Diligent Dan: I'// enter above Confluence at 76480. Then I'll use a Bushes stop below
+the lower end of Confluence at 76425.
+Why?
+Diligent Dan: If the trade is good, Confluence will probably hold and the next Bushes
+stop is under 76257. That's a minor Fibnode, so I 'm not excited about using it.
+What's Carl going to do?
+Conservative Carl: Since we are so overbought, I'll wait to enter the lower Confluence
+area between 75871 and 75985. I'll buy it at 75875 and use a Bushes stop below the
+75135 Primary Node. I know it's a big stop, but I've made an arrangement with my
+friend who's afraid to trade the S&P alone, to take half of my S&P trades. With a half of
+a 1 lot, the stop isn't too bad.
+Have you had him deposit money into your account?
+Conservative Carl: No, but I'm sure he 'II pay me if something goes wrong.
+HMMM...
+
+=== PAGE 249 ===
+
+Chapter 13 Fibonacci Tactics 231
+Let's see how the trade worked out on Chart 13-10.
+CHART 13-10
+Hank saw the market just miss his entry so without telling anyone, later that day he
+canceled his entry and went in at the market on a 10 lot (not shown because he didn't tell
+us.) He put a Bonsai 55 point stop under his entry level. He got both fills back at the
+same time. The floor loves Hank. So does his dentist, he went through another bite plate.
+Dan got his fill and his stop was never hit. He opted for the .618 Primary resistance Node
+as his LPO, since the market was overbought. Because his closing order was in the
+market prior to the next day's open, he did even a little better than he expected.
+Carl was too nervous to watch the market after the big thrust down bar that filled Dan's
+order. He was very relieved when he came back from tending the garden, to see that he
+was never filled.
+THE TRADE CONTINUES (Chart 13-11):
+On the second dip down, Dan waited for a Minesweeper entry after the low was formed at
+758.30. He did this for two reasons. Dan saw the thrust down on the hourly chart and it
+made him nervous, since it was the second time down after up thrust. Although he didn't
+use the 3X3 on an hourly chart, this formation was looking a bit like a Double RePo sell.
+He also could not discern a reasonable stop level.
+
+=== PAGE 250 ===
+
+232 DiNapoli Levels.
+Carl left his orders as they were, reasoning that nothing significant had changed to impact -
+the original trade criteria. The daily Trends were still in his favor!
+Hank was not playing this one. While he watched the screen, he was once again busily
+calling relatives and friends trying to raise capital.
+CHART 13-11
+Let's see how this trade worked out:
+Carl was filled and his stop was never hit. He and his partner took an almost perfect OP
+out on the trade (See Chart 13-13).
+Dan's Minesweeper entry was filled and his stop against the preceding low was never hit.
+He noticed the RR track about an hour after his initial entry and doubled up his position
+by recalculating the Fibnodes and entering more long positions at the .382 Node. He
+blew out all his positions on the same OP in Chart 13-13 that Carl got out on. Chart 13-
+12 shows his entry and stop points. Upon reexamination of his trade criteria, Dan
+realized he had missed the Agreement between the Confluence area Carl and he had gone
+long against and the XOP of the down move, as shown on Chart 13-12. He wasn't
+concerned about it, however, since he had just booked $12,000 per contract in two days.
+He needed some R&R and was off to another vacation, this time to Bangkok. After
+making some notes about the trade, which he always did, he was off to catch a plane.
+
+=== PAGE 251 ===
+
+Chapter 13 Fibonacci Tactics 233
+CHART 13-12
+CHART 13-13
+
+=== PAGE 252 ===
+
+234 DiNapoli Levels.
+Objective points for Chart 13-13:
+30 Apr 97 13:44:35 Updated: 00/00/0000 0.618 1.618
+Point Value Objective Points File SPM301
+A = 74950 COP = 77319
+B = 77360 OP «= 78240
+C = 75830 XOP = 79729
+Copyright (c) 1996 CIS, Inc.
+WASH AND RINSE: A CONFIDENCE BUILDER
+This pattern is more in the category of a hint or a clue than a tactic. Let's say you have
+consolidation above a DiNapoli Level but the market has refused to get in gear and move
+to the upside. Then, suddenly, all stops have been cleaned up (taken out) and on a lower
+Time Frame chart, you begin to get some thrust. The fact that the D-Level has been
+briefly penetrated is not of concern.
+There are a variety of examples showing the Wash and Rinse phenomenon in this book.
+Some are shown in Chapter 15. The Wash and Rinse does not have to occur at a D-Level,
+it's just easier to play if it does.
+Why does this work? The idea here is that once the market has been cleaned up, the floor
+has no incentive to go lower. Another possibility is that a search of lower levels by market
+participation has found substantial buying. A third more cynical interpretation would
+indicate that whatever entity, or trader(s) that wished to accumulate a significant position
+is now satisfied (by buying the consolidation as well as the sell stops). This entity or
+individual, now satisfied, has no incentive to hold the market back by acting to force a
+consolidation area to be formed. In any case, all those who were stopped out, who wish
+to participate, must reenter at higher levels. All intraday Trend indicators start to point up
+and it's time to get involved. If you exited1 or were stopped out, it's time to reenter, by
+using one of the entry techniques described above.
+1 DiNapoli, "Three Period Rule," FIBONACCI MONEY MANAGEMENT AND TREND ANALYSIS in
+home trading course.
+
+=== PAGE 253 ===
+
+Chapter 13 Fibonacci Tactics 235
+FREQUENTLY ASKED QUESTIONS:
+Which technique is best? What should I use?
+That's up to the psychological make up of each trader. There is no single answer. When
+you become thoroughly familiar with each tactic by observing market action and the
+consequences that each action would have created, you will inherently choose one or the
+other. Experience in a given market situation will also tend to dictate the appropriate
+strategy.
+Most of my trades are variations on Bushes. I use the other strategies when they seem
+more appropriate.
+Minesweeper B seems complicated. You give up a lot before you get in, so why even
+bother with it?
+It is more complicated but still relatively easy to employ, particularly if the context, or set
+up, is on longer Time Frame charts, say hourly and above. Whether or not it is costly
+depends upon how much support develops on, or around the selected entry Node. Refer
+to the Minesweeper section earlier in this chapter if you don't understand this point.
+Isn't the Minesweeper technique just a variation of Bushes, after you see support where
+you initially wanted to enter?
+Yes! I've attached a different name to this strategy and treat it differently to illustrate its
+applicability.
+While all the examples above are shown for long entries, they work equally well on the
+short side.
+
+=== PAGE 254 ===
+
+ 
+
+=== PAGE 255 ===
+
+CHAPTER
+AVOIDING A TYPICAL MISTAKE
+GENERAL DISCUSSION:
+Trading requires constant and focused vigilance. The professional distinguishes himself
+by making Mistakes less often than the neophyte. He cannot hope to avoid them
+altogether. By studying this next example, see if you can avoid misinterpreting a
+situation similar to the one depicted and in so doing avoid some unnecessary losses.
+This example is based on monthly data, however the same thought process it imposes can
+be applied to an hourly or a five minute chart.
+YEARLY BOND EXAMPLE:
+Consider the labeling of the following US bond monthly continuation chart and the
+accompanying FibNodes™ printout, which shows three reaction lows and a Focus
+Number of 12210.
+
+=== PAGE 256 ===
+
+238 DiNapoli Levels
+
+=== PAGE 257 ===
+
+Chapter 14 Avoiding A Typical Mistake 239
+We will be focusing on price action in the vicinity of the .382 Primary Node to see what
+we might learn about future price Movement. However, if you had been trading bonds
+from higher levels and from a shorter Time Frame chart, it would have been reasonable to
+assume significant D-Level support at all of the support Nodes shown. This is because all
+of these Nodes were created from important monthly reactions, not from a half hour chart.
+If you look at the daily and weekly charts, you'll find at a minimum, respectable rallies in
+the vicinity of all of these price levels. Consider how this would have helped you, even on
+a five minute chart!
+When we're analyzing whether or not a long term bull market is still intact, we look to our
+trend indicators on the weekly and monthly charts. We can also observe whether or not
+the Primary '*'.382 Node has been broken or if a major Confluence area has been
+penetrated. If major support has been broken, it obviously signals more weakness than if
+it holds. Such a break could indicate a major change in the Movement of the market. By
+looking at the monthly D-Level series shown in File BDMOPA2, 10423 appears to be the
+Primary .382 Node. In fact, it is a Fibnode generated from a Major Reaction, not the
+Primary Reaction low, as we will see. While the penetration of 10423 correctly forecasted
+lower prices, it is not nearly as serious as a break of the Node created from the Primary
+Reaction low.
+When 10423 was penetrated, I expected a move down to the vicinity of 10013, since that
+was the next Fibnode support. (See the .618 retracement in Box 1). A reasonable long
+entry (if suppbrted by context and an appropriate entry tactic) would be in the vicinity of
+10013. A reasonable stop placement area appears to be just under the.618 Fibnode at
+9815, in Box 2. It would also seem reasonable to expect that closes below 9815 for a
+significant period of time, would indicate much lower prices, perhaps a move down to the
+last Fibnode support shown in box 3, all the way down to 9326!
+While all this seems to be good analysis, an error is being made. What's on the screen, i.e.
+what we see on Chart 14-1, is not representative of what we need for adequate analysis.
+
+=== PAGE 258 ===
+
+240 DiNapoli Levels
+Consider Chart 14-2 of the same US bond continuous contract. In this depiction, reaction
+lows back to 1981 are included.
+CHART 14-2
+
+=== PAGE 259 ===
+
+Chapter 14 Avoiding A Typical Mistake 24l
+28 Apr 97 11:48:55 Updated: 00/00/0000 0.382 0.618
+Focus Number File BDM04 Focus# (High for the swing) /in 32nds/
+Point Number Support Fibnodes Point# (Enter highest reaction low first)
+When we look at the D-Level series printout that includes these reaction lows, we get a
+substantially different picture. Now we see that 9621 is the '*'.382 Node, not 9815! We
+can also see monthly Confluence between 9809 and 9815. This more complete picture
+and the accompanying Ftbnode series has changed the analysis significantly. For one
+thing the last place we would want our stop would be at, or above, the Confluence range
+of 9809 to 9815. We would certainly want to get below that and we're not looking for
+9325 with the Primary Node of 9621 coming in substantially before that!
+Now, on Chart 14-1 notice the market action around both the Confluence area, and the
+.382 Primary Node at 9621. Price came down to the vicinity of the 9815 level, supported,
+then broke to 9601 briefly, thus exceeding both the Confluence area and the '*'.382 Node.
+Since this is a monthly chart, "briefly" differs from what "briefly" would mean on a five
+minute chart. The Confluence area was only temporarily broken and the monthly
+continuation never closed below the 9815 Fibnode! The bond market merely reacted back
+to the '*'.382 Node, i.e. the Fibnode created from the lowest low recorded in the history
+
+=== PAGE 260 ===
+
+242 DiNapoli Levels
+of the US bonds futures. Our conclusion, based on the proper analysis, can confidently be
+that the bull market remains intact and as we can see, prices returned to the old high at
+122 in just a few months.
+- Admittedly, it's easy to say "merely reacted" back to the '*' .382 Node. If you were
+holding 50 contracts of bonds on the long side, it wouldn't have seemed all that "mere."
+What you need to understand, however, is that all this analysis must be relative to the
+Time Frame you are analyzing. Observing this type of action in the monthly continuation
+chart can produce an excellent context for your shorter Time Frame trades!
+On a five minute chart I like to see a major retracement back to the Primary Node. It
+cleans up the rmarket and allows for an orderly move back up, perhaps to higher prices.
+It's no different in the higher Time Frames. I have to be sure, however, that what I think
+is the Primary Node is in fact the Primary Node for the Market Swing I am analyzing.
+THE BROADER PICTURE:
+This type of analysis is not confined to the typical financial markets we trade daily. When
+Orange County, California, real estate prices crashed from their highs around 1990,
+everyone was ready to throw in the towel. Orange County itself went into bankruptcy a
+few years later. Chicken Little was screaming!
+Let's look at an admittedly unscientific but telling D-Level analysis. For ground rules
+we'll keep certain things constant, like the same type and class of home and the same
+general neighborhood. We'll also consider a class of home that has always had reasonably
+good liquidity characteristics. We're not talking lumber contracts here. We're talking the
+real estate equivalent of T-bonds, your 1200-1500 square foot, two or three bedroom,
+middle-class, love cottage.
+In the early 70s, home values approximated the cost of building which was fairly constant.
+Inflation was reasonable. Things really started to move with values traveling almost
+vertically and uninterrupted into the Carter "tight money days" of the early 80s. Our
+generic love cottage preceding the 20% prime interest rate and 55 on the US 30 year bond
+futures, was about $115,000. From that high, our cottage reacted back to about $90,000.
+When interest rates came back within reason, the move up resumed reaching a high of
+about $215,000, a bit above an OP extension.

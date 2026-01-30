@@ -1,0 +1,607 @@
+
+
+=== PAGE 1 ===
+
+ PDF made by Traderman 
+
+=== PAGE 2 ===
+
+Copyright © 1998, Coast Investment Software, Inc. and Joe DiNapoli
+ALL RIGHTS RESERVED. No part of this publication may be reproduced, stored in a retrieval
+system, or transmitted, in any form or by any means, electronic, mechanical, photocopying,
+recording, or otherwise, without the prior written permission of the copyright holder.
+This publication is designed to provide accurate and authoritative information in regard to the
+subject matter covered. It is sold with the understanding that the authors and the publisher arc not
+engaged in rendering legal, accounting, or other professional service. If legal advice or other
+expert assistance is required, the services of a competent professional person should be sought.
+ISBN: 1-891159-04-6
+Printed in the United States of America
+Warning and Disclaimer:
+In commodity trading, as in stock, and mutual fund trading, there can be no assurance of profit. Losses
+can and do occur. As with any investment, you should carefully consider your suitability to trade and your
+ability to bear the financial risk of losing your entire investment. It should not be assumed that the
+methods, techniques, or indicators presented in this book will be profitable or that they will not result in
+losses. Past results are not necessarily indicative of future results. Examples in this book are for
+educational purposes only. This is not a solicitation of any order to buy or sell.
+The information contained herein has been obtained from sources believed to be reliable, but cannot be
+guaranteed as to accuracy or completeness, and is subject to change without notice. The risk of using any
+trading method rests with the user.
+A portion of the above notice is from a Declaration of Principles jointly adopted by a Committee of the
+American Bar Association and a Committee of Publishers.
+The NFA requires us to state that, "HYPOTHETICAL OR SIMULATED PERFORMANCE RESULTS
+HAVE CERTAIN INHERENT LIMITATIONS. UNLIKE AN ACTUAL PERFORMANCE RECORD,
+SIMULATED RESULTS DO NOT REPRESENT ACTUAL TRADING. ALSO, SINCE THE TRADES
+HAVE NOT ACTUALLY BEEN EXECUTED, THE RESULTS MAY HAVE UNDER-OR-OVER
+COMPENSATED FOR THE IMPACT, IF ANY, OF CERTAIN MARKET FACTORS, SUCH AS LACK
+OF LIQUIDITY. SIMULATED TRADING PROGRAMS IN GENERAL ARE ALSO SUBJECT TO
+THE FACT THAT THEY ARE DESIGNED WITH THE BENEFIT OF HINDSIGHT. NO
+REPRESENTATION IS BEING MADE THAT ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE
+PROFITS OR LOSSES SIMILAR TO THOSE SHOWN."
+The following notice applies when the names cited below are mentioned throughout the book.
+FibNodes, DiNapoli Levels, Oscillator Predictor, and D-Levels are trademarks of Coast Investment Software, Inc.
+Windows is a registered trademark of Microsoft Corporation..
+Aspen Graphics is a trademark of Aspen Research Group, Ltd.
+TradeStation is a registered trademark of Omega Research, Inc., PowerEcitor is a trademark of Omega Research Inc.
+MetaStock is a trademark of Equis International.
+CQG TQ20/20 is a trademark of CCG, Inc.
+Market Profile is a registered trademark of CBOT.
+Advil is a registered trademark of American Home Products Corporation.
+Maalox and Pampers are registered trademarks of The Procter & Gamble Company.
+Grecian Formula is a registered trademark of Combe Inc.
+
+=== PAGE 3 ===
+
+DEDICATION
+This book is dedicated to my Father and Mother, Joe and Olivia DiNapoli,
+without whose love, persistent guidance, and care, nothing would have
+been possible.
+
+=== PAGE 4 ===
+
+ 
+
+=== PAGE 5 ===
+
+ACKNOWLEDGMENTS
+The production of this book was a daunting task. Its completion would not have
+been possible without the help of many. My deepest appreciation and thanks to:
+Pat Prichard for her forbearance, diligence, love and strength.
+Lee and Dave Winfield for their generosity, their talent, and their time.
+Elyce Picciotti and Steve Roehl for their many technical skills and an attitude
+that allowed me to utilize them.
+Tim Slater, Nea! Hughes, and Dian Belanger for their unselfish guidance in
+making this project better.
+My wonderful students and clients for teaching me and encouraging me to begin
+this project.
+Dan, Hank, and Carl for adding life to these pages.
+Aspen Graphics™ for their permission to reproduce charts from their excellent
+graphics software.
+My peers, some who wish to remain anonymous, many of whom go
+unmentioned. Thank you for sharing your knowledge with me openly and
+without condition: Larry Pesavento, Jake Bernstein, Bill Williams, Steve Conlon,
+a Chicago floor manager whose name I have long since forgotten, but who was
+otherwise known as "God," and last but not least, Robert Krausz.
+V
+
+=== PAGE 6 ===
+
+TABLE OF CONTENTS
+ABOUT THE TITLE xiv
+PREFACE or SO WHY THIS BOOK AND WHY NOW? xv
+SECTION 1: INTRODUCTION
+CHAPTER 1
+TRADING METHODS
+JUDGMENTAL VS. NON-JUDGMENTAL TRADING SYSTEMS
+POSITION TRADING VS. INTRADAY TRADING 3
+GENERAL DISCUSSION 3
+LET'S DO A REALITY CHECK 4
+NON-JUDGMENTAL TRADING APPROACHES 4
+WOULDN'T IT BE NICE 4
+THE REALITY ... 4
+JUDGMENTAL TRADING APPROACHES 6
+WOULD IT BE NICE 6
+THE REALITY 6
+SOME HISTORY 7
+HEROES 8
+SYSTEM FAILURE 8
+APPRENTICESHIP 9
+MORE ON JUDGMENTAL TRADING APPROACHES 10
+SUMMARY 13
+ASPECTS OF JUDGMENTAL TRADING 13
+ASPECTS OF NON-JUDGMENTAL TRADING 13
+ASPECTS OF NON-JUDGMENTAL AND JUDGMENTAL
+TRADING 14
+POSITION TRADING VS. INTRADAY TRADING 15
+DISADVANTAGES OF INTRADAY TRADING 16
+ADVANTAGES OF INTRADAY TRADING 16
+AN ALTERNATIVE 17
+VI
+
+=== PAGE 7 ===
+
+CHAPTER 2
+PREREQUISITES,
+GROUND RULES AND DEFINITIONS ....19
+TREND 19
+DIRECTION . 25
+MOVEMENT 25
+FAILURE 25
+LEADING INDICATORS... 27
+LAGGING INDICATORS 27
+LOGICAL PROFIT OBJECTIVES 29
+TIME FRAME 29
+CONFIRMED & UNCONFIRMED SIGNALS 29
+MISTAKES 30
+TRADING WELL 30
+THE TRADING PLAN 30
+SUMMARY 30
+CHAPTER 3
+THE ESSENTIAL COMPONENTS
+OF A SUCCESSFUL TRADING APPROACH 31
+MONEY AND SELF MANAGEMENT 32
+MARKET MECHANICS 33
+TREND AND DIRECTIONAL ANALYSIS 34
+OVERBOUGHT AND OVERSOLD ANALYSIS 34
+MARKET ENTRY TECHNIQUES (LEADING INDICATORS) 34
+MARKET EXIT TECHNIQUES (LEADING INDICATORS) 34
+IMPORTANT POINTS TO NOTE 34
+SECTION 2: CONTEXT
+CHAPTER 4:
+TREND ANALYSIS
+DISPLACED MOVING AVERAGES
+GENERAL DISCUSSION
+DISPLACED MOVING AVERAGES
+ADVANTAGES AND USE
+SPECIFIC VALUES DEFINED
+TIME FRAME APPLICABILITY
+FREQUENTLY ASKED QUESTIONS.
+ADVANCED COMMENTS.37
+.37
+.38
+.38
+.38
+.38
+..39
+.41
+vii
+
+=== PAGE 8 ===
+
+CHAPTER 5
+TREND ANALYSIS
+MACD/STOCHASTIC COMBINATION 51
+GENERAL DISCUSSION 51
+PROGRAMS, PROGRAMMERS, AND PROBLEMS 51
+WILL THE RIGHT STOCHASTIC STAND UP 52
+LANE (RAW) STOCHASTIC 52
+FAST STOCHASTICS 53
+SLOW (PREFERRED) STOCHASTICS 54
+MODIFIED MOVING AVERAGE 54
+MODIFIED STOCHASTIC 55
+THE STOCHASTIC 55
+THE PREFERRED STOCHASTIC 55
+MARKET-ALIGNED VS TIME-ALIGNED BARS 56
+THE DATA SAMPLE 57
+PROGRAMMERS AND UPGRADES 57
+USING THE STOCHASTIC 59
+IMPLEMENTING THE MACD (DEMA) STOCHASTIC
+COMBINATION 59
+FREQUENTLY ASKED QUESTIONS 67
+SUMMARY 69
+CHAPTER 6
+DIRECTIONAL INDICATORS
+9 POWER PATTERNS FOR HIGH PROBABILITY TRADING
+SIGNALS 71
+GENERAL DISCUSSION 71
+THE "DOUBLE REPENETRATION" SIGNAL OR "DOUBLE REPO"....72
+IMPORTANT POINTS TO NOTE 74
+FREQUENTLY ASKED QUESTIONS 76
+THE "DOUBLE REPO FAILURE" 86
+FREQUENTLY ASKED QUESTIONS 87
+THE "SINGLE PENETRATION" OR THE
+"BREAD AND BUTTER" SIGNAL 90
+PATTERN FAILURES 94
+' THE "HEAD AND SHOULDER FAILURE" 94
+THE "TRIANGLE BREAKOUT FAILURE" OR "OOPS" 97
+"FADING POPULARITY" OR "THE VULTURES DELIGHT" 98
+THE "RAILROAD TRACK" 98
+"LOOL-ALIKES" 105
+"STRETCH" 105
+THE "FIB SQUAT" 105
+FILTERING THE "FIB SQUAT" 108
+FREQUENTLY ASKED QUESTIONS 109
+viii
+
+=== PAGE 9 ===
+
+CHAPTER 7
+OVERBOUGHT & OVERSOLD
+OSCILLATORS: WHAT WORKS, WHAT DOESN'T,
+AND WHY 111
+GENERAL DISCUSSION 111
+THE STOCHASTIC 112
+THEMACD 113
+THE RELATIVE STRENGTH INDEX (RSI) 113
+THE COMMODITY CHANNEL INDEX (CCI) 114
+THE DETRENDED OSCILLATOR 115
+USING THE DETRENDED OSCILLATOR 116
+VOLATILITY BREAKOUT 121
+IMPORTANT POINTS TO NOTE 124
+THE OSCILLATOR PREDICTOR™ 127
+SUMMARY 128
+SECTIONS 3: CONTEXT
+CHAPTER 8
+FIBONACCI ANALYSIS, BASIC 131
+GENERAL DISCUSSION 131
+A LITTLE HISTORY 132
+DERIVATION 133
+GUIDE POSTS 135
+BASIC RETRACEMENT ANALYSIS UTILIZING THE TWO MAJOR
+RATIOS .382 AND .618 136
+BASIC FIBONACCI EXPANSION ANALYSIS UTILIZING THE
+THREE MAJOR EXPANSION RATIOS .618, 1.0, AND 1.618 140
+FREQUENTLY ASKED QUESTIONS 142
+CHAPTER 9
+DINAPOLI LEVELS™ 143
+INTRODUCTION & CAUTIONS 143
+ELLIOTT WAVE PRINCIPAL 144
+DINAPOLI LEVELS™ 144
+DEFINITIONS 145
+MARKET SWING 145
+REACTION NUMBER or POINT 145
+FOCUS NUMBER 146
+FIBNODEorNODE 146
+OBJECTIVE POINT 146
+ix
+
+=== PAGE 10 ===
+
+CONFLUENCE 146
+LINEAGE MARKINGS 147
+LOGICAL PROFIT OBJECTIVE 147
+AGREEMENT 147
+FIB SERIES 148
+DINAPOLI LEVELS OR D-LEVELS™ 148
+EXAMPLES .-149
+IMPORTANT POINTS TO NOTE 156
+THE PROPORTIONAL DIVIDER.... 157
+CHAPTER 10
+DINAPOLI LEVELS™ 159
+MULTIPLE FOCUS NUMBERS & MARKET SWINGS 159
+MULTIPLE MARKET SWINGS 162
+ADVANCED COMMENTS 165
+EVEN MORE FOCUS NUMBERS 165
+TIME FRAME'S IMPACT ON FOCUS NUMBERS 169
+LESS IS MORE 170
+PRUNING THE FIB SERIES:
+ELIMINATING INACTIVE FIBNODES 170
+CHAPTER 11
+TRADING WITH DINAPOLI LEVELS™ 173
+GENERAL DISCUSSION 173
+MOVING THE TIME FRAME ,...173
+AN IDEALIZED TRADING EXAMPLE 176
+ADVANCED COMMENTS 179
+D-LEVEL™ EXPANSION ANALYSIS & LPOs 179
+MORE ON STOP PLACEMENT 184
+PRESENTATION 188
+FIBNODES™ PRINTOUTS 189
+DOW EXAMPLE 192
+FIBNODES™ OBJECTIVE PRINTOUTS 194
+AGREEMENT ON THE BOND CONTINUATION 195
+HIDDEN D-LEVELS™ 197
+ADVANCED COMMENTS 201
+'USING FIBONACCI ANALYSIS TO DEFINE MARKET MOVEMENT. 203
+CHAPTER 12
+TYING IT TOGETHER
+A BASIC EXAMPLE 205
+SCENARIO 1 207
+SCENARIO 2 210
+ADVANCED COMMENTS 211
+NOW LET'S GET BACK TO REALITY 215
+FREQUENTLY ASKED QUESTIONS 215
+x
+
+=== PAGE 11 ===
+
+CHAPTER 13
+FIBONACCI TACTICS 217
+GENERAL DISCUSSION 217
+BONSAI:
+AN ENTRY AND STOP PLACEMENT TECHNIQUE 219
+BUSHES:
+AN ENTRY AND STOP PLACEMENT TECHNIQUE 221
+MINESWEEPER A:
+AN ENTRY AND STOP PLACEMENT TECHNIQUE 222
+MINESWEEPER B:
+AN ENTRY AND STOP PLACEMENT TECHNIQUE 227
+ENTRY TACTICS USED ON AN HOURLY S&P 228
+THE TRADE CONTINUES 231
+WASH AND RINSE: A CONFIDENCE BUILDER 234
+FREQUENTLY ASKED QUESTIONS -.235
+CHAPTER 14
+AVOIDING A TYPICAL MISTAKE -.237
+GENERAL DISCUSSION 237
+YEARLY BOND EXAMPLE 237
+THE BROADER PICTURE:
+D-LEVELS™ ANALYSIS AND REAL ESTATE MARKETS 242
+A QUESTION 246
+CHAPTER 15
+MORE MARKET EXAMPLES 247
+A LONG TERM SOYBEAN MEAL TRADE 247
+GENERAL DISCUSSION 247
+THE CONTEXT FOR THE TRADE 247
+TRADE IMPLEMENTATION 249
+THE TRADE CONTINUES 254
+IMPORTANT POINTS TO NOTE 260
+ADVANCED COMMENTS 260
+WAS A MISTAKE MADE? 260
+MORE EASY PICKENS 261
+A SHORT TERM S&P TRADE 262
+GENERAL DISCUSSION 262
+TREND ANALYSIS 262
+OVERBOUGHT AND OVERSOLD ANALYSIS 264
+DIRECTIONAL ANALYSIS 264
+TRADE IMPLEMENTATION 265
+THE TRADE PSYCHOLOGY 267
+HOW MARKET MECHANICS AFFECT THIS TRADE 268
+ADVANCED COMMENTS 271
+EPILOGUE 273
+xi
+
+=== PAGE 12 ===
+
+APPENDIX
+APPENDIX A
+CALCULATIONS AND CHART LOCATION FOR THE 3X3
+DISPLACED MOVING AVERAGE 275
+DEFINITION 275
+EXAMPLE 275
+APPENDIX B
+RUNNING FIBNODES™ AND TRADESTATION® AT
+THE SAME TIME 276
+WINDOWS® 3.1 USERS 276
+WINDOWS® 95 USERS , 276
+APPENDIX C
+FIBNODES™ SETUP FOR ASPEN GRAPHICS™ USERS 277
+WINDOWS® 3.1 277
+WINDOWS® 95 278
+TO OVERLAY FIBNODES™ ON ASPEN GRAPHICS™ 278
+TO VIEW FIBNODES™ AND ASPEN GRAPHICS™ SIDE-BY-SIDE
+("TILED" ON YOUR SCREEN) 278
+APPENDIX D
+TRADESTATION® INPUTS TO SIMULATE STUDIES TAUGHT IN
+DINAPOLI LEVELS™ _...279
+MOVING AVERAGE CONVERGENCE DIVERGENCE (MACD) 279
+DISPLACED MOVING AVERAGES 279
+DETRENDED OSCILLATOR 279
+PREFERRED STOCHASTIC 280
+. PREFERRED SLOW %D USER FUNCTION 280
+„ PREFERRED STOCHASTIC INDICATOR 281
+PREPROGRAMMED TRADESTATION® STOCHASTIC
+INDICATORS AND FUNCTIONS 281
+xii
+
+=== PAGE 13 ===
+
+APPENDIX E
+FORMULAS AND STUDIES 283
+LANE FAST STOCHASTIC 283
+FAST STOCHASTIC 283
+FAST STOCHASTIC USING THE MODIFIED MOVING AVERAGE
+(MAV) FOR SMOOTHING 284 '
+FAST STOCHASTICS 284
+THE PREFERRED (SLOW) STOCHASTIC 284
+MOVING AVERAGE CONVERGENCE DIVERGENCE (MACD)
+FORMULA 285
+EXPONENTIAL MOVING AVERAGES 285
+APPENDIX F
+FIBNODES™ 286
+HOW FIBNODES WORKS 286
+OPERATING SYSTEM 286
+FIBNODES™ REQUIREMENTS 287
+COST 287
+FIBNODES™ FEATURES 288
+APPENDIX G
+THE OSCILLATOR PREDICTOR™ 289
+OPTION 1: USER SELECTS OSCILLATOR PROGRAM
+CALCULATES PRICE 289
+THE OSCILLATOR PREDICTOR AS APPLIED TO
+THE SHORT TERM S&P TRADE 291
+APPENDIX H
+SHORT TERM S&P TRADE, FROM CHAPTER 15, TIME & SALES,
+(AFTER THE "HEAT OF BATTLE") _294
+APPENDIX I
+CONTINUOUS CONTRACT CREATION 295
+APPENDIX J
+COAST INVESTMENT SOFTWARE, INC.
+PRODUCTS & SERVICES 296
+BIBLIOGRAPHY 297
+REFERENCE MATERIAL 298
+ABOUT THE AUTHOR „ 301
+xiii
+
+=== PAGE 14 ===
+
+ABOUT THE TITLE:
+The term DiNapoli Levels was coined by an Australian copywriter doing pre-conference
+promotion work on one of my speaking tours in Asia. It seemed appropriate and the
+attendees thought the title gave them a good indication of what the presentation was
+about. I also have to thank my contemporaries John Bellinger (Bellinger Bands), Larry
+Williams (Williams %R), George Lane (Lane Stochastics), and numerous others for giving
+me the fortitude to proceed with such a title. In the final analysis, however, I have to
+admit that this title was given serious consideration only after a certain individual managed
+to call successive market highs and lows after himself and... not only survived but
+prospered in doing so.
+
+=== PAGE 15 ===
+
+PREFACE
+If you want a bit of background before we get involved in all the technical matters,
+continue to read. Otherwise, you can jump right to CHAPTER 1 or even CHAPTER 2,
+without jeopardizing your understanding of my approach to trading.
+So why this book and why now? Or more broadly put, "Why would you reveal a trading
+method that really works? Why not just trade it? Aren't you afraid that if too many
+people use it, it won't work any more?" Reasonable questions that deserve answers. The
+short answer is that the markets have been kind to me, affording me considerable mobility
+and a comfortable life style. I was also recently faced with a life-threatening medical
+condition. Such an event gives one cause to think. Creating this book allows me to give
+something back. The long answer involves a bit of history.
+In 1986 I experienced a severe case of emotional and physical burnout, brought on by
+over-trading and lack of sleep. I squandered my health and well-being for money and
+accolades from my peers. I learned then that there were more important aspects to life
+than the next tick of the S&P. On counsel from my friend, Jake Bernstein, I took a shot at
+the lecture circuit. It was late in 1986 in Las Vegas at the Futures Symposium
+International. I was totally unprepared for the response of the attendees.
+The lectures were organized in two, one-hour segments, one in the morning and the other
+in the afternoon. I had been advised by one of the old time pros: "Give 'em an up, down,
+up, close, and buy. Keep it simple," he had said. "They won't understand or appreciate
+anything of value." "But that's not the way I trade," was my response. "So what," he
+muttered. I was surprised at his degree of cynicism. When I asked Jake, the event
+organizer, what he thought should be covered, his response was direct and simple. "Teach
+what you think you should. If the attendees don't like it, it's their loss." Well, that's
+exactly what I did. There were about 35 people in the morning workshop. Their interest
+was keen, their questions were intelligent and I thoroughly enjoyed sharing my knowledge.
+That afternoon I spoke again. This time, the room was filled to capacity. People
+commandeered chairs from the hallway and other rooms. They were sitting in the aisles,
+on the floor, some were on top of tables at the back of the room and there were perhaps
+another 50 people outside the door trying to get in. About 20 minutes into the lecture, an
+argument broke out between those who wanted a relatively simple question answered and
+those who wanted me to go on. Time was very limited, and it was all I could do to
+prevent a brawl.
+xv
+
+=== PAGE 16 ===
+
+When the workshop was over, Pat my office manager, and George Damusis my
+programmer, were mauled for more information. Workshop attendees wanted anything
+they could get. We had our end-of-day graphics software (the CIS TRADING PACKAGE)
+which handled the trend and oscillator aspects of the lecture, but we had almost nothing
+on the style of Fibonacci analysis that I had taught. Fortunately we did have some
+FibNodc™ software manuals. These did a good job of teaching Fibonacci, DiNapoli-style,
+and along with a few beta copies of the software, everything was gone, and I mean gone!
+The next several years were loaded with speaking engagements, TV appearances,
+interviews, offers to manage money, possibilities to start a newsletter, fax services, and so
+on. While I welcomed the success, thoroughly enjoyed the teaching, and met some
+outstanding people along the way, it was all becoming a little overwhelming. I was also
+experiencing a gnawing fear that if what I had developed was overexposed, it could affect
+the market, my personal trading, and of course the trading of my students. To combat this
+possibility, I steadfastly refused to publish a book, manage money, publish any type of
+newsletter, or even to advertise! On three occasions I insisted on halting lectures in which
+there was unauthorized video taping going on. I even shelved a full video course shot at a
+two-day presentation sponsored by Coast in 1990, again fearing overexposure of the
+material. In an effort to maintain a reasonable balance, however, I created the
+FIBONACCI, MONEY MANAGEMENT AND TREND ANALYSIS in home trading course.
+I also continued development of the FibNodes™ software, and enhanced the CIS
+TRADING (graphics) PACKAGE. In addition, I offered some private seminars, where the
+number of attendees was strictly limited.
+I am going through this background history to make a couple of very important points.
+Unlike many of my colleagues, I believe the concern of overexposure of a trading
+methodology - even one that has judgment involved - is a valid and reasonable concern.
+There's also a philosophical point to be made. Any professional who tries to be all things
+to all people, and to produce products wherever there is demand, ultimately experiences
+burnout. That burnout is readily evidenced in his work. I prefer to retain my focus.
+Even with limited exposure, I was witnessing an effect in the market from about mid 1987
+through 1990 which I believe was directly attributable to my lectures. While this effect
+was muted, it was nonetheless apparent. Let's be honest, if there's something good out
+there, it gets around. When it gets around, we need to be watchful. While its usefulness
+will remain significant, it is always possible that the implementation of the strategies may
+become more difficult.
+From about 1984 to 1987 the Fib analysis, coupled with the all-important context that I
+will teach in this book, was so incredibly accurate, it was scary. By late 1989, massive
+orders being set right on Fib retracements and objective points, with stops two or three
+ticks away, began to wreak havoc with the unqualified Fib players. While I could
+xvi
+
+=== PAGE 17 ===
+
+compensate my own techniques for what I was observing, the casual Fib player was
+beginning to get hurt. If a lot of traders get on to something really good, the market will
+see to it that the majority will still lose. It has to be that way in order for the market to
+work.1
+Fortunately, in December of 1989, Technical Analysis of Stocks & Commodities magazine
+published an article by some professor type with a doctorate in pure mathematics. He did
+a "study" on the validity of Fibonacci movements in the markets. The study "proved" by
+irrefutable, geometric, logic to any reasonable cerebral type, that the methodology of
+applying Fibonacci analysis to the markets just didn't work.2
+I found out about this "authoritative" article while speaking at an economics conference in
+Chicago in 1989. I was with a good friend and client, a professional floor trader, when
+several attendees excitedly bounded toward us. The first individual was waving a copy of
+Stocks & Commodities magazine around, all excited about this article, that "thoroughly
+disproved" the subject matter of my upcoming lecture.
+When my client and I figured out what all the excitement was about, we simultaneously
+gave each other the trader's equivalent of a "high five." It's something like a war dance.
+The attendee was not a professional and couldn't comprehend our joy. Why would the
+Fibonacci Guru be happy about an article written in Stock & Commodities magazine, that
+maintained Fibonacci analysis didn't work? Of course, what we hoped as professionals,
+and what the newcomer couldn't fathom, was that our job as professional traders was
+about to become easier - hopefully a lot easier. Thanks to the difficulty the market was
+presenting the casual Fib player and that magazine article, over the next weeks and
+months, that's exactly what happened.
+So, for me, revealing my trading methodology was a balancing act between the negative
+effect such exposure might have, and the many, many, benefits that ensue from being
+recognized as an authority in one's field of expertise. Many of you who are now simply
+striving for that winning trade cannot imagine the doors that expert status in trading opens
+for you - not only here in the US, but all over the world!
+Starting around 1991, I began to shift my focus to Asia. The markets were ripping over
+there and I was getting constant input from clients located in Asia and elsewhere around
+the world that my methods were barbecuing the competition. I've always taught students
+to go where the profits were easiest and I had always wanted to be in Asia, so... I pulled
+the plug on all but the best speaking engagements in the US and set out on an exploration
+1 Joe DiNapoli, FIBONACCI, MONEY M4NAGEMENT AND TREND ANALYSIS in home trading course
+(Coast Investment Software, Inc.).
+Herbert H. J. Riedel, "Do stock prices reflect Fibonacci ratios?" Technical Analysis of Stocks &
+Commodities, December 1989.
+xvii
+
+=== PAGE 18 ===
+
+of all the wonders that collectively are Asia. As a professional, speaking in all the major
+centers, I was able to gain insight into the culture and to gather "competent information"
+on how the markets functioned in each of the countries I visited. It was a fascinating
+experience. Back in the US, clients were still finding their way to my door, but the
+numbers were manageable, and more importantly, the effect on the markets remained
+muted. Now, at this writing in 1997, things are looking pretty good for additional
+exposure of the material. There are a number of new Fibonacci experts, some, former
+students. There has been some good work done. There have also been a few, let's call
+them "unworkable" books on the subject. Consider this. If an "unworkable" book is
+written on Fibonacci analysis and people lose money attempting to employ its techniques -
+that's a good thing. Anything that attracts traders away from the utilization of the concept
+/// its proper form is an advantage to those who are skilled in how to employ it. There will
+be less "destructive" activity in price areas important to us.
+Everyone has his own idea on how this methodology should be applied. Everyone is
+doing something different with it. Plainly speaking, this has made it easier for me to trade
+and has made it possible for me to wrile this book. The simple truth is, the more people
+who teach a different or impractical use of Fibonacci analysis, the better it is for me - and
+for yoir. The idea that the whole concept will be denigrated entirely is a virtual
+impossibility. There are simply too many people making too much money trading it - if
+they know how to apply it properly.
+Aside from Fibonacci work, the marketplace abounds with new techniques and methods.
+There are eager new traders with eager new experts to teach, and brand new methods to
+be taught. TradeStation® and other software packages with their blind system-building
+techniques, put large numbers of orders in lots more places. All this is good news. It
+leads to the likely conclusion that a reasonable understanding of what is contained herein
+will pay big dividends. But beware! If this book catches on in a big way, and // it is
+widely followed (unlikely since there is work involved), over time there may be some
+consequences. If any methodology is spread too widely spread, the market typically will
+allow only those who study thoroughly and pay attention to nuances, to fully recognize its
+true potential and promise. In that respect, this approach is no different from others.
+xviit
+
+=== PAGE 19 ===
+
+SECTION 1
+INTRODUCTION
+This is a book about a comprehensive and modular trading approach that I have found to
+be prudent and highly effective. It is about the PRACTICAL application of Fibonacci
+ratios to investment markets. In order to implement these Fibonacci based strategies
+successfully, a considerable foundation and structured context must be put in place. The
+text contains 15 information-packed Chapters, a comprehensive set of Appendixes, and
+Reference material, as well as an orientation in the form of a Preface. Fibonacci
+techniques are not taught until Chapter 8, so that the ground work can be properly laid.
+If you choose to gallop ahead, it is my hope that you have already formulated a
+comprehensive context in which to use the powerful leading indicator techniques,
+referred to herein as DiNapoli Levels .
+
+=== PAGE 20 ===
+
+ 

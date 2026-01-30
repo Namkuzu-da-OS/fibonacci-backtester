@@ -1,0 +1,432 @@
+
+
+=== PAGE 221 ===
+
+Chapter 11 Trading With DiNapoli Levels 203
+Finally, if I can get a Confluence area off of a thrust bar that is not an identifiable reaction
+low, I am an excited trader. I have strong information the world lacks. I'm looking to
+make some serious money!
+USING FIBONACCI ANALYSIS TO DEFINE MARKET MOVEMENT:
+I've alluded to this technique when I discussed Leading and Lagging Indicators in
+CHAPTER 2. One of my comments referred to utilizing Leading and Lagging Indicators
+to their best advantage. Using Fibonacci as an indicator to define Movement might be a
+bit off the mark. It really depends on your experience level with the market in general and
+Fibonacci concepts in particular. That being said, the basic idea behind this technique is to
+look at the extent of the retracements, to determine the anticipated Movement of the
+Market.
+Deep retracements presumably lead to a change in Movement from up to down, for
+example, while shallow retracements would be consistent with a continuation of existing
+market Movement.
+While I have used and taught this method since the mid 80s, I suggest using it only as a
+confirming indicator, rather than as a primary Directional Signal or Trend indicator. One
+has to be thoroughly schooled in the application of higher Time Frame D-Levels to keep
+this particular technique accurate.
+
+=== PAGE 222 ===
+
+ 
+
+=== PAGE 223 ===
+
+CHAPTER
+TYING IT TOGETHERA BASIC EXAMPLE
+Okay, you've studied context, you know whether you want to be long or short. You've
+studied D-Levels so you know how and where to enter (sort of), and you have a pretty
+fair idea of how to go about taking an LPO (logical profit objective). Finally, it's time to
+get a trade on.
+It's June 27th. We
+have had strong
+thrust up on the
+daily bond chart, and
+a Double RePo has
+occurred. The two
+days following the
+Double RePo show
+the 3X3 containing
+the Trend (cupping
+market action).
+
+=== PAGE 224 ===
+
+206 DiNapoli Levels
+CHART 12-2
+Daily-based players could have sold at the market, on close, the day of the Double RePo.
+An alternative strategy would have been to attempt to sell a retracement back in the
+direction of the 3X3 the following day. If intraday charting equipment were available, it
+would be preferable to sell a retracement back on a shorter Time Frame chart. You could,
+for example, fade a Stochastic buy against a precalculated D-Level on an hourly or a half-
+hourly chart. A daily-based protective buy stop should be above the '*'.618 Fibnode on
+close, since that's where the sell signal would fail. To calculate this retracement level,
+your Focus Number would be on the low of the Double RePo day. Your first (and only)
+reaction would be the high at Point C. If that type of stop placement is too much for you,
+a lower stop, behind a daily or hourly D-level would be okay. Just remember if your stop
+gets hit intraday and the '*'.618 has not been exceeded on close, then the Double RePo
+is still in play. You should resell at the first opportunity.
+Once positioned on the short side, you would look for an LPO, consistent with the Time
+Frame you are trading. Such a calculation on a daily chart is possible using the A, B, C, as
+
+=== PAGE 225 ===
+
+Chapter 12 Tying It Togelher. A Basic Example 207
+shown in Chart 12-2. Note that this (daily) ABC expansion would give OP support just
+below the low at B. Most traders, unaware of this calculation, would have their sell stops
+below B, at exactly the wrong place! Also, note that the COP Objective (not shown) has
+already been fulfilled! It would be prudent to check the Detrended Oscillator to see how
+oversold we were at that point, before getting too excited about staying with the trade, to
+the daily based OP.
+While the daily is interesting, the shorter term situation is more telling, so that's where
+we'll focus. Before we get to those details, however, let's first recognize the fear most
+traders have of losing their position. It's not just the neophytes who think this way.
+Professionals commonly talk about how hard it is for them to regain a position once they
+have lost it, or in our terms, once they have taken a logical profit. What they are really
+saying is that they don't know how to get into a running market. What I am saying is,
+even if you lose that "one in 20" or "one in 30" big market move, you're better off taking
+an LPO, rather than letting the market take you out on a trailing stop. You will see that
+most of the time, you can get back into a running market, or for that matter, initially enter
+a running market "safely," if you know how and if you do your homework. To illustrate
+this point, we're going to see how Diligent Dan would have handled a couple of different
+situations where common knowledge would have reasoned it was too late, or the market
+had gone too far to enter. We'll also see how Hyper Hank manages to short circuit his
+considerable knowledge levels by his lack of psychological control.
+SCENARIO 1:
+Dan was fat with profits after five weeks of hectic short term trading. Some R&R was in
+order, so he closed all his positions and took a little trip to Cancun. Upon returning home,
+the night before the big thrust down day, he found 40 faxes from Hyper Hank describing
+the Double RePo that had occurred two days previously, and 65 trades he had entered on
+a one minute chart. Although Hank's faxes accurately indicated that he had 90% winners,
+he failed to mention that they were for approximately two ticks each. By the time he
+straightened out that error and paid his broker, Hank had barely broken even.
+Diligent Dan seeing the Double RePo and subsequent containment of the Trend by the
+3X3, prepared for an entry at the opening the next morning. He attempted to send a fax
+to Hank three times, but the line was perpetually busy.
+
+=== PAGE 226 ===
+
+208 DiNapoli Levels
+CHART 12-3
+Above is the first portion of the five minute chart, of the big thrust down day (6/29),
+shown previously on the daily Chart 12-2.
+At the opening, the market gapped down from the night session close. Being unsure of
+where he'd be filled, Dan waited for a retracement to occur before he entered his orders.
+We're looking at a down wave so the Focus Number is the low of the move, 11411. The
+first Reaction Point is the high at 11508. Although we could put a gap 'G' Reaction
+Number at the high of the day (6/29), let's keep this example simple. We'll consider more
+advanced comments later. The Fibonacci retracements are shown in the FibNodes™
+program printout below.
+Focus Number File BDU051 Focus# (Low for the swing) /in 32nds/0.382 ..618
+Point Number Resistance Fib Nodes Point* (Enter lowest high first)
+
+=== PAGE 227 ===
+
+Chapter 12 Tying It Together, A Basic Example 209
+Dan placed his sell order just below 11422 and his protective buy stop above the .618
+Node at 11430. Dan was filled, since there was an almost perfect .382 retracement at
+11421. Dan expected a deep move down, since there was a Double RePo in play and the
+day started with a gap down. Dan therefore quickly calculated the expansions during the
+consolidation and chose an XOP rather than an OP, or COP to close his trade.
+7Aug96 18:41:45 Updated: 07/24/1996 0.618 1.618
+Point Value Objective Points File BDU052 /in 32nds/
+A = 11508 COP = 11403
+B = 11411 OP = 11324
+C = 11421 XOP = 11306
+Copyright (c) 1996 CIS, Inc.
+He placed a closing buy order a few ticks above the XOP level. Dan's protective stop was
+never approached and the market broke hard. On the drop, the price didn't quite reach
+the XOP. See Chart 12-4. Whether we assume Dan was filled on his closing buy on this
+drop, or that he had to wait a bit, makes little difference, since the market made the XOP
+after another throw back rally up to 11326. For the sake of simplicity, let's assume a fill.
+Dan called Hank on Hank's private line but couldn't get through. Hank was bitterly
+arguing with his broker over the fill he'd received on his "at the market" (entry) order.
+Hank was so worried about missing the big move, he didn't wait for a retracement. The
+fill was so bad, Hyper Hank was in a rage. He closed "at the market" on the throw back
+rally where Dan went short. After all, Hank was in a 4 tick loss, and it was so incredibly
+frustrating! Hank was FLAT for the big drop.
+What about Conservative Carl?
+He saw the Double RePo but wanted to be sure it worked before he entered. When he
+saw it work by gapping down it scarred him. Carl had purchased some unripend bananas
+the day before. That was enough risk for him so he sat this one out.
+
+=== PAGE 228 ===
+
+210 DiNapoli Levels
+SCENARIO 2:
+Both Dan and Hank had a second "safe" opportunity to enter on the short side, after the
+thrust down move to 11310, when most traders would have considered the market to have
+"gone too far."
+CHART 12-4
+Consider the Fibnodes created after the 11310 low. Again, we'll keep this simple by
+considering only the first reaction back.
+Focus Number File BDU053 Focus# (Low for the swing) /in 32nds/ 0.382 0.618
+Point Number Resistance Fib Nodes Point* (Enter lowest reaction high first)
+11310 1
+=====> 11326
+===> 11405
+11421
+Copyright (c) 1996 CIS, Inc
+If we hit the first Node back, we would be selling at, or below the 11326 level, while
+hiding our stop behind 11405.
+
+=== PAGE 229 ===
+
+Chapter 12 Tying It Together, A Basic Example 21 1
+Rather than assume a fill, as we did in the earlier entry, we'll examine a bit of floor
+mechanics.
+Notice the FLAT tops at the 11326, .382 retracement level. This indicates a large
+overhead sell order or many sell orders.
+In this case, an experienced and level-headed trader like Dan, with a resting sell order at
+11326, would call the floor and give instructions to "give it a tick." If you can't call the
+floor you would "cancel-replace" the order a tick or two under 11326 or just "go to the
+market." In any case, the 11326 area was a nice "safe" place to go short, with your
+protective buy stop just a few ticks away (over 11405).
+ADVANCED COMMENTS:
+Let's go over the second entry, Scenario 2, in a more detailed and more advanced level.
+The down wave after the initial XOP Profit Objective of 11310 was met, would look
+something like this on a line chart.
+CHART 12-5
+
+=== PAGE 230 ===
+
+212 DiNapoli Levels
+The retracement series showing D-Level resistance using the proportional divider, would
+look like this:
+CHART 12-6
+The computer printout would display the more complete Fibonacci series and
+accompanying DiNapoli Levels in a tabular format, that would look like this:
+Focus Number File BDU053 Focus* (Low for the swing) /in 32nds/
+Point Number Resistance Fib Nodes Point* (Enter lowest reaction high first)
+11310 1
+===> 11326 T
+===> 11405 T
+11421
+11310 2
+===> 11402 *
+===> 11416 *
+11508
+Copyright (c) 1996 CIS. Inc.
+The first sell level would be at 11326, and since we are attempting to enter a running
+market with considerable thrust after a Double RePo, it would be very reasonable to get
+aggressive and hit (sell) the first DiNapoli Level calculated. As mentioned earlier, if a sell
+were attempted at 11326, given the flat tops, it would be prudent to call the floor and tell
+them to "give it a tick." In any case, selling a tick or two before the Node is reasonable,
+
+=== PAGE 231 ===
+
+Chapter 12 Tying It Together, A Basic Example 213
+otherwise you are apt to be filled, only when you are wrong, i.e. when the trade goes
+against you!
+Sometimes it takes more than good analysis to be a winner and in this case a knowledge of
+market mechanics is essential. What about selling at 11326 MIT? "Market If Touched"
+(MIT) orders are typically not accepted at the Board of Trade where bonds are traded.
+You can always make other arrangements if you trade enough, but if you're a "two lotter"
+without access, and you don't give it a tick or two, you may not be able to gain access to
+the floor in time to change your order.
+A good stop for this trade could be behind the 'K' Confluence area, i.e. 11402-11405.
+This Confluence area is made up of a 'T' (Thrust) .618 Reaction and a '*' (Primary)
+Reaction .382 Node. It doesn´t get any better than that. As strong as this area of
+Confluence is, however I would place my initial stop behind the major (11416) '*' .618
+instead. Here's why. If the market pushed through 'K' briefly (a few seconds), a stop
+placed at 'K' would be hit, but a stop placed behind the '*' wouldn't be. A brief push
+through Confluence does not mean the area is broken, so you would want to stay with the
+trade.
+If, however, the market stayed above 'K,' I would suspect my positioning in the trade was ,
+wrong, and take the first opportunity to get out on a pull back toward the Confluence
+area. Then I'd cancel the initial stop.
+After that, I'd take a fresh look at the trade by examining the expansions up (seeing if they
+were fulfilled) and the current Trends on the intraday charts to see where I was, i.e.
+whether or not the context for the trade supported further action.
+
+=== PAGE 232 ===
+
+214 DiNapoli Levels
+CHART 12-7
+Now let's consider in more detail the possibility of the market moving against me as
+shown in the left portion of Chart 12-7. We have the market breaking back down after
+being held at Confluence, then supporting on a Fibnode, and making a move up against me
+to an OP. In this case, I have a couple of options. The re-test of the Confluence area may
+result in a double top and a subsequent break to new lows. However, it would be prudent
+to lower my buy stop from its initial position, to the high from 'F' to 'K.' Stops now exist
+above this most recent high. Therefore, there is a higher probability that the Confluence
+area will be penetrated on a second push up, than when it was initially approached. If I
+were trading size or if I were in a thin market and I were very concerned with fills
+resulting from stop orders, I could wait for a retracement of the full up move and get out
+on an "Or Better" (OB) order against a support Fibnode. This possibility is pictured on
+the right side of Chart 12-7.
+If this level of detail in the "Advanced Comments" section has you reaching for the
+Advil®, just ignore it. If you can't figure out why anyone would bother with just a few
+ticks, the answer is threefold. First, a few ticks on a 100 lot is significant in the bonds.
+Second, these advanced comments can be applied to any Time Frame, not just to this
+example, so they are worth considering as an intellectual exercise. Third, if you trade size,
+you're often in a much better situation closing your position with an OB (or better), rather
+than stop orders.
+
+=== PAGE 233 ===
+
+Chapter 12 Tying It Together, A Basic Example 215
+NOW LET'S GET BACK TO REALITY:
+We can reasonably assume Dan achieved a fill, selling at 11325, when he told the floor to
+"give it a tick." We can see why he took the COP out on all or a part of the position he
+sold, when we consider the comments below. Here's what the expansion series looked
+like.
+24Jul96 12:22:12 Updated: 07/24/1996 0.618 1.1618
+Point Value Objective Points File BDU054 /in 32nds/
+A= 11421 COP= 11231
+B= 11310 OP= 11215
+C= 11326 XOP= 11120
+Copyright (c) 1996 CIS, Inc.
+The reason I say "all or part," is that on the one hand, it's a Double RePo and is likely to
+go lower over time. How soon, may depend upon how oversold the market is at the COP
+level. As I suggested at the beginning of the chapter, look at the detrend to determine
+this, or use the Oscillator Predictor™ to determine it ahead of time. On the other hand, I
+always like to book logical profits, and it's been a big day. Also, if we are strictly intraday
+players, it's getting late, and we would probably be expecting a lot to be looking for an
+OP before the close. As it turned out, the COP expansion 11231 was met and exceeded
+slightly, so we would have had no problem achieving a closing fill.
+I've contrasted the actions of a level-headed trader and an emotional trader to show you
+how personality traits can impact performance. It's obvious that there are alternative
+trading strategies, outlined earlier in the book, that meet the challenges illustrated in this
+example. The implementation of these alternative strategies depend upon the individual
+trader's experience, access, Time Frame, and personal objectives.
+FREQUENTLY ASKED QUESTIONS:
+Did Hyper ever get a decent trade off?
+No, Hank never got his fill, selling at 11326. He made arrangements to change brokers
+and spent the rest of the day at the local bar drowning his frustrations and talking to
+anyone who would listen. He never had a chance. He was exhausted before the day
+began and impotent when he most needed focus. Now he'll be out of the market for
+
+=== PAGE 234 ===
+
+216 DiNapoli Levels
+weeks, while he waits for his new broker to mail him the correct forms and for his funds to
+be transferred. Chances are he'll need a new bite plate before he gets over this one.
+Joe, you say you can reenter a running market, but we both knew you'II never get a fill
+on a big drop, so how do you enter in that case?
+The problem is one of semantics. You enter a running market against a D-Level
+retracement with an appropriate stop. If it's a disaster situation, however, like October
+'87 in the S&P, you don't play1. Risk tolerance is good for trading. Foolhardiness is
+suicidal. When I see a market in panic, I am not interested and I look for a way out as an
+upcoming S&P example will illustrate.
+/ understand the example in its entirety but, according to the criteria for a Double RePo
+in Chapter 6, it seems the length of the first and second penetration are a little too wide.
+Is this a look-alike or a Double RePo?
+Strictly speaking, it's a look-alike. Given the extent of the preceding thrust however, I
+have no problem with treating this look-alike as the real thing.
+1 Reference the in home TRADING COURSE (Andre the Giant and Chuck Morris anecdote).
+
+=== PAGE 235 ===
+
+CHAPTER
+FIBONACCI TACTICS
+GENERAL DISCUSSION:
+Various Fibonacci-related trading strategies have been discussed throughout this book.
+Some have catchy names designed to help you remember their character, some don't.
+What qualifies as a trading tactic and what might be considered a trading hint is a debate I
+won't get into. Regardless of what these strategies are called, I believe it's particularly
+helpful for you to have a chapter devoted specifically to this topic, and to have certain of
+these approaches defined, apart from market examples. Those of you who have studied
+my earlier material may recognize that fewer tactics have been described in this chapter
+than you have seen before. The reason is simple. Although all of the tactics described
+earlier are effective and continue to work, I believe that not all of them deserve equal
+consideration.
+Now, before we address the specific techniques described, let's be sure we understand the
+problems they are designed to solve.
+
+=== PAGE 236 ===
+
+218 DiNapoli Levels.
+Consider the following Fibonacci support series depicted in the FibNodes™ program
+printout.
+Focus Number File SMNDA4 Focus* (High for the swing)
+Point Number Support Fib Nodes Point* (Enter highest reaction low first)
+This series clearly shows a Confluence area between 17214 and 17204. We will assume
+some appropriate context that indicates a choice of that Confluence area as our long entry
+point. We'll choose 17220 as our specific entry price and call that point 'X.' The
+assumed context could be something previously discussed in this book or something you
+have chosen as an appropriate indicator. For example, maybe you want to look at put-call
+ratios, Bellinger Band extremes (on the pullback), a respected recommendation, a
+Commitment of Traders report, or whatever. A deeper D-Level, let's say just below the
+17080 level, will be the protective stop placement area 'Z.'
+Problem: How can we best enter this market at 'X,' where we assume support will
+manifest?
+Answer: Different strokes for different folks, hence there is more than one Fibonacci entry
+tactic.
+NOTE:
+Be sure you understand how I have framed the forthcoming discussion, before you go on.
+The next series of important examples all hinge on the preceding paragraph.
+
+=== PAGE 237 ===
+
+Chapter 13 Fibonacci Tactics 219
+BONSAI: AN ENTRY AND STOP PLACEMENT TECHNIQUE
+Although I rarely use this particular tactic, I include it for those of you who are
+psychologically suited to it. This would include traders who are willing to accept a lower
+percentage of winning trades than would be possible using other techniques described in
+this book. A number of former floor traders I have trained like this technique. Hyper
+Hank would likely be a Bonsai enthusiast. Those who utilize Bonsai believe, perhaps
+correctly, that their ultimate level of profitability will be enhanced by this entry tactic,
+since they typically trade more often and keep the level of each loss suffered very low.
+Here's how this very simple strategy works.
+You have, as indicated above, a pre-calculated D-Level entry at point 'X.' Using Bonsai,
+you have a preset money or point stop at 'Y,' irrespective of additional DiNapoli Levels
+CHART 13-1
+You enter both orders at the same time and hope the stop isn't hit. If it is, and the price
+immediately gets back above 'X,' you then reenter the trade at the market and again place
+your stop at 'Y.'
+
+=== PAGE 238 ===
+
+220 DiNapoli Levels.
+If the original stop at 'Y' is hit and the price remains below 'X,' then see if the context
+you choose to support the trade is still valid. If it is, you select a deeper DiNapoli Level
+upon which to enter the trade and place another money stop below it.
+Bonsai players have 'Y' defined differently for each different Time frame they may choose
+to play. The amount is usually determined by individual experience in a given market.
+Between 55 to 85 points is very typical for the five minute S&P, while three to five thirty-
+seconds (3-5/32nds) is common for the five minute US Bond market. The advantage of
+using Bonsai is its simplicity. Its ease of use frees the mind from more complex stop loss
+exit strategies and therefore may preserve a more relaxed attitude in the trader. He is
+therefore free to properly pursue the next trade in this, or other markets.
+There are many disadvantages. Bonsai players typically disregard volatility from one day
+to the next in their selection of pre-set money (or point) stops. If they don't have
+excellent brokerage services, the frequency of trading can be costly in both slippage and
+transaction fees. They also must have quick floor access to reenter orders if they are
+trading short term. Although the exit criteria is simple, trades require constant
+observation, since contingency order criteria left with a typical broker would likely be too
+complicated and subjective for the broker to be held responsible for the result.
+
+=== PAGE 239 ===
+
+Chapter 13 Fibonacci Tactics 221
+BUSHES: AN ENTRY AND STOP PLACEMENT TECHNIQUE
+Bushes is the technique typically used in the examples in this book with the exception of
+those described in "Advanced Comments.". You enter your buy above one D-Level and
+hide your stop behind another. It gained its name from a market professional who
+attended a private seminar some years back. He crouched behind a large plant I had in my
+office area. Then, as he shot at another attendee with his finger, he indicated that his
+favored method to capture profit was to hide behind the bushes, jump up, take a shot, and
+duck back down behind the bushes. The entry and stop strategies described in CHAPTER
+11 (AN IDEALIZED TRADING EXAMPLE) are clear examples of Bushes. Standing up and
+taking the shot is akin to your entry before one D-Level, while crouching down behind the
+bush is akin to hiding your stop behind another D-Level. The differing trade entry
+strategies described in CHAPTER 11 are simply variations in where to take the shot and
+which bush to hide behind.
+The obvious significant difference between Bonsai and Bushes is the lack of "cover" for*
+the stop. The subtle, significant difference requires a knowledge of floor mechanics.
+Suffice it to say, if your stop is just behind a support D-Level, you have a good broker,
+and you're hit, slippage should be mitigated. If you have no support (more likely with
+Bonsai) even with a good broker, who knows where your stop will be filled. Your chance
+of having a better fill is alwavs higher with Bushes than with Bonsai because of the
+support manifested by the D-Level itself, even if it doesn't hold.
+CHART 13-2
+
+=== PAGE 240 ===
+
+222 DiNapoli Levels.
+MINESWEEPER A: AN ENTRY AND STOP PLACEMENT TECHNIQUE
+Using this technique, we're exercising more caution than with either Bonsai or Bushes.
+Here's how it works. Let's say we want to enter the market at D- Level 'X.'
+•
+CHART 13-3
+While we expect support at 'X,' we wait, first for support to manifest at Point 1, then for
+a move up to 'F.' Point 1 and Point F (our Focus Number) are selected by market forces.
+We do not attempt to precalculate them. After those occurrences, we calculate- the Fib
+levels of that up move. On a line chart, it would look like Chart 13-4.

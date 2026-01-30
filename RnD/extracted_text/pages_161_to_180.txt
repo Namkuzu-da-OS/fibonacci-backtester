@@ -1,0 +1,331 @@
+
+
+=== PAGE 161 ===
+
+INTRODUCTION & CAUTIONS:
+DiNapoli Levels are applicable, with uncanny accuracy, from one minute charts to yearly
+charts, perhaps longer. If you plan to trade the very short term, be prepared to work hard,
+very hard. Even though computers, used in conjunction with the proper software, can
+ease this workload, diligent attention wears all of us down. Regardless of the quality of
+the approach or the thoroughness of your analysis, it's easy to burn out, and in the process
+squander hard won equity.
+Throughout this book, I am attempting to include not only the product of my research, but
+also the knowledge and experience I have gained from hard won trading lessons. I feel
+it's a part of my mandate to wave red flags at the sand traps. Since I've been teaching a
+long time, I've had ample opportunity to observe both the successes and failures of my
+students. These observations have led me to the following cautions. Once you have
+digested the material and have learned to apply DiNapoli Levels properly, you need to be
+watchful of overconfidence and the consequential lack of money management that results
+from a series of unbelievable calls. Aside from that, sloppiness in the application of
+context, as well as lack of experience with order entry and floor operations, are additional
+serious pitfalls. If you are buying and selling in the wrong place, it doesn't matter if your
+floor knowledge is limited. You'll lose anyway. When you buy and sell in the right
+place however, there is great competition for fills and you will experience problems you
+may have never encountered before1.
+1 Joe DiNapoli, "X'd Trade or Where's My Fill?" Technical Analysis of Stocks & Commodities, March
+1995, page 88.DiNapoli Levels™CHAPTER
+
+=== PAGE 162 ===
+
+144 DiNapoli Levels
+ELLIOTT WAVE PRINCIPLE:
+Many believe that Elliott Wave Principle is synonymous with Fibonacci Analysis. It is not.
+Fibonacci analysis can stand on its own (not recommended) or as part of an overall trading
+strategy which includes or excludes Elliott Wave. Those of you who are familiar with the
+Elliott Wave Principle will quickly find particular value in the trading approach taught in
+this book. Knowing where you are in a particular Elliott Wave count is confusing at best
+to long time practitioners, let alone newcomers. DiNapoli Levels circumvent the problem
+and look at waves as expansions and contractions of themselves, period.
+DINAPOLI LEVELS™:
+In CHAPTER 8, I described basic Fibonacci analysis. Some form of this basic approach is
+what most people practice when using Fibonacci analysis on the price axis. That's fine as
+far as it goes, but to progress to a deeper level, we must have a variety of definitions to
+clarify and quantify our thinking. Understanding these definitions is an absolutely essential
+prerequisite to your command of the subject matter and for your eventual application of
+advanced Fibonacci analysis (DiNapoli Levels) to the markets. So, refer back to these
+definitions as many times as necessary, until you can call them your own.
+
+=== PAGE 163 ===
+
+Chapter 9 DiNapoli Levels 145
+DEFINITIONS:
+MARKET SWING:
+A Market Swing is a trader-defined market move, lasting minutes or years, taken from a
+"significant" market low or high, which occurred sometime in the past, to the most recent
+high or low. A Market Swing can be referred to as a wave. In the following chart the
+Market Swing would be between the Focus Number and Reaction 5.
+DOWN MOVE
+UP MOVE
+CHART 9-1
+REACTION NUMBER or POINT:
+A Reaction Number usually is a low or high point within a given Market Swing (numbers
+1 through 5). I have avoided using the terms "swing high," or "low," in the definition of
+Reaction Numbers for two reasons. First, some of you will attach certain inapplicable
+
+=== PAGE 164 ===
+
+146 DiNapoli Levels
+qualifiers to this term. Second, we will have Reaction Numbers in areas that "swing
+highs" and "lows" cannot possibly be found.
+There can be multiple Reaction Numbers within a Market Swing. What determines
+whether Reaction Numbers are lows or highs is the Movement of the Market Swing. In
+our example, each swing has five Reaction Numbers. For our purposes, Point 5 is
+considered to fall within our definition of Reaction Numbers, even though Point 5 might
+not be reacting from any previous point. It could be, for example, an all time low price,
+as with hot, Initial Public Offering (IPO). In fact, Point 5 has very significant importance,
+as it is the extreme of the Market Swing. It is referred to as Primary Reaction Number or
+indicated by the '*' symbol.
+FOCUS NUMBER:
+The Focus Number is the extreme of the Market Swing. It is the location on a chart, from
+which all retracement values (Fibnodes) for a given Market Swing, are calculated. If the
+Focus Number changes, all Fibnodes for a given Market Swing change as well.
+FIBIMODE or NODE:
+A Fibnode or Node is a number based upon Fibonacci retracement ratios, which will elicit
+support as the market approaches it from above or resistance as the market approaches it
+from below. Two Fibnodes, or Nodes, are calculated, one at a .382 retracement, and the
+other at a .618 retracement between the Focus Number and a Reaction Number.
+FibNodes™ is also the name of a software program used to calculate and present
+Fibonacci retracements and objectives. Within this text, except for headings, FibNodes
+will appear with a capital F and a capital N when referring to the software program.
+OBJECTIVE POINT:
+An Objective Point is a number based upon Fibonacci expansion ratios, which marks a
+targeted Profit Objective for an advancing or declining wave.
+CONFLUENCE:
+Confluence ('K') is a price point or area which occurs when two Fibnodes from different
+Reaction Numbers have the same, or almost the same numerical value. The Confluence
+must occur only between .382 and .618 Fibnodes. An area of Confluence would include
+the Fibnodes that create the Confluence, as well as the range of price between them.
+
+=== PAGE 165 ===
+
+Chapter 9 DiNapoli Levels 147
+Confluence presents significantly stronger support or resistance than a single Fibnode.
+Confluence (closeness) is dependent on the volatility and Time Frame of a Market Swing.
+Fibnode Confluence can therefore be widely disparate from one chart to the next. For
+example, the extremes of the price range of a one minute or a monthly chart are incredibly
+different. Likewise the price range in a given Time Frame may vary widely. We might
+have a range of price in one day of 250 points, and 1250 points in another day.
+Confluence is subjective. It keeps the programmers and non-judgmental traders confused,
+and that's healthy for the longevity and usefulness of this approach.
+LINEAGE MARKINGS:
+Lineage Markings2 are semi-circular arcs used to visually identify which Reaction
+Numbers create a given Fibnode.
+LOGICAL PROFIT OBJECTIVE:
+A Logical Profit Objective is a predetermined price point where orders will be placed in
+the opposite direction from that which you are trading. If you're long, this will manifest
+as resistance. If you are short, this will manifest as support. Two Logical Profit Objective
+location techniques are Oscillator Predictor Points, and Fibonacci-derived points.
+Fibonacci-derived points can be those that come from Fibonacci expansion analysis, or, as
+you will see, levels created from certain Fibnodes singularly, or at Confluence levels.
+Since trading is simply a game of percentages, it should follow that accurate (Logical)
+Profit Objective Points would significantly increase your ability to evaluate your
+percentage, your chance of continued profit!
+AGREEMENT:
+Agreement is an area of price which occurs when the proximity of a Fibnode and an
+Objective point (COP, OP, or XOP) is "acceptably close."
+2 In some workshops and in the TRADING COURSE, these markings have sometimes been referred to as
+cross hatch markings.
+
+=== PAGE 166 ===
+
+148 DiNapoli Levels
+FIB SERIES:
+A Fib Series is the combined set of Fibnodes, created from the proper application of
+DiNapoli Levels to the price axis. It is not the Fibonacci Summation Series discussed
+under Basic Fibonacci Analysis in CHAPTER 8.
+DINAPOLI LEVELS™ or D-LEVELS™:
+DiNapoli Levels are support and resistance levels created from a specific set of rules,
+governing the advanced applications of Fibonacci analysis to the price axis. DiNapoli
+Levels include Fibnodes, Objective Points, Confluence, and Agreement price areas.
+
+=== PAGE 167 ===
+
+Chapter 9 DiNapoli Levels 149
+EXAMPLES:
+The first step in determining DiNapoli Levels is the proper location of the Focus and
+Reaction Numbers.
+Let's take a look at the following chart:
+PAST CURRENT
+CHART 9-2
+In Chart 9-2, we're looking at the progression of a Market Swing over time. The Focus
+Number is the high of the move. In the PAST wave, Reaction 1 is the Primary Reaction
+Number. This wave would produce two Fibnodes.
+The old Focus Number at O in the CURRENT wave, has no significance in determining the
+new or current Fibnodes. The CURRENT wave has two Reaction Numbers, 1 & 2.
+Reaction Number 2 is now the Primary Reaction Number. As we learned in CHAPTER 8,
+there are two Fibnodes per Reaction Number, therefore we can now generate four
+Fibnodes.
+
+=== PAGE 168 ===
+
+150 DiNapoli Levels
+The following Chart 9-3 shows four Fibnodes, a Confluence area, and Lineage Markings.
+There is Confluence 'K' in the area created by the .618 reaction of the F to 1 leg, and the
+.382 reaction of the F to 2 leg.
+It is crucial for you to know which Reaction low created each Fibnode pair. They must be
+clearly associated. Fibnode Lineage tells us a lot about the nature of our response when
+that Node is approached by market action. A bunch of lines splayed across a chart with
+no identifying Lineage only confuses our action. It doesn't help us. There's no need to
+place Lineage Markings up to the Focus Number, since all Fibnodes in a Market Swing
+are created from the same Focus Number. That's why it's called the Focus Number.
+CHART 9-3
+
+=== PAGE 169 ===
+
+Chapter 9 DiNapoli Levels 151
+Chart 9-4 is an example of how Agreement arises:
+CHART 9-4
+A .382 support Fibnode between the Focus Number 'F' and Reaction 1 is acceptably close
+to an OP expansion from C. Acceptably close is subjective. It is dependent upon Time
+Frame and volatility.
+
+=== PAGE 170 ===
+
+152 DiNapoli Levels
+Now let's look at a slightly more complex wave.
+CHART 9-5
+Chart 9-5 is obviously an up wave. A down wave would be annotated in a similar manner,
+consistent with the charts shown earlier.
+In this up wave, we have two Confluence areas, K1 and K2. If you choose to be a buyer
+as the market progresses upward (context), it would be an excellent strategy to buy just
+above the Confluence area K1, and hide your stop just below the K2 area. The specifics
+of order entry will be covered later in the Fib tactics section, CHAPTER 13.
+
+=== PAGE 171 ===
+
+Chapter 9 DiNapoli Levels 153
+Now let's look at a real market example, so you can see how effectively the concept of
+Confluence works in real life trading. Below is Chart 9-6, the monthly deutsche mark.
+CHART 9-6
+
+=== PAGE 172 ===
+
+154 DiNapoli Levels
+If we label this as shown earlier in the idealized Chart 9-2, we'll have four Fibnodes, two
+of which create the Confluence area shown in Chart 9-7.
+CHART 9-7
+
+=== PAGE 173 ===
+
+Chapter 9 DiNapoli Levels 155
+CHART 9-8
+As expected, the Confluence area provides substantial support and sets up the market for
+a major rally. See the daily Chart 9-8. If we didn't know about the monthly Confluence
+area and we were short this market, we would be in for a surprise. From our definition of
+Logical Profit Objectives, this area of Confluence would have been a great place to close
+our shorts. If we were monthly-based players, we could then wait for a retracement back
+to reinitiate our short positions (as long as our context for the trade remained in effect). If
+we were daily-based players, there are a number of ways we could get long the daily
+move. I'll consider a few.
+1. The rally off of Confluence looks suspiciously like a daily Double
+Repenetration. If it were (not shown) we'd jump on the long side like a duck
+on a June bug. We could do this in a number of ways.
+A. Buy the first shallow retracement, after the Confirmed Double RePo.
+
+=== PAGE 174 ===
+
+156 DiNapoli Levels
+B. Buy stop the high, after the smallest of pull backs, after the Confirmed
+Double RePo.
+C. Anticipate the Double RePo, and enter the market after a pull back, but
+with some Confirmed intraday Trend in our favor.
+2. Enter the market on a retracement, after a Confirmed Trend up in the Time
+Frame of our choice.
+3. Look for a Directional signal to support our trade. Enter on the long side
+accordingly.
+While it was not specifically mentioned in our Directional Indicator
+chapter, (you wouldn't have had the basis for it), a strong Confluence
+area, particularly on a weekly or a monthly chart could be a Directional
+signal on its own. This approach is a bit risky, unless the market is
+oversold as in "Stretch." The way I employ this strategy is to wait for a
+Confirmed Trend, in this case up, then employ one of the Fib tactic entry
+signals we will cover in CHAPTER 13. A number of my students will
+"Bonsai" into a Confluence area. I typically use either Minesweeper A
+or B. My suggestion to you, is not to jump ahead now to see what these
+tactics are. I think it's better for you to reread this section later and stay
+with the chronology of the book.
+IMPORTANT POINTS TO NOTE:
+1. If you didn't precalculate these DiNapoli Levels on the monthly chart, you wouldn't
+have any idea that support was about to manifest. The market was falling like a stone.
+You should always study the higher Time Frame charts, so you know where you are in the
+bigger picture.
+2. If you look at the daily (not shown) in the vicinity of the first (highest) Fibnode shown
+on Chart 9-7, you would have seen a nice playable rally.
+3. On Chart 9-7, if you re-label 2 to A, 1 to C, and the high preceding 1 to B, F would
+have been a near perfect OP.
+4. There will be a much more compelling example of Confluence coming up later in
+CHAPTER 11 involving the 500 point single day Dow decline. It's delayed until later
+because it is a little more complicated. It involves more reaction lows and consequently
+more Fibnodes. I realize it's best to learn to walk before we start to run.
+
+=== PAGE 175 ===
+
+Chapter 9 DiNapoli Levels 157
+THE PROPORTIONAL DIVIDER:
+Let's back up a little and talk about how to get DiNapoli Level markings placed properly
+on a price chart without spending much money.
+You can use a precision architectural tool called a proportional divider (precision ratio
+compass):
+The proportional divider3 is the least expensive way to properly pinpoint DiNapoli levels,
+since it allows you to identify Fibnode locations and Lineage, quickly and easily. I do not
+recommend the use of graphics (technical analysis) software4 to accomplish this task, since
+you'll get a series of unidentifiable lines splayed across a chart. This type of presentation
+will degrade your ability to confidently act on the information at hand.
+If you want to use a computer to accomplish this, you have a couple of choices. With
+enough talent, understanding of the concepts, and foresight of your trading needs in the
+heat of battle, you may be able to adequately program a spread sheet. Otherwise our
+FibNodes™ software produces a tabular printout with identifying characters. This
+presentation accurately characterizes the type of Fibnodes you are encountering in current
+market action. The characters act similarly to Lineage Markings. Using the software does
+not dispense with the utility of the divider. A high-quality proportional divider is great to
+have around. If you are trading intraday however, it is effectively impossible to accurately
+keep up with things, without adequate software.
+BOTTOM LINE: Use a divider and/or adequate software for best results!
+3 Coast Investment Software, Inc. offers a high quality, wide span, lightweight proportional divider, along
+with the Applications Manual which shows you how to properly use the divider. Dividers can sometimes
+be located in architectural supply stores. There is a wide variety of these devices. Be careful which one
+you purchase, not all are appropriate for use in this context!.
+4 This prohibition goes for our own CIS graphics package which has a good Fibonacci graphics study. It
+too however is inadequate for the trader to efficiently and accurately implement DiNapoli Levels.
+
+=== PAGE 176 ===
+
+ 
+
+=== PAGE 177 ===
+
+CHAPTER
+DiNapoli Levels™MULTIPLE FOCUS NUMBERS & MARKET SWINGS
+Now that you have a firm foundation in my approach, it's time to progress to the next
+level of difficulty. We'll begin this more advanced level of analysis with a Market Swing
+that is very typical of what you will see occurring in the market place every day. See if
+you can properly label the Focus Number(s) and Reaction Numbers on Chart 10-1, before
+turning the page.
+CHART 10-1
+
+=== PAGE 178 ===
+
+160 DiNapoli Levels
+With the exception of points M and Q, does your labeling look like this?
+CHART 10-2
+
+=== PAGE 179 ===
+
+Chapter 10 DiNapoli Levels Multiple Focus Numbers & Market Swings \ 61
+Here's what the DiNapoli Levels would look like.
+CHART 10-3
+Even though point Q did not take out the high at M, the reaction low labeled '1', is still
+significant and should be used to create DiNapoli Levels.
+Notice there was a Confluence area 'K' formed between the .618 Node of Reaction 1 and
+the .382 Node of Reaction 2. There could be no Confluence between the .382 Nodes
+formed from Reactions 3 & 4, since they were both .382 Fibnodes. If the .382 Node off
+Reaction 4 and the .618 Node off Reaction 3 were a bit closer, then we'd have another
+area of Confluence 'K'.
+
+=== PAGE 180 ===
+
+162 DiNapoli Levels
+MULTIPLE MARKET SWINGS:
+Now let's look at a chart that has two Market Swings, one up, one down.
+Can you properly label the Focus and Reaction Numbers on this chart?
+CHART 10-4

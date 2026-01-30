@@ -1,0 +1,315 @@
+
+
+=== PAGE 101 ===
+
+Chapter 6 Directional Indicators 9 Power Patterns 83
+How about crude oil? Well, it's certainly a liquid market. It's also a volatile market, and
+that's what we want. Let's see what happened when Saddam did his thing back in the
+summer of 1990.
+CHART 6-7
+Chart 6-7 shows the 3X3 containing trend all the way up to the $40 level, then a Double
+RePo and subsequent break through the 25X5. This Double RePo was the first time since
+the invasion of Kuwait that it was "safe" to go short. The previous breaks of the 3X3 (SI
+& S2) were single penetrations only, primarily due to the vast difference between the two
+tops (Tl & T2) made prior to each penetration. These dips presented buying
+opportunities as you will see when we cover our Bread and Butter directional signal.
+If you had misinterpreted these single penetrations as a Double RePo, you would have
+shortly reversed and more than made your money back when the '*' Fibonacci level (not
+shown) was exceeded. This is called a Double RePo Failure. It will be the next
+directional signal we cover.
+
+=== PAGE 102 ===
+
+84 DiNapoli Levels
+In Chart 6-8, we have a monthly based, Double RePo buy in the German bund.
+CHART 6-8
+I could go on and on with these examples, but you should have enough here to recognize
+this Directional Indicator when you see it. I've stressed your understanding of the Double
+RePo since your understanding of its formation is critical to your understanding of the
+Double RePo Failure as well as Bread & Butter. Before we leave this topic, however, I
+want to show you a very interesting Chart (6-9) of monthly gold.
+
+=== PAGE 103 ===
+
+Chapter 6 Directional Indicators 9 Power Patterns 85
+CHART 6-9
+I didn't know about the Double RePo back in the early 80s when this event took place. I
+wish I had.
+The original move up to 875 certainly qualified as thrust. The dissimilar tops were a bit
+hard to live with but the fact that the second peak was held back by Fibonacci '*'
+resistance made it more palatable. The sell signal was given at about 625. The subsequent
+fall was a move down to about 280! I'm certainly not suggesting that anyone trade this
+monthly chart with what might be a $200 stop. What you need to understand is that the
+monthly set up can be used for weekly-based mutual fund switching or daily-based
+commodity trading. Another reason I wanted to show you this chart is so you can see
+what I'm looking for in the current stock market rally before I get excessively bearish. If
+we get a monthly Double RePo sell on the Dow or in the S&P, say good-bye to stocks! If
+the ensuing monthly pullback returns to the .618 retracement from the beginning of this
+bull market, we could be looking at a loss of over 4000 points!. If we only achieve the
+.382 retracement, we're still looking at something over 2500 points! For those of you
+who don't think this is likely or at least possible, gaze at Chart 6-9 again.
+
+=== PAGE 104 ===
+
+86 DiNapoli Levels
+THE "DOUBLE REPO FAILURE":
+1. First, you must have a Confirmed Double RePo, as shown in Chart 6-10.
+CHART 6-10
+2. The Double RePo signal fails and is negated when the closing price exceeds the
+Fibonacci '*' level. This is your signal bar. The expected subsequent action should be
+strongly up.
+3. Your exit is at a significant Logical Profit Objective or a Confirmed Trend signal as
+defined by the 3X3 that does not confirm the action expected from the Failure.
+
+=== PAGE 105 ===
+
+Chapter 6 Directional Indicators, 9 Power Patterns 87
+Note: This signal is one of the few instances when you would reverse your original
+position. It would also be acceptable to aggressively enter (initiate a new position) against
+the high of the Double RePo Failure signal bar, after even the smallest of pullbacks. The
+point is, this is a Directional signal. You don't play with it. You get out of the way and
+go with it! In Chart 6-10, we clearly have a Double RePo which fails by exceeding Point
+'*'. Once you're in the trade to the long side, you have two ways to exit. Point COP (not
+shown) would be your Fibonacci precalculated, profit objective. Penetrating back below
+the 3X3 on close is your protective exit. This protective exit could turn out to give you a
+profit or a loss on the trade, depending on when and where price action crossed the 3X3.
+You could also use the stop placement methods discussed in CHAPTERS 8 through 11.
+Regardless of alternative tactics, the signal stays in play until a significant Logical Profit
+Objective is achieved or you get a Confirmed Trend against the anticipated Movement.
+FREQUENTLY ASKED QUESTIONS:
+Once (he Failure is in place, how aggressively do I treat it?
+You immediately get out of any existing positions that are counter to the action
+anticipated by the Failure. You may initiate new positions aggressively, or by criteria yet
+to be described (dropping the Time Frame and entering at a Fib retracement or Confluence
+area).
+Can I use the MACD/Stochastic Trend indicator to determine the protective exit rather
+than the 3X3, if the Failure doesn't go my way?
+Yes, a Failure should move now, and keep moving. If it doesn't, something is wrong.
+
+=== PAGE 106 ===
+
+88 DiNapoli Levels
+Chart 6-11 weekly bonds has two Double RePo Failures as well as a Double RePo. I've
+identified one Double RePo Failure and the Double RePo. Can you find the other Failure?
+CHART 6-11
+
+=== PAGE 107 ===
+
+Chapter 6 Directional Indicators, 9 Power Patterns 89
+Chart 6-12 shows a Double RePo Failure in the daily bund. The price action to the right
+of the top does not qualify as a Double RePo, since there was not adequate thrust. Note
+how nicely the 25X5 contains long term Trend.
+CHART 6-12
+
+=== PAGE 108 ===
+
+90 DiNapoli Levels
+THE "SINGLE PENETRATION" OR THE "BREAD AND BUTTER" SIGNAL:
+I'd like to say this is a "lay down" but of course nothing is in trading. This trade is
+designed to book you some nice comfortable profits with little risk. Unfortunately, it
+requires a good understanding of advanced Fibonacci Retracement Analysis to implement,
+so you will need to reread this after D-Levels™ are covered. Some of the terms, of
+necessity, must be broad.
+1. Like the Double RePo, the Bread and Butter must have a minimum of 8-10 periods of
+thrusting market action. More is better. Just what constitutes thrust is far easier to
+visualize than to define. This is good news, since it will make it tough for programmers to
+specify. Therefore, it should continue to "work" for some time to come.
+CHART 6-13
+
+=== PAGE 109 ===
+
+Chapter 6 Directional Indicators. 9 Power Patterns 91
+2. After the initial penetration of the 3X3 on close, look for an intraday Fibonacci
+(support) retracement level, at a significant Fibnode, to enter the market in the Direction
+of the original thrust. This level should occur within one to three periods of the initial
+Confirmed break of the 3X3. I recommend daily, weekly, and monthly periods, although
+this strategy will also have merit on intraday charts. The retracement Fibnodes which are
+the basis of your entry as well as your stop, should be calculated from the hourly (and
+higher) Time Frame charts, if you use the periods I suggest.
+3. Once the trade is entered, set your stop loss beyond a deeper Fibonacci retracement
+level, and your profit objective a bit before the 618 retracement '*' of the entire contra
+move, i.e. the move that is opposite the original thrust.
+Let's take a look at the monthly gold Chart 6-14, as an example of our buy and sell points.
+CHART 6-14
+
+=== PAGE 110 ===
+
+92 DiNapoli Levels
+Before you have a coronary over the prospect of that $200 stop, let me point out that this
+is a theoretical example. It could be made practical, however, if we used the monthly
+Direction for weekly-based mutual fund switching or even daily based Fib entry. Context!
+Context! Context! Plan your trades as you would any other important financial endeavor.
+I'd give you more examples, but we haven't covered how to arrive at the Fibonacci entry
+and stop levels yet, so the exercise would have limited relevance.
+Before we leave this topic, however, let's look at our friend Microsoft, Chart 6-15. This
+time we'll view it in a monthly Time Frame.
+There's no inconsistency in being a seller on a weekly Double RePo, as discussed earlier,
+closing the trade at the Logical Profit Objective shown in Chart 6-6, and then being a
+buyer based on a monthly Bread and Butter signal. If this seems inconsistent to you, you
+don't fully understand price vs. time charts or Time Frames. A review of the Trend
+discussion in CHAPTER 2 may help.
+CHART 6-15
+
+=== PAGE 111 ===
+
+Chapter 6 Directional Indicators, 9 Power Patterns 93
+CHART 6-16
+Notice how the monthly MACD Confirmed the ongoing monthly up trend, while the
+Stochastic gave us a great buying opportunity, once the profit objective shown in Chart 6-
+6 was reached.
+Note the consistency between the Bread and Butter monthly buy and the MACD shown
+above. What is not shown is a daily Double RePo Look-alike on the buy side that
+occurred at the same time! This is what high probability trading is all about!
+
+=== PAGE 112 ===
+
+94 DiNapoli Levels
+PATTERN FAILURES:
+The idea behind these directional signals is not to follow everyone else, but rather to fade
+those pattern players when you are sure they are wrong. Typically, newer traders are
+looking at the standard Robert Edwards and Magee trading patterns1 for trading signals.
+They make an excellent group to feed off, if you can determine what they are doing and
+when they are likely to panic. These signals work best when these traders have the time to
+get in the trade the wrong way. That's why I look at daily, weekly, and monthly pattern
+Failures. While the higher Time Frames hold the more secure probabilities, some pretty
+dramatic results can be achieved from certain intraday pattern Failures.
+THE "HEAD AND SHOULDER FAILURE":
+CHART 6-17
+The above idealized example illustrates a clear H&S with a break of the neck line, a bit of
+consolidation below it, then a close back above it. The subsequent action is expected to
+be strongly up because the short selling pattern players are caught wrong, and must
+1 Robert Edwards and John Magee, Technical Analysis of Stock Trends
+
+=== PAGE 113 ===
+
+Chapter 6 Directional Indicaors, 9 Power Patterns 95
+unwind their positions. The lower portion of the consolidation after the break of the neck
+line may be supported by a significant Fibonacci level. If it is, you will have some advance
+warning that a Failure is coming and you can enter according to the Fibonacci tactics
+taught in CHAPTER 13. It isn't necessary however, that such support causes the
+subsequent Failure. What's necessary is that (he Failure occurs. Anticipate this pattern
+at your risk. If you anticipate this signal before it crosses the neck line, you will be trading
+against a classic pattern and you would also likely be against the prevailing trend.
+Remember, you are not taking the classic sell signal, rather the Failure (buy), if it happens.
+CHART 6-18
+The bond weekly Chart 6-18 shows a picture perfect example of this phenomenon. We
+have strong Fib support below the neck line. Time for players to "get wrong" (two to
+three weeks) followed by a subsequent sharp move up, trapping those pattern players.
+This weekly action would be the set up for the trade. You would enter on the daily Time
+Frame.
+
+=== PAGE 114 ===
+
+96 DiNapoli Levels
+CHART 6-19
+The daily chart illustrates how powerful and rewarding this signal can be. The idea is to
+drop your Time Frame to enter the trade, once the setup is apparent.
+If you are observing the pattern Failure on a weekly chart, you can enter on the daily. If
+you are observing the phenomenon on the daily, enter on the hourly. The specific entry
+techniques you would use will be covered later in this book. If you hesitate, you can
+easily get left behind!
+NOTE: These types of pattern plays are particularly rewarding if they are widely
+promoted in a specific market, particularly on TV programs, or in a widely-followed
+newsletter, or fax service.
+
+=== PAGE 115 ===
+
+Chapter 6 Directional Indicators, 9 Power Patterns 97
+THE "TRIANGLE BREAKOUT FAILURE" OR "OOPS":
+FAILURE
+FIBNODE
+SUPPORT
+CHART 6-20
+The Triangle Breakout Failure or OOPS can take a variety of forms. The key is that
+traders have recognized that the triangle pattern exists and they have had time to act on it,
+thereby getting in the wrong way. It can't be too subtle. All the same reasoning applies
+as with the Head & Shoulders Failure.
+
+=== PAGE 116 ===
+
+98 DiNapoli Levels
+"FADING POPULARITY" OR "THE VULTURES DELIGHT":
+In the early 90s, when Candlestick charting was new in the U.S. and aggressively
+promoted, I had a studious client call me whenever the strongest of the Candlestick signals
+occurred. I never took any of the signals. I simply asked him, as a dedicated devotee of
+Candlestick patterns, when his Directional signal would indicate that he was wrong. That
+was my Directional signal. Soon he understood what I had been trying to teach him about
+how powerful Failures can be.
+THE "RAILROAD TRACK":
+This is a top notch Directional signal that can occur in any Time Frame. Its wide
+applicability is likely responsible for the glowing comments from my clients. It's as easy
+as it gets to apply and profit from, with a minimum of effort. For those of you who have
+studied Steidlmayer's work 2, the Market Profile®, and understand "rejection of price,"
+the underlying concept of why this works will be apparent. To those of you who are
+unfamiliar with these concepts, just imagine a half a dozen ocean-front homes in Santa
+Barbara, California suddenly going up for sale at $100,000 each. Boom, they're gone.
+Professional investors and Realtors snap them up and the price is back to the more normal
+range, perhaps higher since overhanging supply is now absent.
+The idealized Chart 6-21 depicts a typical Railroad Track. With the extensions down as
+shown, we would expect a strong up move. Notice how the extended two bars are out of
+close proximity with the others bars. We call this "Railroad Tracks in the country", i.e.
+nice, scenic, and pleasant. Railroad tracks in the city are congested, unhappy events,
+potentially dangerous to cross, smoggy, and unsightly. As futures traders, what we want
+is space around the Railroad Tracks we select to trade. For rejection of price, we need
+price that is not common.
+The Railroad Track (RRT) can take place in any Time Frame, from five minute to yearly.
+It is one of two directional signals which allows you to adjust the Time Frame to any
+desired amount. In other words, you may cause the data to fit into our perception of
+usability, by adjusting the Time Frame. So, let's imagine some variations that will all
+work, since they all represent the same phenomenon.
+2 J. Peter Steidlmayer and Kevin Koy, Markets & Market Logic, (The Porcupine Press, 1986)
+
+=== PAGE 117 ===
+
+Chapter 6 Directional Indicators, 9 Power Patterns 99
+CHART 6-21
+
+=== PAGE 118 ===
+
+100 DiNapoli Levels
+CHART 6-22 (TWICE THE TIME FRAME)
+Chart 6-22 contains exactly the same data as Chart 6-21, only it is shown at twice the
+Time Frame. If Chart 6-21 was a half hour chart, Chart 6-22 would be an hourly chart. If
+Chart 6-21 was an hourly, 6-22 would be a two hour chart. The RRT phenomenon works
+exactly the same, since the price action is exactly the same. It just looks a little different.NO CONGESTIONBUY STOP THE HIGH
+BUY A SHALLOW
+RETRACEMENT
+RAILROAD TRACK
+
+=== PAGE 119 ===
+
+Chapter 6 Directional Indicators, 9 Power Patterns 101
+B D
+RAILROAD TRACKS IN DIFFERENT TIME FRAMES
+CHART 6-23
+Chart 6-23 shows a variety of looks that RRTs can assume. You'll need to get used to the
+fact that all of these forms are applicable in exactly the same way, since they depict the
+same phenomenon.
+So, how do we play it?
+These events can be so powerful that some of you will choose to enter "at the market"
+once the RRT is established, while others will choose a Fib retracement level for entry, as
+described later in this book. You will know you are wrong if the RRT returns to its
+extreme in price. It would be advisable to have a stop in excess of the .618 retracement,
+the '*' Fibnode. It would be nice if you could enter on a .382 retracement of the move up,
+after point R (recognition) is achieved, but often the continuation movement is too
+powerful. You will likely need to employ the more advanced methods covered later. I
+will typically stop myself in (initiating positions) against any extension of the extreme of
+the move after point R, while also attempting to position myself on a shallow retracement
+level. If I'm filled on both orders that's fine. If I just get the initiating buy stop, that's
+okay too.c
+
+=== PAGE 120 ===
+
+102 DiNapoli Levels
+In the following 30 minute chart of U.S. Treasury bond futures, we can see a Railroad
+Track extending up to 11525. We know it's a RRT when subsequently the market returns
+to where the extension started, approximately 11508. That's the point of recognition (R).
+Note the flat tops at 11514. They show a large overhead supply. This is our sell point.
+We can also initiate sell stops at the 11508 level in case we're not filled at the retracement
+sell, or if we want to double up. This is a 30 minute chart. We don't want to be married
+to the position. We take a quick Fibonacci profit level (OP) near the low at 11428. If the
+higher Time Frame trends (not shown) were in a sell mode, we might want to stick around
+for bigger profits, or possibly hit it again on a retracement back toward the extension high.
+Based on the intraday RRT shown however, this was a nice "safe" trade that allowed us to
+book some nice "safe" profits. I like taking profits. So should you.
+CHART 6-24

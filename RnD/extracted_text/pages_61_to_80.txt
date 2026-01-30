@@ -1,0 +1,503 @@
+
+
+=== PAGE 61 ===
+
+Chapter 4 Trend Analysis Displaced Moving Averages 43
+CHART 4-3B
+The profit differential on Chart 4-3B is a different matter. Here we have a longer term
+standard MA. It falls dramatically away from market action. Therefore, a non-judgmental
+system whose signals are based on crossing a MA on close to take an open profit (P2), is
+likely to give back significantly more than the shorter period DMA would give back (PI).
+How would you trade this?
+I wouldn't. Trading any given market will come only after this book has thoroughly
+covered all the aspects needed to trade. The examples contained herein are for your
+understanding of the segment covered.
+What did you mean about blowing (he price delineation point 'N' periods forward in
+time?
+The term 'N' refers to the displacement amount. If we're talking about daily periods, the
+3X3 is displaced three days forward in time. You know the DMA value of the current
+day, two days, and three days ahead of time, i.e. the price point that will delineate trend.
+If there was no displacement (N=0) then you wouldn't even know until the close what the
+Moving Average value was for the current day, since you need that value to calculate the
+Moving Average.
+
+=== PAGE 62 ===
+
+44 DiNapoli Levels
+Years ago, traders used the opening price rather than the close to calculate the Moving
+Average value, so they would know ahead of the close what the MA was for the current
+day. I believe the first series of workshops I gave in 1986 and 1987 discussing the
+advantage of DMAs was instrumental in the demise of this practice.
+What about exponential MAs, weighted MAs, or "back-deviated Maxwell convoluted"
+MAs? Would they work better? Do the Displaced Moving Averages you use work in all
+markets?
+You're welcome to try them. I arrived at the DMAs cited above over a period of about
+two and a half years, cranking them out on a CPM based computer using an 8088 chip. I
+studied thousands of charts, in all manner of markets, in all types of conditions. I tried
+every kind of MA I could imagine and have programmed. In those days there was no
+commercially available software I was aware of that created DMAs. To accomplish this
+task I needed to create a graphics package that would displace a Moving Average. The
+result was the first incarnation of the CIS TRADING PACKAGE, programmed by George
+Damusis. My research revealed no advantage in more complicated DMAs, over simple
+DMAs. Therefore in keeping with my primary directive, i.e. keep everything as simple as
+possible, I stuck with simple DMAs.
+It's also useful to understand that I did not go through this optimization process, so
+popular with many of the computer junkies and cerebral types. Instead, I exhaustively
+examined market after market, to see what I, as an experienced trader, could live with
+emotionally and reasonably expect to be profitable. Could I do a better job today? I
+doubt it. More number manipulation power is not necessarily better. Besides, I doubt I'd
+have the fortitude to take on such a job today. Even if I were to make this single aspect
+of my Trend analysis technique 5% better, would it significantly influence the bottom line?
+I think not. As you will see, Trend analysis is filtered and acted upon by subsequent
+powerful techniques. Remember the old axiom, if it ain't broke, don't fix it. Don't
+misunderstand me on this point. Research is terrific. You can learn a lot from it, and you
+should try to improve on my work if you are so inclined. I would suggest to you,
+however, that you test your results across all the markets. The DMA values and
+calculation methods used should have universal applicability (overseas markets) as well
+as the ability to stand the test of time.
+
+=== PAGE 63 ===
+
+Chapter 4 Trend Analysis Displaced Moving Averages 45
+Below is a highly compressed chart of the daily UK long bond (gilt) with both the 25X0
+and 25X5 shown. This chart illustrates price action in both trending and consolidating
+periods. Arrows have been placed at points where the 25X5 contained Trend but the
+25X0 did not.
+CHART 4-4
+You do not use Displaced Moving Averages on intraday charts. Why not? Don't they
+work?
+They work very well, but I have a technique that (for me) works better. It's the
+MACD/Siochastic combination. Many of my clients use DMAs on intraday charts and
+rave about their effectiveness. You, of course, are free to try them. They are simpler to
+employ than the MACD/Stochastic combination.
+
+=== PAGE 64 ===
+
+46 DiNapoli Levels
+The following chart shows how well an intraday 3X3 contains thrusting moves on the 30
+minute S&P.
+CHART 4-5
+So how do we define the "Trend"?
+Very simply. If the close is above the Displaced Moving Average you choose, the Trend
+is up. If the close is below it, the Trend is down. If you use DMAs to non-judgmentally
+enter or exit a market, I'd suggest giving it a tick or two, through the DMA on close,
+before acting, particularly on the longer term 25X5.
+What if the price is above it now, at mid-day, but yesterday's close was below it?
+In that case, the Confirmed Trend is down and the Unconfirmed Trend is up.
+Why do you use three value sets for the DMA?
+The 3X3 is for the short term and is extremely useful in thrusting markets.
+The 7X5 is a longer-based DMA that many have found useful in equity market analysis.
+The 25X5 is my long term DMA.
+
+=== PAGE 65 ===
+
+Chapter 4 Trend Analysis Displaced Moving Averages 47
+What if the closing price is below the 3X3, but above the 25X5?
+Then the short term Trend is Confirmed down and the long term Trend is Confirmed up.
+Below is an example of both DMAs on the daily German bond (bund).
+CHART 4-6
+How you would react or how you would play this would depend upon what Time Frame
+player you were. If you were an hourly-based player, you would be very interested in the
+daily 3X3 and you'd be aware of the 25X5. If you were a weekly-based player, you
+would be interested in the 25X5 on the daily or perhaps the 3X3 on the weekly. One
+caveat here. If the weekly-based trader was aware of a Directional Indicator created from
+a daily-based 3X3, he would take notice. I'll explain this in detail in CHAPTER 6.
+Is it okay to take a position on an "Unconfirmed" signal?
+Absolutely, I do it all the time, but at the close of the period you had better have
+confirmation in the Direction of your assumptions or you say "adios" to the trade. If you
+do not, you have made a major Mistake. Also, on the subject of Mistakes, you never,
+
+=== PAGE 66 ===
+
+48 DiNapoli Levels
+ever, change the reason for a trade. If you entered a trade on the basis of some criteria
+and that criteria is negated, you don't look around for other criteria to justify your
+position. If you do, you have made a serious Mistake. Close the trade, and if you have
+other criteria to be in the trade, re-open it, on that basis. Pay the commission. The long
+term psychological considerations far outweigh the costs involved. Besides, once you're
+out of a trade and take a fresh look at it, the reentry criteria may not seem nearly as
+compelling.
+You referred to cupping market action. Is this really the same thing as minimizing
+whipsaws?
+Yes, one of the most common techniques misused by traders is that of tightening up on
+their stops too quickly. The idea sounds good, but most traders don't have good stop
+placement techniques in the first place, much less any idea about when to tighten them.
+Consider the following daily chart of the Canadian dollar.
+CHART 4-7
+From March through the beginning of May, the market is primarily in a strong up Trend as
+defined by the 3X3. We would therefore be playing the long side, by buying dips, likely
+on an hourly chart, and selling at specific objectives. These dips and Objective Points are
+defined by Fibonacci work which will be covered later.
+
+=== PAGE 67 ===
+
+Chapter 4 Trend Analysis Displaced Moving Averages 49
+When we reach the top, we have a sustained break through the 3X3 to the downside and
+the 3X3 contains or "cups" the ensuing rally back toward the top. Look at the expanded
+view of the top, Chart 4-8.
+CHART 4-8
+If we tightened our stops too quickly, after getting short on day A, we would be stopped
+out on day B or C. If we used the 3X3 as a guide to Trend delineation, we would have no
+reason to be concerned about our short position, unless we experienced a significant close
+back above the 3X3. In later chapters, we will cover stop placement techniques
+thoroughly. For now, what's important is that you understand that the 3X3 is giving the
+market an opportunity to breathe. The rally back toward the previous top provides a way
+for those who have provided market liquidity to the sellers, to unwind the long positions
+they have accumulated, and likely go short themselves.
+As you study the concepts defined in this book, you will plainly see that markets are stable
+and tradable if they have reactions to any significant price Movement. They are unstable
+and dangerous to trade if there are sustained and violent moves in only one Direction.
+this is due to the fact that those professionals who have provided liquidity to the markets
+are the wrong wave!
+
+=== PAGE 68 ===
+
+ 
+
+=== PAGE 69 ===
+
+CHAPTER
+TREND ANALYSISMACD/STOCHASTIC COMBINATION
+GENERAL DISCUSSION:
+Like most traders new to the Stochastic, I was befuddled for a time by its movement, and
+dismayed by my initial attempts to use it. Fortunately the equipment I used at that time to
+display the Stochastic was the CQG TQ20/20™. I say fortunately, because the TQ used a
+modified type of Stochastic, rather than what was said to be the standard Lane Stochastic.
+Some time later I learned there were differences in Stochastic formulas. Had I attempted
+to apply this indicator using a different Stochastic formula than what was programmed in
+the TQ20/20™, my learning curve would have been much steeper. This is because the
+indicator would have been much more difficult to apply and interpret.
+PROGRAMS, PROGRAMMERS, AND PROBLEMS:
+At the risk of having your eyes glaze over from boredom or creating a brain embolism
+from strain, we're going to digress a bit and discuss some significant issues we, as
+traders, encounter while attempting to utilize trading tools. The Stochastic, and to a
+lesser extent the MACD, give us a perfect setting for this discussion. We'll consider the
+Stochastic first.
+George Lane1, the originator of the Stochastics, observed that the closing price within the
+range of a bar had significance relative to future price development. After considerable
+1 George Lane, Investment Educators
+
+=== PAGE 70 ===
+
+52 DiNapoli Levels
+diligent effort, he derived a formula that quantified this belief. That seems straight
+forward and simple enough, but in the real world of trading software it's anything but
+straight forward and simple. There are disturbing variations of Stochastic formulas
+floating around and specified in reference material. Even talking with George himself who
+is one of the most knowledgeable, generous, and gentlemanly figures associated with the
+business, I have not found a simple means of getting from the original formula to what we
+as traders are faced with using now. So here's how we'll proceed. I will try not to bury
+you in complex math. There are a variety of equations in Appendix E for the
+mathematicians and programmers among you. I will also give you the option to skip
+ahead a few pages to the Preferred Stochastic, if your only interest is in knowing what I
+use. By doing so you will eliminate going through a somewhat tortured discussion.
+However, you will miss out on some of the issues we face utilizing trading software to
+make our trading decisions.
+As an outgrowth of George's work came a variety of terms:
+Lane Stochastic
+Raw Stochastic
+Fast Stochastic
+Slow Stochastic
+Modified Stochastic
+The Stochastic
+WILL THE RIGHT STOCHASTIC PLEASE STAND UP:
+When traders purchase a graphics package from let's say, Trade-Em-Quick Software Inc.,
+we can see that they have "The Stochastic" available as one of their preprogrammed
+indicators. Great, we're happy, since that's one of the indicators that we've read about
+and want to use. But, which Stochastic is "The Stochastic"? If we don't know enough to
+ask some very pertinent questions to some hopefully informed and responsible sales
+people, we haven't any idea of what we are really getting! So, let's try to learn something
+about Stochastics and let's be worldly about software and how it is developed.
+LANE (RAW) STOCHASTIC:
+As far as I'm concerned, all Stochastics can rightfully be called the Lane Stochastic since
+they all emanated from George Lane's research. Lane Stochastics, i.e. all of the
+Stochastics we will discuss, have two lines: a fast moving line %K, and a slow moving line
+%D. There seems to be some agreement between the different Stochastics formulas for
+%K of the Fast Stochastic, sometimes referred to as the Raw Stochastic, so we'll start
+with it and I'll include the equation here.
+
+=== PAGE 71 ===
+
+Chapter 5 Trend Analysis MACD/Stochastic Combination 53
+%K, Fast (Raw)Stochastics:
+FIGURE 5-1
+The calculation of %D, the slow line, is where a large number of the problems arise. The
+slow line %D, is a smoothed version of the fast line, but there are a variety of ways of
+smoothing a line. There's the number of periods we can use to smooth a line, as in a five
+period Moving Average, or a ten period Moving Average. Then, there's the type of
+Moving Average we can use. We could use a simple, or an exponential Moving Average
+for example. Since there are a variety of ways of smoothing a line, there are a variety of
+different Stochastics.
+FAST STOCHASTICS:
+If we use the formula in Figure 5-1 for %K and smooth it by using a three period modified
+Moving Average (MAV), we have the %D line of the Fast Stochastic. In George Lane's
+Stochastics article2, he used an example from the TQ20/20™, which used this type of
+smoothing of %K to create the % D line. The TQ was also programmed to use the same
+type of smoothing to create the Slow Stochastic referred to in Figure 5-3.
+FIGURE 5-2
+Some software companies will use other smoothing methods, however, and still call the
+indicator the Fast Stochastic.
+2 George Lane, "Lane's Stochastics," Technical Analysis of Stocks and
+Commodities, May/June 1984.%K=IOO[(C-Ln)/(Hn-Ln)
+where:
+C is the latest close
+Ln is the lowest low for the last n days
+Hn is the highest high for the last n days
+%D (of the Fast Stochastic) = 3 period MAV of %K (of the Fast Stochastic)
+
+=== PAGE 72 ===
+
+54 DiNapoli Levels
+SLOW ( PREFERRED) STOCHASTICS:
+Slow (Preferred) Stochastics are derived from Fast Stochastics. If we take the %D
+computed above and rename it to %K, and then smooth this line by using a three period
+modified Moving Average, we have the new slow, Slow Stochastic line, %D. These two
+lines make up the indicator called the Slow Stochastic, created by a modified Moving
+Average smoothing. This is what I use ("Preferred").
+FIGURE 5-3
+Some software companies will use other smoothing methods, however, and still call the
+indicator the Slow Stochastic. The formula for the modified Moving Average is shown
+below. The starting point (MAVt) is calculated identically to that of a simple Moving
+Average.
+MODIFIED MOVING AVERAGE (MAV):3
+FIGURE 5-4
+If a simple Moving Average is used instead of a modified Moving Average to perform the
+smoothing, you get a Slow Stochastic which is significantly less useful. In fact, I find it
+useless.
+3 P.J. Kaufman, The New Commodity Trading Systems and Methods, (New York:
+John Wiley & Sons, 1987)%K (of the Slow Stochastic) = %D (of the Fast Stochastic))
+%D (of the Slow Stochastic) = 3 period MAV of %K (of the Slow Stochastic
+MA Vt = MA Vt-1 + (Pt - MA Vt-1 )/n
+where:
+MAVt is the current modified Moving Average value
+MA Vt-1 is the previous modified Moving Average value
+Pt is the current price
+n is the number of periods
+
+=== PAGE 73 ===
+
+Chapter 5 Trend Analysis MACD/Stochastic Combination 55
+MODIFIED STOCHASTIC:
+If we start at the original agreed upon formula for the fast %K (Figure 5-1) and smooth
+that line by any means whatsoever, we have %K of the modified Stochastic. If we then
+take that %K line and smooth it by any means whatsoever, and call the result %D, we
+have the slow line of the modified Stochastic. It is likely you will find other definitions of
+the Modified Stochastic in reference material or software users manuals.
+THE STOCHASTIC:
+Display Trade-Em-Quick Software or Aspen Graphics™ or CIS TRADING PACKAGE or
+TradeStation® on your screen and there you have it, an indicator that is a Stochastic.
+What it is or how useful it is, is anyone's guess. Without diligent research, I wouldn't
+hope to define this term as the study it suggests can have such vastly different appearance,
+applicability and usefulness, depending on how the equations are manipulated in the
+software of your choice!
+THE PREFERRED STOCHASTIC:
+This is a new term. It is meant to reflect what / use and find of benefit. The equations
+cited above to produce the Slow Stochastic and the modified Moving Average achieve
+what I want. Other equations and references relating to the Stochastic are in Appendix E
+so as not to confuse this issue further.
+The last time I looked, my Preferred Stochastic was called the Slow Stochastic in CQG,
+Inc., Aspen™, and our own CIS TRADING PACKAGE. It was not available in
+TradeStation® as a preprogrammed indicator, but could be created by inputting the
+proper equations in so-called "Easy Language™"(Appendix D). MetaStock™ defaults do
+not produce the Preferred Stochastic. You can change the defaults in MetaStock™
+without inputting equations, to create the Preferred Stochastic.
+When you study the examples of Stochastics on charts in this book, using the Aspen
+Graphics™ software, you will see the name Modified Stochastic rather than Slow
+Stochastic, even though Slow Stochastic is my Preferred Stochastic. Why? When I set up
+the study initially, I didn't trust that the programmers had computed the Slow Stochastics
+correctly. I therefore went to the Modified Stochastic study and set up the study myself,
+to duplicate what I knew were correct inputs. I then compared these values with what I
+• knew were correct: our own CIS TRADING PACKAGE. After I did that, I compared the
+specific Modified Stochastic I set up in Aspen with what Aspen called the Slow
+
+=== PAGE 74 ===
+
+56 DiNapoli Levels
+Stochastic, and found out their programmers did get it right. When we discuss "The
+Stochastic" in the body of this book, it will be my Preferred Stochastic.
+As trading software evolves, it is likely that the Modified Stochastic will supplant all other
+forms of Stochastics, since by definition the Modified Stochastic can be adjusted to
+simulate all others. In that case, to simulate our Preferred Stochastic, the user would
+input four variables:
+1. eight periods for consideration (eight days, eight hours, etc.)
+2. three periods of smoothing for the fast line
+3. three periods of the smoothing for the slow line
+4. modified for the type of Moving Average to accomplish the desired smoothing
+As if this level of detail does not complicate things enough, let me tell you about two other
+aspects you need to watch out for when selecting software packages and trading with the
+indicators they produce.
+MARKET-ALIGNED VS TIME-ALIGNED BARS:
+It is much easier to program time-aligned bars but they are not as good as market-aligned
+bars for analysis. Let's look at bonds as an example. Even though the bond market starts
+trading at 8:20 AM and ends its actual half hour at 8:50 AM, time-aligned bars would
+begin this market at 8:00 AM, and end the first bar at 8:30 AM. In this example, the first
+1/2 hour (8:00-8:30) will have JO minutes of actual data in it. The second half hour bar
+will have only 20 minutes of the first half hour's data in it, and 10 minutes of the second
+half hour's trading data in it. Another example of time-aligned bars producing
+"erroneous" high, low, last data, would be an hourly S&P. In this case, an hourly S&P's
+first bar would contain data from 9:00 AM to 10:00 AM although data is not flowing until
+9:30 AM! The second hour starts at 10:00 AM and goes until 11:00 AM, instead of
+correctly starting at 10:30 AM and going until 11:30 AM. With the high, low, last for
+these intraday charts being recorded "incorrectly," all studies calculated from them are
+obviously also incorrect. Don't let complacency put you to sleep on this one. Many
+traders have used studies generated from time-aligned bars for years, with substandard
+results. Many of these traders are totally unaware of how these studies are being
+calculated. I suggest to you that the poor performance of indicators may be the result of
+the improper basis from which they are calculated, rather than the quality of the
+indicators, or the trader's understanding of their use!
+
+=== PAGE 75 ===
+
+Chapter 5 Trend Analysis MACD/Stochastic Combination 57
+THE DATA SAMPLE:
+The second, and again, not so obvious malady certain graphics packages suffer from,
+derives from the data sample they select to calculate studies. Let's say you reduce the
+horizontal (time) axis from 140 to 40 bars. If the studies you are using require in excess
+of 40 bars to produce accurate values, some vendor programming will be inadequate in
+that they will calculate only from the sample shown on the screen. Whether you look at
+20, 40 or 400 bars on the screen, good graphics programs will give you the same values
+on the studies. These values should not depend on the number of days shown on the
+screen assuming, of course, that you have adequate data available on your hard drive to
+make the calculations accurate.
+Loose talk about "this Stochastic" or "that Oscillator," without researching the formulas
+that are used to create them or the programming behind the creation of the bars from
+which they are calculated, can lead to the most disappointing results, with no hint of where
+the problem lies!
+PROGRAMMERS AND UPGRADES:
+On the subject of programmers, let's talk about what happens in the real world of software
+development. Let's assume you're the president of a software company and you're also a
+trader. You have a very stable piece of software you use daily for trading decisions but...it
+has a teensy, little bug in it. The number 8 in 1998 shows up a little too far to the right of
+the screen. You go to your programmers and say, "That's kind of annoying; can you fix
+it?" "Sure!" is the answer. You get the software back two months later and you find out
+they fixed the number 8, but they also "fixed" a "problem" one of them noticed in the
+Stochastic equation. Of course, they didn't tell you about this "fix. "
+I'd like to establish an industry-wide standard to ensure that when programmers do
+something and don't tell you about it, they lose a toenail. If you think that's harsh,
+consider a trade you've been planning for weeks, that should have netted you $20,000, but
+lost $10,000 instead. Why? Because the calculation of an indicator in your trading plan
+had been changed without your knowledge or approval. You tell me, as a trader, would
+you personally like to find the pliers, or would you just smile and say, "Please don't do
+that again?" If I had my way, there would be a lot of limping going on in trading rooms,
+at least initially!
+The same goes for upgrades. The software company that has produced your trading
+software says they have this fantastic new thing, this wonderful study in their upgrade you
+couldn't give a gaseous burp for. You're forced to "upgrade," however, since they're no
+longer going to support that old software version you're working with . You find out
+
+=== PAGE 76 ===
+
+58 DiNapoli Levels
+later that in the "upgrade," they screwed up the continuous contract generator, created a
+bug in the cursor window, and your charts won't print correctly any more! When you tell
+them about this they say, "Don't worry, there's a new upgrade on the way - for only
+$195.00."
+Besides undocumented changes, so-called upgrades can wreak havoc with your trading
+plan in other ways. Often, a default setting on files contained in the upgrade can overwrite
+settings you may have painstakingly inputted. I'll give you one example which may or
+may not apply to the software you use. Bid and ask prices are routinely reflected on your
+quote page. Most traders want this feature. Most traders, however, do not -want bid and
+asked prices charted. If you select the "bid and asked not charted" option and this is
+overwritten by your upgrade, it may take months before you realize your charts are
+wrong! Meanwhile your indicators, D-Levels™, your highs, lows and lasts, will all be
+incorrect. You may even think you're due a fill by looking at your chart, when there was
+only a bid or offer beyond that price!
+If you are new to this game take heed. I've been involved with trading software
+generation and use for 15 years and these issues are real problems. While I am awed by
+the talent of programmers, I am equally dismayed by some of their actions and the actions
+of the managers who direct their efforts. These individuals who may know as much about
+trading as squirrels do about Fourier analysis, can easily take it upon themselves to
+"improve" or inadvertently destroy our critical decision-making tools!
+Notwithstanding the above, were it not for the incredible talent, persistent, dogged work
+of programmers, I would not have had an opportunity to develop the way I have as a
+trader. Without programmers, the Displaced Moving Average research, the Oscillator
+Predictor™ and the striking advantages of my FibNodes™ program would have remained
+as unfulfilled dreams. So, recognize that the advantages and costs of utilizing computers
+and human beings to program them, offer awesome benefits, as well as serious challenges.
+If you keep in mind that software engineers require the same level of strict management
+and diligent oversight as traders, the benefits should far outweigh the costs.
+
+=== PAGE 77 ===
+
+Chapter 5 Trend Analysis MACD/Stochastic Combination 59
+USING THE STOCHASTIC
+In the early days, I started out with inputs of 14, 3, 3, but later settled on 8, 3, 3. Many of
+the initial problems I encountered with this study were solved when I internalized the
+concept of Trend being dependent on Time Frame. There is absolutely no inconsistency
+with the five minute Stochastic showing a "buy" while the half hour shows a "sell." The
+inconsistency, if any, is in the user's mind, by not knowing what Time Frame he is trading
+in, or lacking the experience to handle the speed of variations inherent in very short term,
+intraday trading.
+In my early days trading futures, I used only the Stochastic to determine intraday Trend in
+the traditional manner. When the fast line crossed the slow line from below 25, and broke
+above 25, it signaled an up trend. When the fast line crossed the slow line from above 75,
+and broke below 75, it signaled a down trend. See Chart 5-1.
+STOCHASTIC
+CHART 5-1
+THE MACD (DEMA) STOCHASTIC COMBINATION:
+During the mid 80s, Jake Bernstein and I conducted a seminar together. One of the topics
+he presented was his Dual Exponential Moving Average (DEMA)/Stochastic combination
+method. Over the years, Jake taught me many things but this particular technique, altered
+in a specific way, remains among the most powerful in my trading arsenal. The way Jake
+taught this method was to use the Stochastic in the traditional manner and filter it with the
+
+=== PAGE 78 ===
+
+60 DiNapoli Levels
+DEMA buy or sell. In other words, the Stochastic and the DEMA had to both be on a
+buy, or both be on a sell, before a confirmed Trend signal up or down was given. So what
+was a buy on the DEMA? Better yet what is the DEMA? The DEMA is a derivative of
+Gerald Appel's MACD4 (Moving Average Convergence Divergence) originally developed
+by Mr. Appel for analyzing stock trends. The MACD is, as Mr. Appel says, quite simple.
+You take the difference of two Moving Averages of price and create a Moving Average of
+that difference. The difference of the original two Moving Averages and the Moving
+Average of that difference, can be plotted as two lines, one fast and the other slow. The
+equations are in Appendix E.
+MACD
+CHART 5-2
+Notice, I've used the same two wavy lines on Chart 5-2 to show the MACD that I used to
+show the Stochastic in Chart 5-1. All I've done is change the scale, since the MACD
+(DEMA) oscillates about the zero line, while the Stochastic travels between zero and 100.
+In our work we will essentially ignore the scale for both indicators and simply observe the
+penetrations of the wavy lines.
+Jake Bernstein took maximum advantage of the MACD by using specific exponential
+Moving Averages rather than whole number inputs as Gerald Appel did, hence the term
+DEMA5.
+4 Gerald Appel, The Moving Average Convergence-Divergence Trading Method
+(New York: Signalert Corporation).
+5 Jacob Bernstein, Short Term Trading in Futures (Probus Publishing
+Company, 1987).
+
+=== PAGE 79 ===
+
+Chapter 5 Trend Analysis MACD/Stochastic Combination 61
+MACD OR STOCHASTIC
+CHART 5-3
+Like the Stochastic, when the fast line crosses the slow line from below, you get a buy.
+You get a sell signal when the fast line crosses the slow line from above. As much as I
+like to tweak things to achieve maximum advantage, I have never found any combination
+of inputs that matches, much less exceeds, those that Jake developed, i.e. .213, .108, .199.
+These exponential inputs can be simulated by "period" inputs of 8.3897, 17.5185, 9.0503,
+if the software you are using is programmed to take "period" inputs and simulate
+exponential Moving Average smoothing. Among those graphics programs I know of
+which accurately program this study are CQG, Inc., Aspen Graphics™, TradeStation®,
+and our own CIS TRADING PACKAGE. I'm sure others do as well, but I have not
+confirmed that fact.
+If you're a "shoot from the hip" type and think I'm getting just a little too particular about
+these details, that's your prerogative. I must emphasize what I believe is important. It's
+your option to choose to ignore what you please. I'm not saying you will lose money if
+you don't follow this precisely. I am saying that you should know what it is that you are
+doing and not make unwarranted assumptions. Besides, we need lots of "shoot from the
+hip" types. These traders often provide us with the other side of our trade.
+Okay, let's assume we have properly calculated and displayed the Stochastics and MACD
+studies (I will refer to the DEMA as the MACD from this point forward for clarity).
+Here's how I use them.
+
+=== PAGE 80 ===
+
+CHART 5-5
+For my purposes, the MACD is the more reliable Trend indicator. I have continued to use
+Jake's numbers, thereby leaving it strong. I have deliberately weakened the Stochastic by
+inputting 8, 3, 3, rather than the stronger 14, 3, 3, originally used by Jake and many
+others. Above are Charts 5-4 and 5-5 of the Stochastic and MACD for the daily March62 DiNapoli Levels
+CHART 5-4

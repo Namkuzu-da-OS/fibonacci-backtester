@@ -1,0 +1,539 @@
+
+
+=== PAGE 21 ===
+
+CHAPTER 1
+TRADING METHODSJUDGMENTAL VS. NON-JUDGMENTAL TRADING SYSTEMS
+POSITION TRADING VS. INTRADAY TRADING
+GENERAL DISCUSSION:
+Judgmental approaches call upon the trader to make decisions within a given criteria or
+context, while non-judgmental systems are strictly mechanical.
+The trading methodology I use involves judgment. It's the way I like to trade. I believe
+judgmental techniques have inherent advantages over non-judgmental techniques.
+Flexibility as inspired by the human mind, and the speed with which necessary
+adjustments can be made to respond to changing market conditions are two of the
+strongest reasons to trade using judgment. I know from teaching however, that many of
+you have preconceived notions about different approaches to trading that are inconsistent
+with reality. Since achievement in any field first involves some fundamental
+understanding, Tthought it might be in your best interest to spend a little time looking at
+certain realities of basic trading approaches. First we'll go through a reality check, then
+some history, so you can see why and how I have reached certain conclusions. We'll
+consider judgmental vs. non-judgmental trading methods then position vs. intraday
+trading approaches.
+
+=== PAGE 22 ===
+
+4 DiNapoli Levels
+REALITY CHECK:
+The Beach Boys had a song many of you should remember that began, " Wouldn't it be
+nice ...." It extolled the virtues and fun of constant companionship, where lovers could
+skip through the daisies to the never-never land of untold bliss. After not so many years,
+some of the Beach Boys themselves had to face the realities of married life, legal hassles in
+divorce court being one. Some who have avoided such a fate would privately admit that
+their former soul mates have become little more than dents in the bed next to them.
+Are things always that bad between expectation and reality? Of course not. With enough
+effort, we can hopefully end up somewhere in between. Likewise, such is the promise of
+both judgmental methods and non-judgmental trading systems. Let's look at non-
+judgmental trading systems first.
+NON-JUDGMENTAL APPROACHES:
+WOULDN'T IT BE NICE...
+1. Once you have the development in place, your research and your work is
+over. Your trading system is fixed, stationary, and immutable. Stress is
+non-existent since the decision-making process is out of your hands and in
+the purview of a machine. Thorough and precise (hypothetical) testing
+techniques have left little to chance. Everything has been taken into
+consideration so your confidence is strong.
+2. You can arrange for signals to be implemented by a hired trader or
+broker and thereby avoid the tedium of monitoring the markets yourself.
+3. "It" - i.e. the "system," the "program," the "solution" - can generate an
+' adequate income flow which will enable you to go to Fiji and stick your
+toes in the sand. Perhaps "it" can even pay the alimony and child support
+while you find a new soul mate to take the place of the dent in the bed.
+THE REALITY...
+1. The work never ends. When system historical extremes are exceeded,
+you're back to tweaking, testing, and massaging the parameters.
+
+=== PAGE 23 ===
+
+Chapter I Trading Methods 5
+1 A. In fact, you better have two independent systems, or
+maybe three, or four, to even out the equity swings. Oh
+yes, there will not only be some tweaking and
+massaging, it's more likely that outright replacement of
+a system or two will occur, as one or the other goes
+sour altogether.
+IB. What about stress? You don't know stress until
+you experience pervasive impotence. You feel utterly
+helpless to effect results as you watch your system(s)
+dictate one absurd order after another. You just know
+that profit is going to evaporate and go to a loss. When
+that happens, you can't do anything but watch and obey
+the signals it generates. Hey Mack, pass the Maalox®,
+NOW!
+1C. You learn that the $100 for slippage and
+commission you thought was extravagant, was in fact
+sorely inadequate. You forgot about limit moves, 40
+tick runs without looking back, worst possible fill
+situations and.... The data you did the testing with was
+thought to be okay, but really wasn't all that good.
+Your confidence in your testing techniques is hitting
+new lows along with your account size.
+2. The broker you have executing the trades seems to be missing entries on
+some of the biggest moves and ... why couldn 't he get that stop right! Or,
+the trader you hired can't help but put his vast experience (one year) to
+work "improving" what you have struggled so long to perfect.
+3. The only way to get enough capital to properly fund four systems over
+the 15 futures contracts you have found necessary to trade for adequate
+system diversification, is to take in, and manage money. Now you have
+disclosure statements, CFTC (Commodities Futures Trading Commission)
+oversight, a staff, and more NFA (National Futures Association)
+compliance issues than you ever dreamed existed. You thought a
+corporate tax return was hard to comply with? Now the manure is so
+thick, you wonder if the daisies you planted will ever have an opportunity
+to germinate, much less see the light of day.
+
+=== PAGE 24 ===
+
+6 DiNapoli Levels
+WHAT ABOUT JUDGMENTAL APPROACHES?
+WOULDN'T IT BE NICE..
+1. You study under the best of the high-powered pros. You achieve a 90%
+win ratio through unexcelled market understanding.
+2. You live where you want, trade when you want, and rid yourself of the
+employee hassles that have been bugging you for years.
+3. You turn a modest amount of money, through skill and diligence, into a
+veritable mountain of pure financial muscle. You leave an ever-growing
+portion of it in a high-yielding money market account whose proceeds will
+allow you to zip off to Fiji when you choose to and... well, you know the
+rest of the story.
+THE REALITY...
+1. You learn from one high-powered pro, then from another high-powered
+pro, and although you find some real benefit here and there, you're just
+never able to achieve quite what you expected.
+1A. In fact, it's been years now, and after $30,000 in
+seminars, books, software, and trading courses, your
+profit is only barely able to cover your cost of overhead.
+You haven't been able to touch that $50,000 you're out
+from past trading losses!
+2. If you can't find a way to get really profitable and hit a big home run,
+your savings will be gone in not so many months. You start wondering if
+you will become someone else's employee.
+3. The stress and time demands of constantly focusing on that screen, being
+there for the open, and tangling with the overnight Globex session have
+you wondering if you'll ever get to the local beach. As for Fiji, is there a
+contract on them? What's the tick size and... where do Fijis trade?
+
+=== PAGE 25 ===
+
+Chapter 1 Trading Methods 1
+Okay, things aren't quite as rosy or quite as bad as what I've outlined above, but they
+easily can be. In fact, they can be worse! What follows are some unqualified observations
+from my direct involvement: the odyssey / have experienced. This recantation of events
+isn't hypothetical, it's real time living stated here, so you can see how I arrived at certain
+conclusions. Then, perhaps you can better decide for yourself where you might best fit in.
+SOME HISTORY:
+Around 1980 I decided to investigate the futures markets. The plan was to switch from
+the vehicles I had been trading to what I knew was the most demanding and potentially
+rewarding game in town. The timing of the switch had to do with my view of my station
+in life. By that time I was "well heeled" enough to take what I expected would be a rough
+transition. I also thought my knowledge level and trading expertise were at a point where
+this new challenge could be properly met. I quickly realized two things. It was a good
+thing I had waited until I was "well heeled" and the challenge was a bit more than I had
+anticipated. Here are the highlights of the odyssey, how I got started in, and eventually
+became successful at trading futures.
+After about a year of trading poorly, I managed a much sought-after meeting through a
+social contact with an extremely successful and reclusive CTA. This man was reputed to
+have made a bazzilian dollars over the past five years in agricultural futures. I wish I
+could describe this bizarre individual to you, but perhaps someone would recognize him,
+and one prerequisite for his tutelage was that I never reveal his identity. Of course, I
+never have.
+After a few pleasantries, this "cerebral" type began our get-together with a discussion of,
+"What if you were a Martian and you came to earth to trade commodities." Hmm....
+"You look at this action, that action, another action, and so on. Not being able to speak
+English, you simply watch actions. Prices fluctuate." He went on, "You talk with your
+Martian friends about these actions and you wonder about appropriate reactions." I
+looked at him as if he were Moses holding the Commandments behind his back and
+musing about the fit of his sandals. After an hour of this much cloaked "benefit," I was so
+befuddled and confused I was willing to settle for which way soybeans might be going.
+Hopefully that information would allow me to get back the cost of my travel to see him!
+This man was the first of three mentors I was fortunate enough to have. Their kindness
+and willingness to share with me weighed heavily in my decision to begin teaching in 1986.
+So what was all this about Martians? It took me a while to figure it out, but he held the
+key to the gold box and he wasn't about to share it with a stranger whose intentions,
+interest, and sincerity were unknown. This meeting was the first of many that stretched
+over a period of about three years. I learned a lot from this man who traded strictly and
+
+=== PAGE 26 ===
+
+8 DiNapoli Levels
+competently from the basis of a non-judgmental system. But, strangely enough, none of
+what I learned was what I was after in that first meeting. He taught me that:
+1. There are no absolute heroes, only heroes for a while.
+2. All non-judgmental systems eventually fail (stop making money). Your
+hope is to be using one while it is working.
+3. Excellent information can be gleaned from a true expert once trust,
+eligibility, and pre-requisites in your knowledge base are established.
+4. Non-judgmental systems are lucky to achieve 50% winning trades, 30%
+is acceptable.
+5. Trading a non-judgmental system is difficult and stressful. It requires
+tremendous concentration, diligence, and self discipline.
+6. There is an awesome level of challenge, fulfillment, and discovery in the
+entire trading process.
+LET'S ELABORATE ON SOME OF THESE POINTS:
+1. HEROES:
+It turns out my friend was a hero of truly epic proportions during
+the market moves of the 70s. His non-judgmental, fundamentally
+based, mathematical system was very cleverly put together. It fell
+apart, however, after the inflation peak of the late 70s, and after
+subsequent avenues of supplies (grains) opened up overseas.
+2. SYSTEM FAILURE:
+With substantial personal resources, cash, and experience, he
+diligently proceeded with a staff and mainframes to replace what he
+had lost. One of the more interesting dead ends he explored was a
+detection of randomness, or lack thereof, to determine if a tradable
+trend existed. It was sort of like a Directional Movement Index
+gone mad. That one worked great for two years, then it stopped
+making money. When later it bombed out, it bombed out big.
+Through consultations with other traders, joint ventures and the
+like, he was funneled down the corridor of many of my other
+system-developing friends: i.e. that some form of volatility breakout
+
+=== PAGE 27 ===
+
+Chapter 1 Trading Methods 9
+system seems to best handle the test of time. As most would agree,
+however, these types of systems have a poor win/loss ratio and
+generally take significant funds to employ due to their
+diversification requirements. There was some additional hope
+gleaned from all this number crunching: i.e. some systems can last
+up to five or perhaps even 10 years before falling apart, and if you
+happen to get on to one of those early on, you can do awfully well,
+at least for a time.
+3. APPRENTICESHIP:
+My naive idea that this individual would share his earned
+knowledge with me on our first encounter was absurd. That he
+would recognize my sincerity and my obvious worthiness was also
+absurd. It took years of doing for him, before he shared with me.
+He knew I needed to be ready to hear what he had to tell me. He
+also knew that when he told me what he knew, I would realize how
+little he knew.
+That's exactly what happened. When we reached that point, I went on. In the many
+encounters with bright and successful traders of fixed systems in the ensuing 16 years, I
+have not had reason to materially change what I had learned from my first mentor.
+During the time I was working with this man, I ran into my first really good trading tip,
+given to me by my second mentor. He was an extremely successful judgmental trader
+who, I think out of pity, told me to study Displaced Moving Averages. Of course, after
+telling me to study DMAs, he had to explain what they were. By doing so, he was finally
+able to get me out of his presence and go back to his mainframe.
+It seemed in those days the only truly successful traders I found all had mainframes and
+they were incredibly eccentric and reclusive. I'd spent less than 15 minutes with this
+person, but now I had a direction. Three years later when I compared the results of my
+research with his, the similarities were astonishing. It took another 15 minutes to compare
+our research. This was the second and final meeting I ever had with this man. Now I,
+too, had a profitable and reasonably consistent judgmental method to trade.
+The method wasn't all that hot however, about 50% winners, and it gave back a lot.
+Although I had a reasonable methodology, I was totally unsatisfied. Necessity being the
+mother of invention led to my first important independent discovery, the "Oscillator
+Predictor™," a true leading indicator. With it, I was able to capture profit and avoid risky
+entries.
+
+=== PAGE 28 ===
+
+10 DiNapoli Levels
+It wasn't until my third mentor told me about an Italian mathematician named Fibonacci1,
+that my techniques really began to click. Number three was also eccentric. He didn't own
+a mainframe and was anything but reclusive. This man was certainly the most dazzling
+trader I had ever met. Definitely judgmentally-based, I actually saw him nail down highs,
+lows, intermediate rally highs, intermediate retracement lows. You name it! His trading
+style went beyond any rational expectation I had ever entertained, and he did this live time
+while I watched him! It wasn't until he taught me what he was doing in one short *
+afternoon, that I discovered these techniques weren't nearly enough for consistent,
+profitable trading. As experience (time) robbed yet another hero from me, I saw him go
+from riches to rags, to insolvency, to debt. The Holy Grail sure seemed to have a lot of
+holes that needed mending. After many, many years of my own experience, the following
+hard-won conclusions make up the substance of the thread.
+JUDGMENTAL TRADING:
+1. The most important trading tool you have is not your computer, your
+data service, or your methodology. IT'S YOU! If you're not right -you
+don't trade.
+1A. Trading breaks are essential, particularly for
+intraday players. Three to seven day breaks every three
+to six weeks is what I have determined is best for me.
+IB. Take significant time off; about three to six months
+every year, if you trade intraday, at least one to three
+months if you trade daily-based or above.
+1C. Four or five days a week spend at least one hour
+doing something you like that does not involve the
+markets or your computer. I like working with my
+hands, restoring cars or otherwise fixing or building
+things.
+ID. The definition of a professional is one who makes
+the least mistakes, not the one who makes no mistakes.
+If you make one serious mistake, take yourself off
+trading for three days. If you make three mistakes in a
+short time period (over two consecutive days), take
+yourself off trading for three days.
+1 Leonardo de Pisa, was the son of Guilielmo Bonacci. In Italian, 'figlio' means 'son,' hence Tiglio
+Bonacci,' which was shortened through the years to Fibonacci. He was a preeminent mathematician of
+his time.
+
+=== PAGE 29 ===
+
+Chapter 1 Trading Methods 11
+1E. If you violate rule ID, give $100,000 to the person
+you dislike the most in the world. It may interest you to
+know that of the many traders I have trained, I have
+almost never seen anyone follow rule ID unless they
+were forced to (no margin). A mistake is defined in
+CHAPTER 2, under "Ground Rules and Definitions."
+Mistakes will be cited and clarified throughout this
+book. It's critical that you know if and when you make
+a mistake .
+1F. If you have not been trading for 10 days or more, do
+not trade size (large positions) for at least one week.
+1G. Separate yourself into two halves, the trader and the
+manager. The trader cannot trade without the express
+permission of the manager. The manager watches for
+crucial signs of "fitness," e.g. mistakes, irritability, stress
+in the trader's personal life, tell-tale black shading under
+the eyes, excessive flatulence. Get the idea? It is the
+manager's job to get the trader away from the phone
+before the disaster occurs. Just look at the Barings
+fiasco if you doubt the need for competent management.
+In the late 80s, a local I had trained who had achieved consistent and considerable
+profitability, began just as consistently, losing money. His personality seemed to be
+undergoing a change and it was obvious his personal life was under some stress. I first
+suspected drugs, but on further reflection I narrowed it down. One night when we were
+talking market and he was complaining bitterly about "unexplained" losses, I asked him
+how long it was before his new child was to be born. "Three months," he said, "and how
+the hell did you know?"
+By this time, you should be able to see the importance of being "fit" to trade. Systems or
+methods allowing for discretion are dependent on the quality of that discretion both in
+execution and size. If the discretion goes, you can wipe out in a week what it has taken
+you months to accumulate.
+2. There are knowledgeable, honest, and sincere traders available who like
+to teach and have the qualifications to make themselves understood. Seek
+them out, get their material if you can afford it, and befriend them. Much
+of what they can offer to you in casual conversation will be invaluable to
+your success. Someone helped them. Approach them correctly and if they
+can, they will help you.
+
+=== PAGE 30 ===
+
+12 DiNapoli Levels
+3. Judgmental trading can lead to incredibly favorable win/loss ratios.
+Don't let them go to your head.
+3 A. If you attain dramatic profits very quickly, your ego
+can blow way out of proportion. Always remember you
+are only one trade away from humility.
+4. During the trading decision-making time, you can afford no
+interruptions. None! Zero! If your office is in your home and you trade
+intraday, get a lock to separate yourself from anyone sharing the premises
+and use it. If this presents a problem with your wife or family, don't trade
+or get a different wife and family.
+One of my clients, a chiropractor, who traded out of his home in northern California, was
+warned about this repeatedly. This individual suffered a $40,000 loss when his wife
+casually walked over and dropped their infant in his arms just before a crop report.
+Experience can be a tough teacher but to many it's the only teacher.
+5. The speed with which you can adapt to changing market conditions is
+considerably faster with a judgmental rather than a non-judgmental trading
+approach. This can prevent those huge drawdowns that can accompany
+blind (fixed) system failures. For those engineers who are reading this,
+consider a mechanical feedback system that dampens and focuses responses
+as a function of the speed of the transducers. If the feedback system is
+quick enough, it keeps up with the changes. But if it gets behind, it can go
+180 degrees out of phase and tear itself up! It works the same with
+trading.
+6. Trading a judgmental system is difficult, requires tremendous
+concentration, diligence, and self discipline.
+7. There is tremendous challenge, fulfillment, and discovery in the entire
+trading process.
+The bottom line is that there are certain inherent advantages and disadvantages to either
+market trading approach. I have chosen the judgmental approach. It is largely a question
+of matching your talents, your psyche, your financial resources, and your objectives with
+the challenges and advantages cited above. There is no way I've ever seen of avoiding a
+lot of work and a lot of stress. Prepare yourself for it, or if it's too hot, get out of the
+kitchen now!
+
+=== PAGE 31 ===
+
+Chapter 1 Trading Methods 13
+SUMMARY:
+ASPECTS OF JUDGMENTAL TRADING TECHNIQUES:
+1. You can benefit from an extremely flexible market approach.
+2. You will have a highly flexible personal schedule.
+3. You have the potential for dramatic gains (or losses) quickly.
+4. You will have potentials for extremely favorable win/loss ratios.
+5. There is an absolute necessity for strict personal management.
+6. There is an absolute necessity for a separate and adequate trading environment.
+7. Relatively "small" amounts of capital can be adequate to achieve your goals.
+8. Your focus on relatively few markets is not only acceptable, but preferable.
+ASPECTS OF NON-JUDGMENTAL TRADING TECHNIQUES:
+1. Poor win/loss ratios are the rule not the exception.
+2. Historical hypothetical testing techniques are typically badly flawed for a wide
+variety of reasons.
+3. Most non-judgmental systems ultimately fail; the aim is to attempt to use one
+while it's working.
+4. Volatility breakout systems seem to best stand the test of time.
+5. Multiple systems, traded over a wide variety of markets are necessary to smooth
+out the equity curve.
+6. Relatively large amounts of capital are necessary for system and market
+i diversification, as well as for the inevitable drawdowns.
+7. If system and market diversification is achieved, large amounts of capital are
+employable.
+°. Constant implementation of trading signals is essential, i.e. no breaks.
+
+=== PAGE 32 ===
+
+14 DiNapoliLevels
+9. Locating adequate help to implement the system signals is a challenge in itself.
+ASPECTS OF NON-JUDGMENTAL AND JUDGMENTAL TRADING:
+1. An excellent life style is attainable if trading goals are met.
+2. Fulfillment, challenge, and discovery are possible outcomes of the trading
+experience.
+3. Stress levels can lead to utter destruction of your psyche and physical self, if not
+properly managed.
+4. Financial ruin will accompany a frivolous or ill-advised approach.
+5. The work load is awesome and unending; it must be properly managed.
+6. You will have the potential to meet, and have as friends and colleagues, some
+of the best and brightest individuals on the planet.
+
+=== PAGE 33 ===
+
+Chapter I Trading Methods 15
+POSITION TRADING VS. INTRADAY TRADING
+You not only have to decide whether to trade judgmentally or non-judgmentally, you also
+have to consider the time frame that best suits you. Then, you need to be sure the time
+period you have chosen is best for the approach you are using.
+With respect to applying the methodology this book teaches, it is easy. Essentially you
+apply the same general criteria to a five minute chart that you would apply to a monthly.
+Where you best belong is the tougher question.
+My experience indicates that it's suicidal for a new trader, operating off the floor, to trade
+intraday. What's "new?" "New" is anyone trading actively for less than one year. If you
+are a part time or casual trader, you had better give it three to five years before going to
+intraday trading. The better question is however: What's intraday? My definition would
+be a trader who is actively observing price action during the day and making decisions
+based on what he believes is unfolding at that time.
+A daily-based (or above) trader may choose an entry or exit point to be acted upon during
+the next day without being construed as being an intraday player.
+What's a position player? The true answer is, it depends on perspective. To a floor
+trader, the five minute trader is a position player. To a daily-based trader, a weekly-based
+trader is a position trader, and so on. For our purposes however, we'll consider a position
+trader as daily-based or above. As you drop the time frame, the decision making time is
+compressed and the stress is increased. As you drop the time frame, the number of
+decisions increase radically. You have seven times the number of decisions going from
+daily- to hourly-based, 12 times the number of decisions, going from hourly to five minute.
+The opportunity is certainly accelerated, but I wouldn't expect a savvy boxing promoter to
+put a promising newcomer into the ring with Mike Tyson, just to see if he could learn to
+handle the big time more quickly. After all, he might lose more than his ears in the
+process!
+
+=== PAGE 34 ===
+
+16 DiNapoli Levels
+DISADVANTAGES OF INTRADAY TRADING
+1. You need experience - lots of it - with particular emphasis on order entry
+techniques and a thorough understanding of floor operations.
+2. You need excellent brokerage and clearing services.
+3. You have high overhead costs in software, quote delivery fees,
+equipment, and transaction costs.
+4. So much of your time is taken up by the trading activity, you can't make
+money doing anything else.
+5. Stress levels increase dramatically.
+ADVANTAGES OF INTRADAY TRADING
+1. You can trade many more contracts with a given amount of capital.
+2. You will have many more trading opportunities than a position trader.
+3. If your trading capital is severely limited and you are otherwise
+qualified, you have trading opportunities that will allow for much closer
+stops. Obviously the typical range on a five minute bar is smaller than the
+typical range of a daily bar. This point is really a variation of #1.
+You should be able to restate the above to define the advantages and disadvantages of
+being a position trader.
+
+=== PAGE 35 ===
+
+Chapter I Trading Methods 17
+AN ALTERNATIVE:
+Given today's technology, there is a way to gain substantial benefits from a mix of the
+traditional paths. Here's how it works.
+Get delayed intraday quotes from a quality vendor and have the capacity to display the
+bars graphically on an intraday basis. You can use, let's say 30 & 60 minute time frames,
+to help make daily-based decisions that can be acted on during the next day. The idea is
+to come home after work and make your decisions in the relative calm of the evening with
+the added accuracy and flexibility of intraday charting capability. You can set stops,
+entries, and such to be acted on during the next day. It may even be possible to set up
+some contingency orders, depending on your work environment and/or brokerage
+relationships. The advantages are substantial. You avoid the need for excellent brokerage
+services and a thorough understanding of floor operations. You avoid expensive software,
+on-line feeds, and equipment. You can make money doing something else. You can trade
+somewhat more contracts and have far greater opportunity than a traditional position
+player, and have closer stops. The analysis of your trading opportunities will be thorough.
+What is most important, however, is that you will operate with less stress than an intraday
+player, giving you an opportunity to grow into the trading experience rather than to be
+intimidated by its nature and seeming unpredictability. These are the options; pick your
+poison.
+
+=== PAGE 36 ===
+
+ 
+
+=== PAGE 37 ===
+
+CHAPTER
+PREREQUISITES,
+GROUND RULES, & DEFINITIONS
+PREREQUISITES:
+You should understand that this is not a book on basic technical analysis. It is a book
+about a modular and comprehensive trading approach that I have found to be both
+prudent and highly effective. Although I always attempt to start a discussion at a base
+level of assumed understanding, it is presumed that you have a working knowledge of
+certain well-known technical tools. If you do not understand Moving Averages,
+Stochastics, MACD, RSI, and the general appearance of price vs. time charts, there are a
+number of books listed in the reference section which you should consult before
+proceeding any further.
+GROUND RULES AND DEFINITIONS:
+Before we can hope to arrive at an understanding of my trading methodology, we have to
+be sure we're on the same page, i.e. that certain terms and concepts mean the same thing
+to both of us. To emphasize the specific meaning I attach to each of the defined terms,
+they will be capitalized throughout the text, i.e. Trend, Direction, Movement, and so on.
+TREND:
+A favorite question I ask when teaching is, "What is the current Trend of the S&P, bonds,
+or whatever?" Invariably I get the response, "Up, down, or sideways." Seldom am I
+
+=== PAGE 38 ===
+
+20 DiNapoli Levels
+asked, "In what Time Frame?" The question, "What's the current Trend of...?", without
+specifying the Time Frame is meaningless.
+Below is a series of four charts. Let's use the Displaced Moving Average (DMA) overlaid
+on these charts as a Trend delineator. The length and type of this DMA is not the relevant
+issue. Our definition of Trend is the relevant issue. If we define an up Trend as a close
+above this DMA, and a down Trend as a close below this DMA, you can see the variety of
+Trend statements we can get on the close of the same day, February 28th. The bonds are
+in an up Trend on the 15 minute chart, but in a down Trend on the daily. The Trend is
+down weekly-based, but up monthly-based. If your trading methodology uses Trend as a
+part of its defining characteristic and you don't know your Time Frame, you are lost.
+CHART 2-1
+
+=== PAGE 39 ===
+
+Chapter 2 Prerequisites, Ground Rides & Definitions 21
+CHART 2-2
+CHART 2-3
+
+=== PAGE 40 ===
+
+22 DINapoli Levels
+Furthermore, if I predefine the Trend by a set
+of indicators or by other criteria, I cannot
+make the determination of what the Trend is
+without the required criteria, regardless of
+how a chart may appear subjectively.
+Consider the following two charts. They are
+both daily segments of the monthly chart
+shown above. Chart 2-5 is shown without our
+predefined Trend indicator, the DMA. It
+would be easy to say the daily Trend is up, if
+you looked only at the sample of data shown
+in Chart 2-5.CHART 2-4
+CHART 2-5

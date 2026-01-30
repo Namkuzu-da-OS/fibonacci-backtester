@@ -1,0 +1,422 @@
+
+
+=== PAGE 141 ===
+
+Chapter 7 Overbought & Oversold Oscillators 123
+STRATEGY 4:
+CHAPTER 6 discussed the Directional Indicator called Stretch. It uses an Overbought/
+Oversold maximum Oscillator level, in combination with a major Fibonacci resistance or
+support area, to locate a trade entry range. This is Strategy 4. Admittedly, countering an
+existing Trend can be risky. It is, nonetheless, worthwhile because the combined strength
+of these two powerful indicators is substantial.
+CHART 7-6
+Since we haven't covered Fibonacci analysis yet, I will jump ahead a bit, with the
+following explanation. I suggest that you reread this after completing CHAPTERS 8
+through 11, if you don't understand it now. The example above, Chart 7-6, showing daily
+bonds, was chosen for a couple of reasons. The cursor is placed on the initial Stretch sell.
+From that point, price reacted down to Fibonacci support and then achieved a Logical
+Profit Objective (COP) on the upside which was in Agreement with the .618 retracement
+of the down move from A to B. This is the same Fibonacci Retracement area that helped
+to give us the initial Stretch sell. To reiterate, if at approximately the same price of
+maximum Overbought, you have a significant Fibonacci resistance area, act on this
+combined level as an entry range to sell
+
+=== PAGE 142 ===
+
+124 DiNapoli Levels
+IMPORTANT POINTS TO NOTE:
+The initial Stretch sell gave us two hard down days. It was the setup signal for the break.
+Do you realize how much you can make on a high probability break, where all the intraday
+trends are in your favor and you can margin up on your selling? If you have high
+confidence, you can pile up on size and walk away with the loot. You don't need a five
+point down move to score big; what you do need is patience for the set up and confidence
+in what is unfolding. In this case, the intraday down trend after the resistance was met,
+would have supported an aggressive short position, all the way to a support level which
+was measurable ahead of time by techniques covered in CHAPTERS 9 and 10 .
+On the rally back to the marginal new high, we only managed to achieve a move back to
+major Fibonacci resistance, as noted above. The Detrended Oscillator was still high and
+you then had an opportunity for a second shot at the short side. When we determine
+ahead of time, the level of Overbought or Oversold, corresponding to a given price level,
+we can make an informed and confident decision about how we wish to handle a given
+trade.
+Every rose has its thorn, and stop placement, utilizing Stretch, can be prickly, since you
+are countering an existing move. If, for example, your entry sell level was at
+approximately the close minus MA maximum level, a safe stop may need to be placed at
+the high minus MA maximum level or behind another, more distant Fibonacci area. I
+never place money stops in the market. If a safe stop exceeds my money stop, I just
+don't take the trade.
+Since we're on the topic of Oscillators, now is a good time for a prohibition. Don't use an
+Oscillator to price divergence as an entry technique, unless you have an excellent means of
+filtering it. In our last example, there was a divergence signal that worked between the
+initial high and the rally back high, but this is not a high probability signal. Even for the
+best of Oscillators this can, and often does, spell disaster, particularly for the new
+participant. Look back at Chart 7-2, as well as other charts contained herein. Price and
+Oscillator divergences abound, and the market continues to stop out the divergence
+players. Looking back in time, you're sure to find divergences that work, but when you're
+going forward in time, as in real trading, the accuracy of this technique just isn't there.
+
+=== PAGE 143 ===
+
+Chapter 7 Overbought & Oversold Oscillators 125
+STRATEGY 5:
+Special applications of the Detrended Oscillator to determine major Trend changes.
+There are a variety of such applications. I'll offer one example. The idea behind this
+strategy is that long term Detrended Oscillator breakouts can be more significant than long
+term price breakouts. Look at Chart 7-7, monthly gold.
+CHART 7-7
+For the first time since the 1980 break in the gold market, we have an Oscillator reading,
+monthly basis, which significantly surpassed previous peaks, corresponding to run ups in
+price. I am not concerned with the divergence the Oscillator has made versus price, but
+rather with the fact that the Oscillator value has surpassed its previous rally high after a
+long move down. Note also that when we are measuring momentum in this context, we
+use the high minus Moving Average or the low minus Moving Average, rather than the
+close. This is because momentum in this context is attempting to measure the maximum
+push behind the market, rather than its strength at a given point in time.
+
+=== PAGE 144 ===
+
+126 DiNapoli Levels
+This indicates that the bear market in gold is over and that we are likely to be in for a
+period of prolonged consolidation or an up move. To confirm this supposition we would
+like to see the 47.71 level significantly surpassed in the next gold rally. It would also be
+nice to see the pullback in gold contained in an ascending pattern. So far this has not
+occurred.
+I've alluded to volatility breakout techniques in CHAPTER 1 and under Strategy 2, in this
+chapter. The idea behind the success of such methods is that volatility peaks precede price
+peaks and there is validity in this reasoning. The gold example is really a variation of this.
+While I will not endeavor to cover fully the details of how I handle extremes in volatility, I
+will make the following comments so you can understand my general approach. First, you
+don't know you have an extreme (let's say twice average Overbought or Oversold) until
+after the fact, so I prefer to take my profits as I near Overbought or Oversold, as stated
+earlier. When, in hindsight, I see a true breakout in volatility, I employ the techniques in
+CHAPTERS 9, 10, 11, and 13, to enter in the Direction of the breakout. Second, I attempt
+to filter any such breakout to eliminate blowoffs which will produce amazing volatility
+breakouts but by definition, the termination of any extreme in price.
+Finally, as I have suggested, if you are an intraday player, use daily Overbought/Oversold
+data for calculation of Detrended Oscillator or Oscillator Predictor™ levels. If you trade
+daily-based, pay attention to daily and weekly Overbought/Oversold levels. If you trade
+weekly-based, i.e. using a weekly chart, be aware of both weekly and monthly Oscillator
+levels. Long term mutual fund switching can be greatly enhanced by using these
+techniques .
+Above all, please keep in mind a market axiom I have been stressing for years. It is
+inherent in my market approach and should be gleaned from the afore-mentioned rules.
+LOSS OF OPPORTUNITY IS PREFERABLE TO LOSS OF CAPITAL!
+
+=== PAGE 145 ===
+
+Chapter 7 Overbought & Oversold Oscillators 127
+THE OSCILLATOR PREDICTOR™:
+In the early 80s, I decided that I needed a means of capturing profit that was more
+efficient than any I had seen to date. At that time, I was unaware of Fibonacci Expansion
+Analysis and although the Displaced Moving Averages I had developed gave me
+reasonable entries, I gave back more "paper profit" than I wanted to in the exit strategies I
+was using at that time. Any paper profit was to me, my profit. I had assumed risk to
+achieve that profit. I had done considerable work to enter the trade initially and I didn't
+want the market taking any of it back! The problem simply stated was, "How could I exit
+on extremes in price, rather than wait for a DMA crossover?" Since I was convinced the
+Detrended Oscillator was my best Overbought/Oversold tool, and using my background as
+an engineer, I reasoned that a set of parametric equations could be created which would
+produce, a day ahead of time, the price level that would correspond to an OB/OS
+condition in the market. I approached my programmer, George Damusis, with the
+problem. He crawled off to his office for two weeks and after applying his considerable
+talents to the challenge, the mathematics behind the Oscillator Predictor™ were created
+and the study was graphically programmed into the CIS TRADING PACKAGE.
+Consider what this discovery meant to me. I could accurately forecast a full day ahead of
+time what level of price would produce a logical (historically-based) profit, a
+businessman's profit. When you take Logical Profit Objectives, your percentage of
+winning trades can't help but increase. The main problem in taking logical profits is the
+lack of knowledge traders have in attempting to re-enter the market at a lower risk point.
+This issue is addressed in CHAPTERS 8 through 13.
+Appendix G shows an example of how the Oscillator Predictor™ works in practice.
+
+=== PAGE 146 ===
+
+128 DiNapoli Levels
+SUMMARY
+Before we get into the Fibonacci work, let's do a quick summary of the overall plan,
+(CHAPTER 3), and see what we've learned so far:
+THE NECESSARY ASPECTS OF A SUCCESSFUL TRADING APPROACH
+1. Money and self management
+See the Bibliography and the Reference material sections.
+2. An understanding of market mechanics
+References on market mechanics have been made as we have progressed to this
+point. When appropriate, more references will be made. For more information,
+see the reference materials.
+3. Trend and Directional analysis
+Lagging and Coincident Indicators theory has been covered.
+We've learned how best to identify Trend.
+We've learned about certain very powerful Directional signals that overrule Trend.
+4. Overbought/ Oversold evaluation
+The theory has been covered.
+We've learned how to effectively filter and quantify trades.
+We've learned how to take certain Logical Profit Objectives.
+THE BOTTOM LINE IS:
+WE NOW KNOW WHETHER TO BE LONG, SHORT, OR OUT OF A GIVEN
+MARKET, AND WE HAVE A MEANS OF DETERMINING WHETHER OR
+NOT A TRADE WELL HAVE A REASONABLE EXPECTATION OF A GAIN.
+5. Market entry techniques (Leading Indicators)
+Next we'll see how to position ourselves as safely as possible, within a market that
+we have chosen to enter according to the above criteria. We will also investigate
+powerful stop placement techniques.
+6. Market exit techniques (Leading Indicators)
+Then, we will cover additional methods of determining Logical Profit Objectives.
+
+=== PAGE 147 ===
+
+SECTION 3
+All of today's markets have something in common. Whether we are dealing with futures
+contracts, foreign exchange, equity markets, or even mutual funds. Speed and volatility
+have increased dramatically. What used to be a days range in the S&P in 1983 is now
+apparent in one bar on a five minute chart! Regardless of what you are trading,
+yesterday's methods are ill-equipped to handle today's challenges. The proper use of
+Leading Indicators address this issue.
+
+=== PAGE 148 ===
+
+ 
+
+=== PAGE 149 ===
+
+CHAPTER
+FIBONACCI ANALYSIS, BASIC
+GENERAL DISCUSSION:
+Perhaps in the years to come you might use a portion of your trading profits to travel to
+some of the great cultural centers of present and past civilizations. If you do, you will
+find as I did, that Fibonacci relationships are intrinsic to the architecture of Athens,
+Rome, Amsterdam, Paris, Egypt, many areas of South America, and so on. There's an
+elemental resonance to the way these aesthetically pleasing shapes derive from these
+mathematical road maps.
+
+=== PAGE 150 ===
+
+132 DiNapoli Levels
+You can observe a curious evolution of Fibonacci expansions played out in musical
+progressions, crystal formations, and even in the growth of rabbit populations. Whether in
+the DNA spiral, the preprogrammed construction of a bee hive honeycomb, or the
+inspirational great pyramid of Giza, Fibonacci relationships abound. The human body
+itself is a study in Fibonacci relationships. Recently, at one of my workshops I met a
+surgeon who had done his graduate thesis on facial reconstruction. The thrust of his study
+was to quantitatively relate post surgical success in appearance with how closely the
+reconstructed bones approximated the "Golden Mean." There is no denying that
+Fibonacci ratios and the numbers that generate these ratios are innate in all matter.
+It takes no great leap of mental agility therefore, to expect that the combined activity of
+mankind will somehow follow these precepts. This is particularly apparent relative to the
+markets, since markets are linked so closely to the overriding human emotions of greed
+and fear.
+A LITTLE HISTORY:
+Leonardo was born the son of Guilielmo Bonacci, a wealthy merchant in Pisa about 1170.
+In Italian, "figlio" means "son," hence "figlio Bonacci" which was shortened through the
+years to Fibonacci. Signior Leonardo Bonacci was a preeminent mathematician of his
+time. He's credited with the discovery of the numerical sequence and ratios that have
+come to be known as the Fibonacci series.
+
+=== PAGE 151 ===
+
+Chapter 8 Fibonacci Analysis, Basic 133
+Discovering the Fibonacci series is sort of like discovering America. I'm sure the Indians
+knew about it before Columbus did. Likewise the proportions defined by the
+mathematical relationships so important to us as traders, have been around for quite some
+time.
+The Golden Mean or Golden Ratio 1.618, to 1 (or .618 to 1) which among other things
+closely approximates the cost of this book, has had many names. The Greeks designated
+the ratio by the letter "phi." Pacioli, a medieval mathematician, named it the "divine
+proportion." Kelper called it "one of the jewels of geometry." Somewhere along the line,
+someone dubbed it the "ratio of the whirling squares." I'm glad that one didn't stick.
+Consider the implications for the title of this book: "The Practical Application of Whirling
+Squares to Investment Markets."
+DERIVATION:
+The Fibonacci number series has more interesting aspects to it than most of us can imagine
+or would wish to. While we might get dizzy considering the possibilities, it's a
+mathematician's hot fudge sundae, and then some. Consider the series as most of us know
+it. 1, 1, 2, 3, 5, 8, 13, 21 and so on to infinity. We arrive at the series by simply adding the
+last two numbers together, beginning with 1,1. The ratios come about from dividing the
+numbers in various ways. If we divided 13 by 21 for example, we get .619 while 21
+divided by 13 = 1.615. If we skip a number and divide 8 by 21 we get .381. Conversely,
+21 divided by 8 is 2.625. The higher we go in the number series, before dividing, the
+closer we come to achieving the exact numerical Fibonacci ratios. We never achieve this,
+however, since there are an infinite sequence of decimals stringing after it. This is known
+in mathematics as an irrational number.
+One interesting aspect of the summation progression is that it doesn't matter where we
+start. We can take any two numbers, like 5 and 100. Soon we're dealing with the same
+series.
+5, 100, 105, 205, 310, 515, 825, 1340, 2165
+1340 divided by 2165 = .6189
+2165 divided by 1340 = 1.616
+
+=== PAGE 152 ===
+
+134 DiNapoli Levels
+While it is known that Mr. Fibonacci "discovered" the series after a trip to Egypt, I get a
+different image when I think of him. Imagine the son of Bonacci sitting under a tree some
+time in the 13th century, after consuming a great bowl of pasta. He'd likely run out of
+fingers and toes and had to go to his abacus when the lights suddenly went on. It must
+have been something like the way I felt when I began applying his discovery to the
+S&P...as in
+WOW !!!
+I could go on at great length about the poetry of Fibonacci relationships, but if I did, I'd
+never get to their practical application to the markets. If you want to pursue the subject,
+many books have been written discussing the more esoteric aspects1. They certainly do a
+better job of describing the mathematics involved than I have. Besides, my lack of
+reverence toward the subject is bound to upset some people. So, I will leave the poetry,
+the derivation, and the history of Fibonacci numbers and ratios to others. This book is
+about practical application of Fibonacci concepts to the market, and in that vein, I will
+bring us back to reality and repeat the following prohibition for those of you who have
+galloped ahead to this chapter.
+FIBONACCI ANALYSIS SHOULD ONLY BE APPLIED IN THE PROPER
+CONTEXT, WITH PROPER TRAINING, AND AS A PART OF AN OVERALL
+PLAN.
+1 Many sources of information on Fibonacci-related mathematical concepts are listed in the reference
+section located at the back of this book.
+
+=== PAGE 153 ===
+
+Chapter 8 Fibonacci Analysis, Basic 135
+GUIDE-POSTS:
+What will, and what will not, be covered in the following chapters.
+WILL:
+$ Basic Fibonacci Expansion and Retracement Analysis applied to the price axis.
+$ My Interpretation of Advanced Fibonacci Expansion and Retracement Analysis applied
+to the price axis, i.e. "DiNapoli Levels™."
+WILL NOT:
+Any application whatsoever of Fibonacci analysis to the time axis
+The utilization of Fibonacci numbers in any way (I use certain ratios only)
+Fibonacci Ovals
+Fibonacci Arcs
+Fibonacci Spirals
+Fibonacci-inspired Bands
+Fibonacci-inspired Trend lines
+The comparatively minor Fibonacci ratios such as .09, .146, .236, .5.0,
+1.382, 2.618, etc.
+The topics that I'm not covering are interesting. Some have merit in their own right.
+However my experience, research, and direct application to trading strongly suggest that
+they aren't worth the time they take to employ, particularly at this point in your learning
+curve. Since they unduly complicate the picture, I will concentrate only on those ideas
+and concepts which I have found to be the most useful and practical.
+
+=== PAGE 154 ===
+
+136 DiNapoli Levels
+BASIC RETRACEMENT ANALYSIS UTILIZING THE TWO MAJOR RATIOS
+.382 AND .618:
+CHART 8-1
+Chart 8-1 depicts a down move from point A to point B. Retracement theory states that
+you measure the vertical distance of the wave between these two extremes of price,
+(points A and B) and calculate the .382 retracement of this move. At that point, there will
+definitely, and without doubt, be resistance (selling) to any up move.
+Retracement theory does not say that prices must stop there, only that there will be
+significant resistance to further movement.
+If price action exceeds the .382 retracement level and continues up, there will definitely,
+and without doubt, be additional significant resistance at a .618 retracement of the same
+down wave. Will the market stop there? We don't know, but if you were looking to sell
+that market (context), either point would be an excellent level to initiate sell orders. If you
+
+=== PAGE 155 ===
+
+Chapters Fibonacci Analysis, Basic 137
+were looking for stop placement areas, hiding your stop behind either level would be a far
+better approach than picking an arbitrary money stop.
+CHART 8-2
+In Chart 8-2, we likewise have a move from Point A to Point B. This time it's up.
+Fibonacci Retracement Analysis tells us there will be predictable support at a .382 and a
+.618 retracement of the extremes of this wave.
+
+=== PAGE 156 ===
+
+138 DiNapoli Levels
+Here are the equations relating to the above criteria.
+FIBNODE EQUATIONS
+F3=B-.382(B-A)
+F5=B-.618(B-A)
+F3 is the 3/8 Fibnode or .382 retracement.
+F5 is the 5/8 Fibnode or .618 retracement.
+These are slang representations of retracement levels that are traceable back to early Gann
+work, which referred to 1/8 points as support or resistance levels2.
+Fibnodes are numbers generated from the application of the above equations. Two (or
+more, as you will see) Fibnode pairs are created per market swing (wave). They will elicit
+support if they are approached from above or resistance if approached from below.
+NOTE: I said extremes of this wave, not closes, not hourly medians, not the average of the
+last two highs before the standard deviation crossover of... get the idea? It's the high and
+low you are interested in!
+2 For those of you who have heard me speak in person or in taped workshops, you know I often refer to Fibnodes as
+3/8ths or 5/8ths Fibnodes.
+
+=== PAGE 157 ===
+
+Chapters Fibonacci Analysis, Basic 139
+For clarity, idealized bar charts will most often be represented as line charts in the
+following chapters. These line charts will always be drawn between the extremes of the
+move, (lows to highs, highs to lows) within a Market Swing. See Chart 8-3.
+BAR CHART LINE CHART
+CHART 8-3
+If you are ever confused about applying the advanced Fibonacci techniques (DiNapoli
+Levels) taught in this book, create a line chart that accurately mirrors the bar chart you are
+analyzing. That simple procedure will shorten your learning curve significantly.
+
+=== PAGE 158 ===
+
+HO DiNapoli Levels
+BASIC FIBONACCI EXPANSION ANALYSIS UTILIZING THE THREE
+MAJOR EXPANSION RATIOS .618, 1.0, AND 1.618:
+The mathematical relationships described by Expansion Analysis, control or specify the
+growth patterns of price, thereby providing you with Logical Price (profit) Objectives.
+We refer to these as Objective Points (OPs). Three targets or objectives can be calculated
+from any ABC Market Swing. The initial thrust may be up or down as in Chart 8-4.
+Typically, C is within the Market Swing of wave A B but that it is not an absolute
+necessity.
+CHART 8-4
+
+=== PAGE 159 ===
+
+Chapter 8 Fibonacci Analysis, Basic 141
+The formulas below are used to calculate these profit objectives. The price chart can then
+be extended from Point C in the direction of wave A B. These extensions are shown as
+dashed waves signifying the likely progressions of price.
+OBJECTIVE POINT EQUATIONS
+OP = B - A + C OBJECTIVE POINT
+COP = .618 (B -A) + C CONTRACTED OBJECTIVE POINT
+XOP = 1.618 (B - A) + C EXPANDED OBJECTIVE POINT
+Some previous works on this subject, as well as certain well publicized theory, suggest
+that the expansion start at the B high or low, rather than at the Point C retracement. My
+research and experience lead me to disagree with this. Use Point C to begin your
+expansion. If the expansion on a down wave goes below zero, realize that negative
+numbers are not "recognized." Otherwise someone would be paying you to take their
+stock, or their corn, off their hands. Excluding certain tax shelters, I don't know where
+that occurs.
+Expansion analysis says nothing about time. The dashed wave is shown achieving the
+various objectives at different times, for clarity only. In fact, it is possible for a given AB
+wave to reach all three Objective Points, after some reaction, likely against Fibnodes. In
+cases of strong Directional moves, price may go immediately to the XOP. The strength of
+the market during the AB leg, as well as the lack of strength or depth of the retracements
+on the BC leg, help us to determine which of the three price objective targets is initially
+met. OP stands for Objective Point; COP for Contracted Objective Point, since it is the
+smallest of the three possible objectives; XOP for Expanded Objective Point, since it is the
+largest. Generally speaking, OP targets are met more often than COP targets, before a
+significant retracement occurs. XOP targets are least frequently fulfilled.
+There are other valid Fibonacci expansion ratios, but a trade off must be made between
+excessive clutter and proven reliability. My research and experience shows the expansions
+stated above are most reliable and most worthy of our attention This should become
+apparent when you see how these ratios are used, combined, and applied in the next
+chapter DiNapoli Levels.
+
+=== PAGE 160 ===
+
+142 DiNapoli Levels
+FREQUENTLY ASKED QUESTIONS:
+Could you discuss the concepts of Fibonacci arcs?
+Although my area of expertise is Fibonacci analysis, that doesn't mean I use all aspects of
+applying this analysis to the markets. My specialization involves the practical application
+of Fibonacci analysis to the markets. In other words, how can we make money out of this.
+I researched Fibonacci arcs back in 1989. They were not useful enough for me to include
+in my trading methodology. If you wish to pursue this path, the reference section contains
+material on this and related subjects.
+You use a 7 day oscillator, a 7x5 and a 25x5 Displaced Moving Average but 7 and 25 are
+not Fibonacci numbers. Why do you use them ?
+I don't care if they're not Fibonacci numbers! Seven and 25 work in the studies you cited.
+I'm not a Fibonacci zealot. / use what works!
+Why docs Fibonacci theory work?
+To some extent, it is a self-fulfilling prophecy since certain knowledgeable entities, both
+large and small, successfully employ it. That is not a sufficient explanation however.
+Fibonacci theory is natural law. All of us have our own tolerance for risk, pain, and fear.
+We also feel degrees of greed. While each of these feelings are expressed in varying
+degrees, the average of these emotions for a crowd are somehow quantified by these
+mathematical relationships, and faithfully expressed in the markets.

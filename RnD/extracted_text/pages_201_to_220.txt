@@ -1,0 +1,347 @@
+
+
+=== PAGE 201 ===
+
+Chapter 11 Trading With DiNapoli Levels 183
+In Chart 11-5C, there are two independent Fibonacci Resistance series i.e., two Focus
+Numbers FRl and FR2, each "owning" one Reaction Point. For clarity, only the Fibnodes
+for the FRl series are shown. If you think the FR2 series is too small to bother with,
+consider that I have not labeled the 11-5 series of charts with a Time Frame. I have made
+them small on purpose. If we are looking at a five minute chart, the Nodes created from
+the FR2 to 1 wave might be safely ignored, but what if this represented a weekly Time
+Frame?
+Chart 11-5D shows a support Node that will act as a Logical Profit Objective for a
+position on the short side. The .382 Node has been taken out by price and therefore is not
+shown. The position of the .618 Node is such that the price is on a LPO right now!
+Which of the LPOs we take, will depend on the context of the trade and the criteria we
+established for our original entry2.
+Here are some context issues to consider when we determine which profit objective to
+take.
+1. How overbought or oversold are we?
+2. Are we in this trade because of a Directional Indicator or a Trend Indicator?
+3. Are the higher Time Frame Trends with or against us?
+4. Are we about to get a confirmed or unconfirmed Trend signal in a higher time
+frame that will support our trade?
+5. For intraday traders, we want to know how close we are to the end of the day!
+6. Was thrust apparent on the A B leg?
+7. Are we nearing our stress point? Newer traders are often more comfortable
+with losses than profits. If you feel undue stress because of the level of
+profitability, take a close in objective before you act irrationally.
+2 Now would be a good time for you to reread the Directional Indicator material in CHAPTER 6 relating
+to "Bread & Butter."
+
+=== PAGE 202 ===
+
+184 DiNapoli Levels
+MORE ON STOP PLACEMENT:
+We'll take a look at an up move, to consider more thoroughly stop placement techniques.
+The same reasoning applies equally to down moves.
+DiNapoli Levels can have a significant effect on how you place stops, beyond what has
+already been discussed. Let's take a look at stop placement behind, against, or in the
+vicinity of old market highs or lows.
+Have you ever considered why, on one occasion the market blows through an old high like
+gangbusters, and on another, the market holds firmly in the vicinity of, but not necessarily
+at the old high? Take a look at the following examples.
+CHART 11-6
+Due to the small extent of the pull back of the B-C leg, the COP would have been
+significantly higher than Point B. It therefore would not have presented any resistance in
+the vicinity of the previous high at B. If you had a stop in the vicinity of B, and it is
+exceeded, you would have stood a good chance of being hit hard, since there was nothing
+to stop the market from brisk Movement up.
+
+=== PAGE 203 ===
+
+Chapter II Trading With DiNapoli Levels 185
+CHART 11-7
+In the situation depicted in Chart 11-7, the protective stop is less likely to be hit, and if it
+is, your fill is more likely to be reasonable. You not only have some inherent resistance
+from an old market high, but you also have the additional resistance applied from the
+COP. This helps the high at B to remain intact.
+CHART 11-8
+In the situation depicted in Chart 11-8, Point C is slightly higher than a .618 retracement
+of the same AB up move. Stop placement should account for the location of the COP and
+be placed above the expansion, not just above the preceding high.
+
+=== PAGE 204 ===
+
+186 DiNapoli Levels
+In Chart 11-9 below, we see a variation of the same stop placement criteria shown in the
+previous charts. In this case, the up leg is forming a COP, just before the previous high,
+thereby increasing the chances the previous high will hold.
+CHART 11-9
+This phenomenon is played out in the weekly U.S. Bond Chart 11-10, as the twin tower,
+all-time highs were formed. COP resistance halted a move to new high ground.
+
+=== PAGE 205 ===
+
+Chapter 11 Trading With DiNapoli Levels 187
+CHART 11-10
+Once you become familiar with DiNapoli Levels, you will see a poetry evolve in market
+moves that is truly fascinating. It's like holding a prism up to white light and seeing the
+colors of the entire spectrum emerge.
+
+=== PAGE 206 ===
+
+188 DiNapoli Levels
+PRESENTATION:
+At this point in the book, I think it's fitting to digress a minute and discuss the
+presentation of the upcoming market examples. This book has been self-published,
+because I wanted to control the material. If it is accepted as a useful and competent work,
+I'll be very pleased. If it is not, it won't be because an editor who knows nothing about
+trading cut the heart out of it. While I have maintained control, such control involves
+risks.
+Presumably, you're studying this book because you want to find out more about my
+trading techniques, or about the specific topics the book deals with. Up to this point, I've
+mentioned certain products Coast Investment Software (CIS) offers, primarily as
+footnotes. That is as it should be.
+The safe way to handle the upcoming examples would be to keep the presentation generic.
+The problem with that approach is that it's not the best method to help you learn, nor is it
+the best method for me to teach. My work is most efficiently and lucidly taught, if I use
+the tools I have developed, so that you can see what I 'm doing The FibNodes™ program
+is such a tool. The Proportional Divider previously mentioned is another such tool. These
+are both products that CIS offers. You can get around the use of these tools if you
+choose to, but my job of teaching the material and your job of learning the material is
+made much easier by their inclusion in this book.
+The FibNodes program allows the user to represent in a tabular format, the Retracement -
+and Expansion points we've been talking about. It also allows for identifying characters
+to be associated with the Nodes it creates so Lineage can be established. This feature
+bears repeating for two reasons. First, Lineage is a part of the methodology that some of
+my students tend to ignore - to their regret. Second, if you choose to use a spreadsheet to
+implement the concept, you need to build a Lineage feature into it. The FibNodes
+program has other features designed for high intensity data management during the trading
+experience and has been designed as a high quality trading tool. The next few pages will
+explain the FibNodes program printouts only to the extent that is necessary for you to
+most easily understand the way I have developed and use Fibonacci analysis. A list of
+the FibNodes program features can be found in Appendix F.
+
+=== PAGE 207 ===
+
+Chapter 11 Trading With DiNapoli Levels 189
+FIBNODES™ PRINTOUTS:
+For your understanding of the concepts taught in this book, we are utilizing FibNodes
+software, DOS version 4.32, from which all printouts are generated. The program can
+handle up to 30 Reaction Numbers. Typical printouts will contain three or four Reaction
+Numbers. In practice, I seldom use more than 12 per file, since 12 fit conveniently on the
+monitor and are reasonable to keep track of. Upon entering any Reaction Point, you can
+enter an identifying character (such as '*') after the last digit of the Reaction Number.
+This character will be carried through to the Fibnodes associated with the particular
+Reaction Point you select.
+Charts 11-11, 11-12, and 11-13 illustrate the presentation of data in the FibNodes
+program.
+17 Apr 97 13:47:44 Updated: 04/17/1997 .03820.618
+Focus Number File C-930 Focus# (High for the swing)
+Point Number Support Fib Nodes Point# (Enter highest reaction low first)
+CHART 11-11
+
+=== PAGE 208 ===
+
+190 DiNapoli Levels
+17 Apr 97 13:47:44 Updated: 04/17/1997 .03820.618
+Focus Number File C-930 Focus# (High for the swing)
+Point Number Support Fib Nodes Point# (Enter highest reaction low first)
+CHART 11-12
+17 Apr 97 13:47:44 Updated: 04/17/1997 .03820.618
+Focus Number File C-930 Focus# (High for the swing)
+Point Number Support Fib Nodes Point# (Enter highest reaction low first)
+
+=== PAGE 209 ===
+
+Chapter 11 Trading With DiNapoli Levels 191
+We have an idealized example of a Market Swing, starting at 225, achieving a high, then
+retracing to 540 and thrusting up to 750. User inputs to the FibNodes™ program are 750,
+540T, and 225*. They are shown on the left side of the FibNodes printout. The Focus
+number 750 is automatically entered for each segment (1 & 2) since Fibnodes within a
+series are always created from the same Focus Number to each Reaction Number. Box 1
+contains the .382 and .618 retracements between the Focus Number and the first Reaction
+Point. Box 2 contains the .382 and .618 retracements between the Focus Number and the
+second Reaction Point and so on. Whether the FibNodes file is a support or a resistance
+file, .382 Nodes will always be shown at the top of the box, while .618 Nodes will be
+shown at the bottom of the box. This is done for two reasons. First, when you are
+trading, you want to see the first number which is likely to provide support or resistance in
+the current market situation. Second, the form of the printout with the top numbers
+always .382 Nodes and the bottom Nodes .618, allow you to easily and quickly pick out
+Confluence by comparing top and bottom numbers. If two reactions are close to one
+another, they will produce Nodes that are numerically close but both Nodes will be on top
+or both will be on the bottom. Therefore they are not areas of Confluence. I always try to
+make things as fool proof as possible for my own trading, since stress tends to eat up IQ
+faster than multi-tasking eats up computer memory.
+You can also enter any variety of identifying characters you choose, to indicate the
+Lineage of a given Reaction Point. 'D' can be used for a daily Reaction Point, 'M' for a
+major point. Some Reaction Numbers are more significant than others, so the capacity to
+enter letters for clarification after the Reaction Point, is of substantial analytical value. In
+our idealized example, Reaction 2 is followed by '*' indicating that it is the primary
+Reaction Number and T' follows Reaction 1 indicating thrust. These characters are
+carried through automatically to the associated Fibnodes by the software.
+Finally, naming FibNodes™ files is up to the user but the naming convention I use can help
+you to figure out what any example is illustrating . Odd numbered FibNodes file names
+are resistance files and even numbered names are support files. You can get other
+information as well. In our next example, the Dow file is named DJYR02. DJ is the
+instrument, YR the Time Frame, 02 indicates support. If DA was in the name, instead of
+YR, it would indicate a Daily file. A five minute FibNodes resistance file of the September
+S&P would be named SPU051.
+SP - S&P 500
+U - September
+05 - 5 minute
+1 - Resistance
+
+=== PAGE 210 ===
+
+192 DiNapoli Levels
+DOW EXAMPLE:
+In the Dow example, utilizing the high in 1987 at 27363, I placed an asterisk after the 41
+Reaction Point, upon entry into the software, since 41 is the primary reaction low, i.e. the
+depression low occurring, of course, after the 1929 market crash. The low in 1957 was
+relatively minor, so the small letter 'm' has been inserted to let me know how strong these
+Fibnodes are likely to be. The low of 777 in 1982 deserves a capital 'M' since it was a
+major point, the beginning of this incredible bull market. You can see the sharp ascent
+after the 1080 low up to 2736. Therefore 1080 gets a 'T' for thrust. Thrust Reaction
+Numbers are extremely important, for a variety of reasons. The FibNodes printout below
+details Fibnode support and shows a clear area of Confluence between the Thrust Fibnode
+at 1712 and the Primary F3 Fibnode at 1707. Those of you who were around and trading
+during the nearly 1000 points in four day crash and 500 point single day decline, know
+just how gut-wrenching this experience was. We had a negative premium of thousands of
+points in the S&P cash to futures spread, with no end in sight and suddenly all this was
+stopped dead in its tracks at 1706.90, by precalculated Fibnode Confluence support!
+THIS WAS NOT AN ACCIDENT!
+CHART 11-14
+3 The Dow values used in this example arc the actual print value, not the averaged (mythical) high and
+low theoretical values, as published in some financial newspapers.
+
+=== PAGE 211 ===
+
+Chapter II Trading With DiNapoli Levels 193
+22 Apr 97 15:27:24 Updated: 04/22/1997 0.382 0.618
+Focus Number File DJYR02 Focus# (High for the swing)
+Point Number Support Fib Nodes Point* (Enter highest reaction low first)
+CHART 11-15
+
+=== PAGE 212 ===
+
+194 DiNapoli Levels
+FIBNODE™ OBJECTIVE PRINTOUTS:
+In addition to providing Retracement Numbers (Nodes) at which to enter trades,
+FibNodes provides you with Logical Profit Objectives which we refer to as Objective
+Points (OPs). The three targets, or objectives we've been discussing have printouts that
+look like this:
+CHART 11-16
+The numbers on the left side of this printout are the values of the A, B, & C points. The
+numbers on the right side of the printout are the calculated Objective Points.
+If you see any extensions on the end of FibNode file names (.FIB .OP), don't be confused.
+These extensions help the program and therefore the trader to more quickly and easily
+locate previously generated files.
+
+=== PAGE 213 ===
+
+Chapter 11 Trading With DiNapoli Levels 195
+AGREEMENT ON THE BOND CONTINUATION:
+Now that you're familiar with FibNodes printouts, let's consider an example of Agreement
+that nailed a major weekly low in U.S. bonds. We'll look at the same chart of the U.S.
+bond market we looked at earlier, but we'll label it in order to determine where likely
+support will come in, after the double top at the 122 level.
+The area of Agreement between the COP (10528) of the A, B, C and the '*' support
+Node of the up move 1 to F, shown on Chart 11-17, held firmly. Subsequently this area
+led to a rally in the bonds, from 10528 to a high of 117 a few months later, which was an
+approximate .618 retracement of the preceding down move! See Chart 11-18.
+CHART 11-17
+
+=== PAGE 214 ===
+
+196 DiNapoli Levels
+These are FibNodes Printouts detailing the support area in Chart 11-17.
+22 Apr 97 23:37:20 Updated: 04/22/1997 0.6181.618
+Point Value Objective Points File BDWK02 /in 32nds/
+A =12210 COP = 10528
+B = 9601 OP = 9527
+C = 12204 XOP= 7919
+22 Apr 97 23:37:43 Updated: 04/22/1997 0.3820.618
+Focus Number File BDWK02 Focus# (High for the swing) An 32nds/
+Point Number Support Fib Nodes Point# (Enter highest reaction low first)
+12204 1
+===> 11205 *
+===> 10600 *
+9601
+Copyright (c) 1996 CIS, Inc.
+
+=== PAGE 215 ===
+
+Chapter 11 Trading With DiNapoli Levels 197
+HIDDEN D-LEVELS™:
+In trading, when everyone knows something, it does no one any good. When you know
+something and everyone else finds out about it later, is does you a lot of good! If
+everyone believes the stock market or soybeans are going up, they are already long and
+that knowledge is factored into the market. If you know the outcome of a report or
+otherwise have inside information that is truly significant, then you can position yourself
+ahead of time and benefit from those that follow. Such is the case with hidden D-Levels.
+Consider Chart 11-19 below. Based on what you have learned so far, label the Focus,
+Reaction Numbers, and Fibnodes, before turning the page.
+CHART 11-19
+
+=== PAGE 216 ===
+
+198 DiNapoli Levels
+Did you include Lineage markings in your labeling? Below is the correct labeling of the
+chart in question. For clarity, the Fibnodes are not shown.
+CHART 11-19A
+Let's go over this Market Swing one label at a time. The Focus Number is the high of the
+move. Reaction 1 is the first low preceding the Focus Number. Three bars to the left of
+Reaction 1 is a slightly lower low, which could have been included in the labeling as 2m
+(for minor). I have omitted this reaction for clarity, since the Nodes it produces would
+have almost the same numerical value as those produced by the reaction labeled as
+Reaction 1.
+
+=== PAGE 217 ===
+
+Chapter 11 Trading With DiNapoli Levels 199
+The second reaction is the top of the gap or the bottom of the bar after the gap. This is a
+hidden Reaction Number and it produces Fibnodes other traders will not be aware of.
+Fibnode Confluence areas may also be produced which are transparent, even to traders
+with knowledge of advanced Fibonacci techniques.
+Reaction 3 carries no particular Lineage designation. For clarity, I chose it alone, rather
+than including the Reaction 3 bars to the left of it. Reaction 4 is particularly important
+since it is ofF a thrust bar. Like 2G, it produces hidden Fibnodes. 4T is more powerful
+than 2G, since Thrust Reactions are more significant than Gap Reactions. Reaction 5 has
+the small letter 'f' assigned to it to designate 'first.' This particular reaction is important
+for its ability to get you in the move There will be more on this in the advanced comments
+section coming up shortly. Reaction 6 is the Primary Reaction Number designated '*'.
+Try labeling Chart 11-20 before turning the page, with your enhanced knowledge of D-
+Level labeling.
+CHART 11-20
+
+=== PAGE 218 ===
+
+200 DiNapoli Levels
+This is the proper labeling, considering the hidden Reaction Numbers.
+CHART 11-20A
+
+=== PAGE 219 ===
+
+Chapter 11 Trading With DiNapoli Levels 201
+ADVANCED COMMENTS:
+If I'm trading an active market like the S&P, I'll usually insert reaction lows, even if they
+are close to one another, and label the lower one (in an up move) with the letter 'm' to
+indicate 'minor.' In the course of trading I will enter trades consistent with context of
+course, on the higher Fibnodes created, thereby insuring a fill. I observe the 'm' Fibnodes
+to determine the strength of the market, i.e. if I am filled and the 'm' Node is not broken,
+it indicates more strength than if the 'm' Node is hit or slightly exceeded. Without
+adequate software, or if you were only using dividers, including these minor Nodes would
+be inadvisable. The time it takes to calculate them and the clutter this presents,
+particularly on an intraday basis, would be counterproductive. Lines produced by graphics
+software splayed across the screen would be equally counterproductive.
+Remember earlier when I discussed the difficulty you would face when you bought or sold
+in the right areas? There is great demand for a fill when you are buying at or near the low
+point of a dip (DiNapoli, "The X'd Trade".) Using Nodes from a slightly higher Reaction
+Number, like 1 or 3 on Chart 11-19A can be invaluable since you need to get a fill to
+make any money! These Reaction Numbers produce Fibnodes that will enable you to be
+filled ahead of other traders. Mark the Fibnodes on the chart with your dividers if you
+don't implicitly understand this. See the more detailed labeling of Chart 11-19 on Chart
+11-21.
+
+=== PAGE 220 ===
+
+202 DiNapoli Levels
+CHART 11-21
+This same reasoning is the basis for my use of the 7f Nodes rather than 8* Nodes, upon
+entering orders. The world may be trying to buy at the .382 of 8*. Who knows about, or
+considers the .382 of 7f? If you try to be too conservative and buy at the .382 of 8*
+instead of just above the .382 of 7f, you 're more likely to get filled only when the Node is
+destined to break!
