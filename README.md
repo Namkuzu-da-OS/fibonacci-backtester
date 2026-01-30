@@ -33,7 +33,29 @@ XOP = 1.618(B - A) + C
 ## Installation
 
 ```bash
-pip install requests
+git clone https://github.com/Namkuzu-da-OS/fibonacci-backtester.git
+cd fibonacci-backtester
+pip install -r requirements.txt
+```
+
+## Configuration
+
+Set your market data API server URL via environment variable:
+
+```bash
+# Linux/Mac
+export SCHWAB_API_URL=http://your-server:8000
+
+# Windows (Command Prompt)
+set SCHWAB_API_URL=http://your-server:8000
+
+# Windows (PowerShell)
+$env:SCHWAB_API_URL="http://your-server:8000"
+```
+
+Or pass it directly in code:
+```python
+client = SchwabClient(base_url="http://your-server:8000")
 ```
 
 ## Usage
@@ -90,13 +112,23 @@ for fn in fibnodes:
 ## Requirements
 
 - Python 3.8+
-- Access to a market data API (configured for local Schwab server)
+- Access to a market data API that provides `/api/history/{symbol}` endpoint with OHLCV data
 
-## Configuration
+## API Requirements
 
-Update the API endpoint in `schwab_client.py`:
-```python
-def __init__(self, base_url: str = "http://YOUR-SERVER:8000"):
+The backtester expects an API with this endpoint:
+
+```
+GET /api/history/{symbol}?period_type=year&period=1&frequency_type=daily
+```
+
+Response format:
+```json
+{
+  "candles": [
+    {"datetime": 1234567890000, "open": 100, "high": 101, "low": 99, "close": 100.5, "volume": 1000000}
+  ]
+}
 ```
 
 ## References

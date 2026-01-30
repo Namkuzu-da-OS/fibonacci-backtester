@@ -1,12 +1,20 @@
 """
 Schwab API Client
 Connects to the local Schwab Trading Dashboard API
+
+Configuration:
+    Set SCHWAB_API_URL environment variable to override the default server URL.
+    Example: export SCHWAB_API_URL=http://localhost:8000
 """
 
+import os
 import requests
 from typing import List, Dict, Optional, Any
 from dataclasses import dataclass
 from datetime import datetime
+
+# Default API URL - override with SCHWAB_API_URL environment variable
+DEFAULT_API_URL = "http://192.168.10.239:8000"
 
 
 @dataclass
@@ -27,7 +35,8 @@ class Candle:
 class SchwabClient:
     """Client for the Schwab Trading Dashboard API"""
 
-    def __init__(self, base_url: str = "http://192.168.10.239:8000"):
+    def __init__(self, base_url: str = None):
+        self.base_url = base_url or os.environ.get("SCHWAB_API_URL", DEFAULT_API_URL)
         self.base_url = base_url
         self.session = requests.Session()
 
